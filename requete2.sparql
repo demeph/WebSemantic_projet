@@ -1,14 +1,18 @@
 # Requête N°2
-# 
+# Classements des régions possédant le plus gros budget total de recherche et de transfert de technologie par année
 
 
 PREFIX dbo:<http://dbpedia.org/ontology/>
 PREFIX dbp:<http://dbpedia.org/property/>
 PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema#>
 PREFIX ex:<http://test.org/>
+PREFIX xsd:<http://www.w3.org/2001/XMLSchema#>
 
-Select 
+Select ?annee ?region (sum(xsd:double(?valeur)) as ?sommeValeur) 
 Where {
- 	OPTIONAL {  }
+  	?p dbo:year ?annee.
+  	?p dbo:region ?region.
+  	?p dbp:amount ?valeur.
 }
-ORDER BY 
+Group By ?annee ?region
+Order By desc(?annee) desc(?sommeValeur)
