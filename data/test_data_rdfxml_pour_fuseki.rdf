@@ -1,0 +1,1419 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:ns0="http://dbpedia.org/property/"
+         xmlns:ns1="http://dbpedia.org/ontology/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://ex.org/budget/Equipement%20de%20laboratoires%20(%)1.59">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/budget"/>
+    <ns0:title>% Budget R&amp;T</ns0:title>
+    <ns1:abstract>Equipement de laboratoires (%)</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Auvergne-Rhône-Alpes</ns1:region>
+    <ns1:code>R84</ns1:code>
+    <ns0:amount>1.59</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </rdf:Description>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Op%C3%A9rations%20immobili%C3%A8res53.58">
+    <ns0:title>Budget R&amp;T</ns0:title>
+    <ns1:abstract>Opérations immobilières</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Auvergne-Rhône-Alpes</ns1:region>
+    <ns1:code>R84</ns1:code>
+    <ns0:amount>53.58</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Equipement%20de%20laboratoires2.6">
+    <ns0:title>Budget R&amp;T</ns0:title>
+    <ns1:abstract>Equipement de laboratoires</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Auvergne-Rhône-Alpes</ns1:region>
+    <ns1:code>R84</ns1:code>
+    <ns0:amount>2.6</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs8.66">
+    <ns0:title>Effort budgétaire des conseils régionaux en direction de la R&amp;T</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <rdfs:comment>Budget de R&amp;T par habitant des conseils régionaux (en euros)</rdfs:comment>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Hauts-de-France</ns1:region>
+    <ns1:code>R32</ns1:code>
+    <ns0:amount>8.66</ns0:amount>
+    <ns1:Organization>Conseils régionaux</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs6.08">
+    <ns0:title>Effort budgétaire des conseils régionaux en direction de la R&amp;T</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <rdfs:comment>Poids dans le budget total de R&amp;T des conseils régionaux</rdfs:comment>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Hauts-de-France</ns1:region>
+    <ns1:code>R32</ns1:code>
+    <ns0:amount>6.08</ns0:amount>
+    <ns1:Organization>Conseils régionaux</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs13.21">
+    <ns0:title>Budget R&amp;T réalisé dans le cadre des pôles de compétitivité</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Hauts-de-France</ns1:region>
+    <ns1:code>R32</ns1:code>
+    <ns0:amount>13.21</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs8.08">
+    <ns0:title>Budget R&amp;T réalisé dans le cadre des pôles de compétitivité</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Île-de-France</ns1:region>
+    <ns1:code>R11</ns1:code>
+    <ns0:amount>8.08</ns0:amount>
+    <ns1:Organization>Conseils départementaux</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs25.48">
+    <ns0:title>Budget R&amp;T réalisé dans le cadre des pôles de compétitivité</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Île-de-France</ns1:region>
+    <ns1:code>R11</ns1:code>
+    <ns0:amount>25.48</ns0:amount>
+    <ns1:Organization>Conseils régionaux</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Projets%20de%20la%20recherche%20publique%20(%)8">
+    <ns0:title>% Budget R&amp;T</ns0:title>
+    <ns1:abstract>Projets de la recherche publique (%)</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Île-de-France</ns1:region>
+    <ns1:code>R11</ns1:code>
+    <ns0:amount>8</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Aides%20aux%20chercheurs16.19">
+    <ns0:title>Budget R&amp;T</ns0:title>
+    <ns1:abstract>Aides aux chercheurs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Île-de-France</ns1:region>
+    <ns1:code>R11</ns1:code>
+    <ns0:amount>16.19</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs2.31">
+    <ns0:title>Budget R&amp;T</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Hauts-de-France</ns1:region>
+    <ns1:code>R32</ns1:code>
+    <ns0:amount>2.31</ns0:amount>
+    <ns1:Organization>Conseils départementaux</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs10.27">
+    <ns0:title>Budget R&amp;T</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Île-de-France</ns1:region>
+    <ns1:code>R11</ns1:code>
+    <ns0:amount>10.27</ns0:amount>
+    <ns1:Organization>Communes et EPCI</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs2.61">
+    <ns0:title>Budget R&amp;T réalisé dans le cadre des pôles de compétitivité</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Grand Est</ns1:region>
+    <ns1:code>R44</ns1:code>
+    <ns0:amount>2.61</ns0:amount>
+    <ns1:Organization>Conseils régionaux</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs44.27">
+    <ns0:title>Budget R&amp;T réalisé dans le cadre du CPER</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Grand Est</ns1:region>
+    <ns1:code>R44</ns1:code>
+    <ns0:amount>44.27</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs20.79">
+    <ns0:title>% Budget R&amp;T réalisé dans le cadre du CPER</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Grand Est</ns1:region>
+    <ns1:code>R44</ns1:code>
+    <ns0:amount>20.79</ns0:amount>
+    <ns1:Organization>Conseils départementaux</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Culture%20et%20information%20scientifique%20(%)2.11">
+    <ns0:title>% Budget R&amp;T</ns0:title>
+    <ns1:abstract>Culture et information scientifique (%)</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Hauts-de-France</ns1:region>
+    <ns1:code>R32</ns1:code>
+    <ns0:amount>2.11</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs2.01">
+    <ns0:title>Budget R&amp;T réalisé dans le cadre du CPER</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Grand Est</ns1:region>
+    <ns1:code>R44</ns1:code>
+    <ns0:amount>2.01</ns0:amount>
+    <ns1:Organization>Conseils départementaux</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Culture%20et%20information%20scientifique2.01">
+    <ns0:title>Budget R&amp;T</ns0:title>
+    <ns1:abstract>Culture et information scientifique</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Hauts-de-France</ns1:region>
+    <ns1:code>R32</ns1:code>
+    <ns0:amount>2.01</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Equipement%20de%20laboratoires%20(%)5.28">
+    <ns0:title>% Budget R&amp;T</ns0:title>
+    <ns1:abstract>Equipement de laboratoires (%)</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Hauts-de-France</ns1:region>
+    <ns1:code>R32</ns1:code>
+    <ns0:amount>5.28</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Equipement%20de%20laboratoires5.03">
+    <ns0:title>Budget R&amp;T</ns0:title>
+    <ns1:abstract>Equipement de laboratoires</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Hauts-de-France</ns1:region>
+    <ns1:code>R32</ns1:code>
+    <ns0:amount>5.03</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Aides%20aux%20chercheurs%20(%)11">
+    <ns0:title>% Budget R&amp;T</ns0:title>
+    <ns1:abstract>Aides aux chercheurs (%)</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Hauts-de-France</ns1:region>
+    <ns1:code>R32</ns1:code>
+    <ns0:amount>11</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs9.68">
+    <ns0:title>Budget R&amp;T</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Grand Est</ns1:region>
+    <ns1:code>R44</ns1:code>
+    <ns0:amount>9.68</ns0:amount>
+    <ns1:Organization>Conseils départementaux</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs2.44">
+    <ns0:title>Budget R&amp;T réalisé dans le cadre des pôles de compétitivité</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Normandie</ns1:region>
+    <ns1:code>R28</ns1:code>
+    <ns0:amount>2.44</ns0:amount>
+    <ns1:Organization>Conseils régionaux</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs25.95">
+    <ns0:title>% Budget R&amp;T réalisé dans le cadre du CPER</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Normandie</ns1:region>
+    <ns1:code>R28</ns1:code>
+    <ns0:amount>25.95</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs14.89">
+    <ns0:title>Budget R&amp;T réalisé dans le cadre du CPER</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Normandie</ns1:region>
+    <ns1:code>R28</ns1:code>
+    <ns0:amount>14.89</ns0:amount>
+    <ns1:Organization>Conseils régionaux</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Culture%20et%20information%20scientifique%20(%)2.56">
+    <ns0:title>% Budget R&amp;T</ns0:title>
+    <ns1:abstract>Culture et information scientifique (%)</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Normandie</ns1:region>
+    <ns1:code>R28</ns1:code>
+    <ns0:amount>2.56</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs3.52">
+    <ns0:title>Budget R&amp;T réalisé dans le cadre du CPER</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Normandie</ns1:region>
+    <ns1:code>R28</ns1:code>
+    <ns0:amount>3.52</ns0:amount>
+    <ns1:Organization>Communes et EPCI</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Projets%20de%20la%20recherche%20publique13.73">
+    <ns0:title>Budget R&amp;T</ns0:title>
+    <ns1:abstract>Projets de la recherche publique</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Normandie</ns1:region>
+    <ns1:code>R28</ns1:code>
+    <ns0:amount>13.73</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Transferts%20de%20technologie17.5">
+    <ns0:title>Budget R&amp;T</ns0:title>
+    <ns1:abstract>Transferts de technologie</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Normandie</ns1:region>
+    <ns1:code>R28</ns1:code>
+    <ns0:amount>17.5</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/R%C3%A9seaux%20haut%20d%C3%A9bit1.99">
+    <ns0:title>Budget R&amp;T</ns0:title>
+    <ns1:abstract>Réseaux haut débit</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Normandie</ns1:region>
+    <ns1:code>R28</ns1:code>
+    <ns0:amount>1.99</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Budget%20non%20ventil%C3%A9%20(%)0">
+    <ns0:title>% Budget R&amp;T</ns0:title>
+    <ns1:abstract>Budget non ventilé (%)</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Normandie</ns1:region>
+    <ns1:region>Pays de la Loire</ns1:region>
+    <ns1:region>Guyane</ns1:region>
+    <ns1:region>Mayotte (3)</ns1:region>
+    <ns1:region>Hauts-de-France</ns1:region>
+    <ns1:code>R28</ns1:code>
+    <ns1:code>R52</ns1:code>
+    <ns1:code>R03</ns1:code>
+    <ns1:code>R06</ns1:code>
+    <ns1:code>R32</ns1:code>
+    <ns0:amount>0</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Budget%20non%20ventil%C3%A90">
+    <ns0:title>Budget R&amp;T</ns0:title>
+    <ns1:abstract>Budget non ventilé</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Normandie</ns1:region>
+    <ns1:region>Corse (2)</ns1:region>
+    <ns1:code>R28</ns1:code>
+    <ns1:code>R94</ns1:code>
+    <ns0:amount>0</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifsnd">
+    <ns0:title>Effort budgétaire des conseils régionaux en direction de la R&amp;T</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <rdfs:comment>Part de la R&amp;T dans les dépenses totales des conseils régionaux (en %)</rdfs:comment>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Guadeloupe</ns1:region>
+    <ns1:region>Grand Est</ns1:region>
+    <ns1:region>Corse (2)</ns1:region>
+    <ns1:region>Centre-Val de Loire</ns1:region>
+    <ns1:region>Hauts-de-France</ns1:region>
+    <ns1:region>Normandie</ns1:region>
+    <ns1:region>Bourgogne-Franche-Comté</ns1:region>
+    <ns1:code>R01</ns1:code>
+    <ns1:code>R44</ns1:code>
+    <ns1:code>R94</ns1:code>
+    <ns1:code>R24</ns1:code>
+    <ns1:code>R32</ns1:code>
+    <ns1:code>R28</ns1:code>
+    <ns1:code>R27</ns1:code>
+    <ns0:amount>nd</ns0:amount>
+    <ns1:Organization>Conseils régionaux</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs0.08">
+    <ns0:title>Budget R&amp;T réalisé dans le cadre du CPER</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Guadeloupe</ns1:region>
+    <ns1:code>R01</ns1:code>
+    <ns0:amount>0.08</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Projets%20de%20la%20recherche%20publique0.55">
+    <ns0:title>Budget R&amp;T</ns0:title>
+    <ns1:abstract>Projets de la recherche publique</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Guadeloupe</ns1:region>
+    <ns1:code>R01</ns1:code>
+    <ns0:amount>0.55</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Equipement%20de%20laboratoires%20(%)4.76">
+    <ns0:title>% Budget R&amp;T</ns0:title>
+    <ns1:abstract>Equipement de laboratoires (%)</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Guadeloupe</ns1:region>
+    <ns1:code>R01</ns1:code>
+    <ns0:amount>4.76</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Transferts%20de%20technologie%20(%)15.7">
+    <ns0:title>% Budget R&amp;T</ns0:title>
+    <ns1:abstract>Transferts de technologie (%)</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Guadeloupe</ns1:region>
+    <ns1:code>R01</ns1:code>
+    <ns0:amount>15.7</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Equipement%20de%20laboratoires0.08">
+    <ns0:title>Budget R&amp;T</ns0:title>
+    <ns1:abstract>Equipement de laboratoires</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Guadeloupe</ns1:region>
+    <ns1:code>R01</ns1:code>
+    <ns0:amount>0.08</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs23.79">
+    <ns0:title>Effort budgétaire des conseils régionaux en direction de la R&amp;T</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <rdfs:comment>Budget de R&amp;T par habitant des conseils régionaux (en euros)</rdfs:comment>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Corse (2)</ns1:region>
+    <ns1:code>R94</ns1:code>
+    <ns0:amount>23.79</ns0:amount>
+    <ns1:Organization>Conseils régionaux</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs14.56">
+    <ns0:title>Budget R&amp;T réalisé dans le cadre des pôles de compétitivité</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Bretagne</ns1:region>
+    <ns1:code>R53</ns1:code>
+    <ns0:amount>14.56</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs2.32">
+    <ns0:title>Budget R&amp;T réalisé dans le cadre du CPER</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Centre-Val de Loire</ns1:region>
+    <ns1:code>R24</ns1:code>
+    <ns0:amount>2.32</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs2.27">
+    <ns0:title>Budget R&amp;T réalisé dans le cadre du CPER</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Centre-Val de Loire</ns1:region>
+    <ns1:code>R24</ns1:code>
+    <ns0:amount>2.27</ns0:amount>
+    <ns1:Organization>Conseils régionaux</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Projets%20de%20la%20recherche%20publique%20(%)17.67">
+    <ns0:title>% Budget R&amp;T</ns0:title>
+    <ns1:abstract>Projets de la recherche publique (%)</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Corse (2)</ns1:region>
+    <ns1:code>R94</ns1:code>
+    <ns0:amount>17.67</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Aides%20aux%20chercheurs6.39">
+    <ns0:title>Budget R&amp;T</ns0:title>
+    <ns1:abstract>Aides aux chercheurs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Centre-Val de Loire</ns1:region>
+    <ns1:code>R24</ns1:code>
+    <ns0:amount>6.39</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Transferts%20de%20technologie0.2">
+    <ns0:title>Budget R&amp;T</ns0:title>
+    <ns1:abstract>Transferts de technologie</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Corse (2)</ns1:region>
+    <ns1:code>R94</ns1:code>
+    <ns0:amount>0.2</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Aides%20aux%20chercheurs9.36">
+    <ns0:title>Budget R&amp;T</ns0:title>
+    <ns1:abstract>Aides aux chercheurs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Grand Est</ns1:region>
+    <ns1:code>R44</ns1:code>
+    <ns0:amount>9.36</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs11.46">
+    <ns0:title>Effort budgétaire des conseils régionaux en direction de la R&amp;T</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <rdfs:comment>Poids dans le budget total de R&amp;T des conseils régionaux</rdfs:comment>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Auvergne-Rhône-Alpes</ns1:region>
+    <ns1:code>R84</ns1:code>
+    <ns0:amount>11.46</ns0:amount>
+    <ns1:Organization>Conseils régionaux</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs2.97">
+    <ns0:title>Budget R&amp;T réalisé dans le cadre des pôles de compétitivité</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Bourgogne-Franche-Comté</ns1:region>
+    <ns1:code>R27</ns1:code>
+    <ns0:amount>2.97</ns0:amount>
+    <ns1:Organization>Conseils régionaux</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs13.63">
+    <ns0:title>% Budget R&amp;T réalisé dans le cadre du CPER</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Bourgogne-Franche-Comté</ns1:region>
+    <ns1:code>R27</ns1:code>
+    <ns0:amount>13.63</ns0:amount>
+    <ns1:Organization>Conseils régionaux</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Culture%20et%20information%20scientifique1.43">
+    <ns0:title>Budget R&amp;T</ns0:title>
+    <ns1:abstract>Culture et information scientifique</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Bourgogne-Franche-Comté</ns1:region>
+    <ns1:code>R27</ns1:code>
+    <ns0:amount>1.43</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Projets%20de%20la%20recherche%20publique%20(%)0.13">
+    <ns0:title>% Budget R&amp;T</ns0:title>
+    <ns1:abstract>Projets de la recherche publique (%)</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Auvergne-Rhône-Alpes</ns1:region>
+    <ns1:code>R84</ns1:code>
+    <ns0:amount>0.13</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Transferts%20de%20technologie%20(%)31.02">
+    <ns0:title>% Budget R&amp;T</ns0:title>
+    <ns1:abstract>Transferts de technologie (%)</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Bourgogne-Franche-Comté</ns1:region>
+    <ns1:code>R27</ns1:code>
+    <ns0:amount>31.02</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Transferts%20de%20technologie68.63">
+    <ns0:title>Budget R&amp;T</ns0:title>
+    <ns1:abstract>Transferts de technologie</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Auvergne-Rhône-Alpes</ns1:region>
+    <ns1:code>R84</ns1:code>
+    <ns0:amount>68.63</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Projets%20de%20la%20recherche%20publique1.75">
+    <ns0:title>Budget R&amp;T</ns0:title>
+    <ns1:abstract>Projets de la recherche publique</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Bretagne</ns1:region>
+    <ns1:code>R53</ns1:code>
+    <ns0:amount>1.75</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/R%C3%A9seaux%20haut%20d%C3%A9bit3.73">
+    <ns0:title>Budget R&amp;T</ns0:title>
+    <ns1:abstract>Réseaux haut débit</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Bretagne</ns1:region>
+    <ns1:code>R53</ns1:code>
+    <ns0:amount>3.73</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs41.21">
+    <ns0:title>Budget R&amp;T</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Auvergne-Rhône-Alpes</ns1:region>
+    <ns1:code>R84</ns1:code>
+    <ns0:amount>41.21</ns0:amount>
+    <ns1:Organization>Communes et EPCI</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs23.94">
+    <ns0:title>Effort budgétaire des conseils régionaux en direction de la R&amp;T</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <rdfs:comment>Budget de R&amp;T par habitant des conseils régionaux (en euros)</rdfs:comment>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Pays de la Loire</ns1:region>
+    <ns1:code>R52</ns1:code>
+    <ns0:amount>23.94</ns0:amount>
+    <ns1:Organization>Conseils régionaux</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs5.92">
+    <ns0:title>Budget R&amp;T réalisé dans le cadre des pôles de compétitivité</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Pays de la Loire</ns1:region>
+    <ns1:code>R52</ns1:code>
+    <ns0:amount>5.92</ns0:amount>
+    <ns1:Organization>Conseils régionaux</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Transferts%20de%20technologie%20(%)29.32">
+    <ns0:title>% Budget R&amp;T</ns0:title>
+    <ns1:abstract>Transferts de technologie (%)</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Provence-Alpes-Côte-d'Azur</ns1:region>
+    <ns1:code>R93</ns1:code>
+    <ns0:amount>29.32</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs34.49">
+    <ns0:title>% Budget R&amp;T réalisé dans le cadre du CPER</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Pays de la Loire</ns1:region>
+    <ns1:code>R52</ns1:code>
+    <ns0:amount>34.49</ns0:amount>
+    <ns1:Organization>Communes et EPCI</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs4.46">
+    <ns0:title>Budget R&amp;T réalisé dans le cadre du CPER</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Pays de la Loire</ns1:region>
+    <ns1:code>R52</ns1:code>
+    <ns0:amount>4.46</ns0:amount>
+    <ns1:Organization>Communes et EPCI</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Equipement%20de%20laboratoires6.9">
+    <ns0:title>Budget R&amp;T</ns0:title>
+    <ns1:abstract>Equipement de laboratoires</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Provence-Alpes-Côte-d'Azur</ns1:region>
+    <ns1:code>R93</ns1:code>
+    <ns0:amount>6.9</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Transferts%20de%20technologie27.42">
+    <ns0:title>Budget R&amp;T</ns0:title>
+    <ns1:abstract>Transferts de technologie</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Provence-Alpes-Côte-d'Azur</ns1:region>
+    <ns1:code>R93</ns1:code>
+    <ns0:amount>27.42</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Culture%20et%20information%20scientifique2.54">
+    <ns0:title>Budget R&amp;T</ns0:title>
+    <ns1:abstract>Culture et information scientifique</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Pays de la Loire</ns1:region>
+    <ns1:code>R52</ns1:code>
+    <ns0:amount>2.54</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs93.51">
+    <ns0:title>Budget R&amp;T</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Provence-Alpes-Côte-d'Azur</ns1:region>
+    <ns1:code>R93</ns1:code>
+    <ns0:amount>93.51</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs13.5">
+    <ns0:title>Effort budgétaire des conseils régionaux en direction de la R&amp;T</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <rdfs:comment>Budget de R&amp;T par habitant des conseils régionaux (en euros)</rdfs:comment>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Occitanie</ns1:region>
+    <ns1:code>R76</ns1:code>
+    <ns0:amount>13.5</ns0:amount>
+    <ns1:Organization>Conseils régionaux</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs3.5">
+    <ns0:title>Budget R&amp;T réalisé dans le cadre des pôles de compétitivité</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Nouvelle-Aquitaine</ns1:region>
+    <ns1:code>R75</ns1:code>
+    <ns0:amount>3.5</ns0:amount>
+    <ns1:Organization>Conseils régionaux</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs21.76">
+    <ns0:title>% Budget R&amp;T réalisé dans le cadre du CPER</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Nouvelle-Aquitaine</ns1:region>
+    <ns1:code>R75</ns1:code>
+    <ns0:amount>21.76</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs0.5">
+    <ns0:title>Budget R&amp;T réalisé dans le cadre des pôles de compétitivité</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Occitanie</ns1:region>
+    <ns1:code>R76</ns1:code>
+    <ns0:amount>0.5</ns0:amount>
+    <ns1:Organization>Communes et EPCI</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs22.51">
+    <ns0:title>Budget R&amp;T réalisé dans le cadre du CPER</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Nouvelle-Aquitaine</ns1:region>
+    <ns1:code>R75</ns1:code>
+    <ns0:amount>22.51</ns0:amount>
+    <ns1:Organization>Conseils régionaux</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Projets%20de%20la%20recherche%20publique7.57">
+    <ns0:title>Budget R&amp;T</ns0:title>
+    <ns1:abstract>Projets de la recherche publique</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Nouvelle-Aquitaine</ns1:region>
+    <ns1:code>R75</ns1:code>
+    <ns0:amount>7.57</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs34.92">
+    <ns0:title>Budget R&amp;T réalisé dans le cadre du CPER</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Occitanie</ns1:region>
+    <ns1:code>R76</ns1:code>
+    <ns0:amount>34.92</ns0:amount>
+    <ns1:Organization>Conseils régionaux</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Equipement%20de%20laboratoires%20(%)9.08">
+    <ns0:title>% Budget R&amp;T</ns0:title>
+    <ns1:abstract>Equipement de laboratoires (%)</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Nouvelle-Aquitaine</ns1:region>
+    <ns1:code>R75</ns1:code>
+    <ns0:amount>9.08</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Equipement%20de%20laboratoires9.87">
+    <ns0:title>Budget R&amp;T</ns0:title>
+    <ns1:abstract>Equipement de laboratoires</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Nouvelle-Aquitaine</ns1:region>
+    <ns1:code>R75</ns1:code>
+    <ns0:amount>9.87</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs96.38">
+    <ns0:title>Budget R&amp;T</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Nouvelle-Aquitaine</ns1:region>
+    <ns1:code>R75</ns1:code>
+    <ns0:amount>96.38</ns0:amount>
+    <ns1:Organization>Conseils régionaux</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Projets%20de%20la%20recherche%20publique%20(%)19.47">
+    <ns0:title>% Budget R&amp;T</ns0:title>
+    <ns1:abstract>Projets de la recherche publique (%)</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Guyane</ns1:region>
+    <ns1:code>R03</ns1:code>
+    <ns0:amount>19.47</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Transferts%20de%20technologie%20(%)42.74">
+    <ns0:title>% Budget R&amp;T</ns0:title>
+    <ns1:abstract>Transferts de technologie (%)</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Guyane</ns1:region>
+    <ns1:code>R03</ns1:code>
+    <ns0:amount>42.74</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Equipement%20de%20laboratoires%20(%)0">
+    <ns0:title>% Budget R&amp;T</ns0:title>
+    <ns1:abstract>Equipement de laboratoires (%)</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Guyane</ns1:region>
+    <ns1:code>R03</ns1:code>
+    <ns0:amount>0</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Projets%20de%20la%20recherche%20publique1.6">
+    <ns0:title>Budget R&amp;T</ns0:title>
+    <ns1:abstract>Projets de la recherche publique</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>La Réunion</ns1:region>
+    <ns1:code>R04</ns1:code>
+    <ns0:amount>1.6</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Transferts%20de%20technologie%20(%)0">
+    <ns0:title>% Budget R&amp;T</ns0:title>
+    <ns1:abstract>Transferts de technologie (%)</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Mayotte (3)</ns1:region>
+    <ns1:code>R06</ns1:code>
+    <ns0:amount>0</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/R%C3%A9seaux%20haut%20d%C3%A9bit%20(%)0">
+    <ns0:title>% Budget R&amp;T</ns0:title>
+    <ns1:abstract>Réseaux haut débit (%)</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>La Réunion</ns1:region>
+    <ns1:region>Mayotte (3)</ns1:region>
+    <ns1:region>Hauts-de-France</ns1:region>
+    <ns1:code>R04</ns1:code>
+    <ns1:code>R06</ns1:code>
+    <ns1:code>R32</ns1:code>
+    <ns0:amount>0</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Aides%20aux%20chercheurs0.12">
+    <ns0:title>Budget R&amp;T</ns0:title>
+    <ns1:abstract>Aides aux chercheurs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>La Réunion</ns1:region>
+    <ns1:code>R04</ns1:code>
+    <ns0:amount>0.12</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/R%C3%A9seaux%20haut%20d%C3%A9bit0">
+    <ns0:title>Budget R&amp;T</ns0:title>
+    <ns1:abstract>Réseaux haut débit</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>La Réunion</ns1:region>
+    <ns1:code>R04</ns1:code>
+    <ns0:amount>0</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs10.29">
+    <ns0:title>Effort budgétaire des conseils régionaux en direction de la R&amp;T</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <rdfs:comment>Budget de R&amp;T par habitant des conseils régionaux (en euros)</rdfs:comment>
+    <ns1:year>2014</ns1:year>
+    <ns1:region>Île-de-France</ns1:region>
+    <ns1:code>R11</ns1:code>
+    <ns0:amount>10.29</ns0:amount>
+    <ns1:Organization>Conseils régionaux</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs14.84">
+    <ns0:title>Effort budgétaire des conseils régionaux en direction de la R&amp;T</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <rdfs:comment>Poids dans le budget total de R&amp;T des conseils régionaux</rdfs:comment>
+    <ns1:year>2014</ns1:year>
+    <ns1:region>Île-de-France</ns1:region>
+    <ns1:code>R11</ns1:code>
+    <ns0:amount>14.84</ns0:amount>
+    <ns1:Organization>Conseils régionaux</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs2.64">
+    <ns0:title>Budget R&amp;T réalisé dans le cadre des pôles de compétitivité</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2014</ns1:year>
+    <ns1:region>Grand Est</ns1:region>
+    <ns1:code>R44</ns1:code>
+    <ns0:amount>2.64</ns0:amount>
+    <ns1:Organization>Conseils départementaux</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs38.15">
+    <ns0:title>% Budget R&amp;T réalisé dans le cadre du CPER</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2014</ns1:year>
+    <ns1:region>Grand Est</ns1:region>
+    <ns1:code>R44</ns1:code>
+    <ns0:amount>38.15</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Culture%20et%20information%20scientifique%20(%)1.13">
+    <ns0:title>% Budget R&amp;T</ns0:title>
+    <ns1:abstract>Culture et information scientifique (%)</ns1:abstract>
+    <ns1:year>2014</ns1:year>
+    <ns1:region>Île-de-France</ns1:region>
+    <ns1:code>R11</ns1:code>
+    <ns0:amount>1.13</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Projets%20de%20la%20recherche%20publique15.16">
+    <ns0:title>Budget R&amp;T</ns0:title>
+    <ns1:abstract>Projets de la recherche publique</ns1:abstract>
+    <ns1:year>2014</ns1:year>
+    <ns1:region>Île-de-France</ns1:region>
+    <ns1:code>R11</ns1:code>
+    <ns0:amount>15.16</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs21.7">
+    <ns0:title>Budget R&amp;T réalisé dans le cadre des pôles de compétitivité</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Auvergne-Rhône-Alpes</ns1:region>
+    <ns1:code>R84</ns1:code>
+    <ns0:amount>21.7</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs5.39">
+    <ns0:title>Budget R&amp;T réalisé dans le cadre des pôles de compétitivité</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Auvergne-Rhône-Alpes</ns1:region>
+    <ns1:code>R84</ns1:code>
+    <ns0:amount>5.39</ns0:amount>
+    <ns1:Organization>Communes et EPCI</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs5">
+    <ns0:title>Budget R&amp;T réalisé dans le cadre des pôles de compétitivité</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Auvergne-Rhône-Alpes</ns1:region>
+    <ns1:code>R84</ns1:code>
+    <ns0:amount>5</ns0:amount>
+    <ns1:Organization>Conseils régionaux</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs14.62">
+    <ns0:title>% Budget R&amp;T réalisé dans le cadre du CPER</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Auvergne-Rhône-Alpes</ns1:region>
+    <ns1:code>R84</ns1:code>
+    <ns0:amount>14.62</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs4.57">
+    <ns0:title>% Budget R&amp;T réalisé dans le cadre du CPER</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Auvergne-Rhône-Alpes</ns1:region>
+    <ns1:code>R84</ns1:code>
+    <ns0:amount>4.57</ns0:amount>
+    <ns1:Organization>Conseils départementaux</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Culture%20et%20information%20scientifique1.67">
+    <ns0:title>Budget R&amp;T</ns0:title>
+    <ns1:abstract>Culture et information scientifique</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Auvergne-Rhône-Alpes</ns1:region>
+    <ns1:code>R84</ns1:code>
+    <ns0:amount>1.67</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Transferts%20de%20technologie%20(%)41.88">
+    <ns0:title>% Budget R&amp;T</ns0:title>
+    <ns1:abstract>Transferts de technologie (%)</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Auvergne-Rhône-Alpes</ns1:region>
+    <ns1:code>R84</ns1:code>
+    <ns0:amount>41.88</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/R%C3%A9seaux%20haut%20d%C3%A9bit1.41">
+    <ns0:title>Budget R&amp;T</ns0:title>
+    <ns1:abstract>Réseaux haut débit</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Auvergne-Rhône-Alpes</ns1:region>
+    <ns1:code>R84</ns1:code>
+    <ns0:amount>1.41</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs98.3">
+    <ns0:title>Budget R&amp;T</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Auvergne-Rhône-Alpes</ns1:region>
+    <ns1:code>R84</ns1:code>
+    <ns0:amount>98.3</ns0:amount>
+    <ns1:Organization>Conseils régionaux</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs0.91">
+    <ns0:title>Effort budgétaire des conseils régionaux en direction de la R&amp;T</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <rdfs:comment>Poids dans le budget total de R&amp;T des conseils régionaux</rdfs:comment>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Corse (2)</ns1:region>
+    <ns1:code>R94</ns1:code>
+    <ns0:amount>0.91</ns0:amount>
+    <ns1:Organization>Conseils régionaux</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Culture%20et%20information%20scientifique%20(%)2.6">
+    <ns0:title>% Budget R&amp;T</ns0:title>
+    <ns1:abstract>Culture et information scientifique (%)</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Grand Est</ns1:region>
+    <ns1:code>R44</ns1:code>
+    <ns0:amount>2.6</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Projets%20de%20la%20recherche%20publique5.21">
+    <ns0:title>Budget R&amp;T</ns0:title>
+    <ns1:abstract>Projets de la recherche publique</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Grand Est</ns1:region>
+    <ns1:code>R44</ns1:code>
+    <ns0:amount>5.21</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Equipement%20de%20laboratoires%20(%)5.03">
+    <ns0:title>% Budget R&amp;T</ns0:title>
+    <ns1:abstract>Equipement de laboratoires (%)</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Grand Est</ns1:region>
+    <ns1:code>R44</ns1:code>
+    <ns0:amount>5.03</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Equipement%20de%20laboratoires4.91">
+    <ns0:title>Budget R&amp;T</ns0:title>
+    <ns1:abstract>Equipement de laboratoires</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Grand Est</ns1:region>
+    <ns1:code>R44</ns1:code>
+    <ns0:amount>4.91</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Aides%20aux%20chercheurs%20(%)9.58">
+    <ns0:title>% Budget R&amp;T</ns0:title>
+    <ns1:abstract>Aides aux chercheurs (%)</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Grand Est</ns1:region>
+    <ns1:code>R44</ns1:code>
+    <ns0:amount>9.58</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/R%C3%A9seaux%20haut%20d%C3%A9bit0.08">
+    <ns0:title>Budget R&amp;T</ns0:title>
+    <ns1:abstract>Réseaux haut débit</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Grand Est</ns1:region>
+    <ns1:code>R44</ns1:code>
+    <ns0:amount>0.08</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs2.3">
+    <ns0:title>Budget R&amp;T réalisé dans le cadre des pôles de compétitivité</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Centre-Val de Loire</ns1:region>
+    <ns1:code>R24</ns1:code>
+    <ns0:amount>2.3</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs1.55">
+    <ns0:title>Budget R&amp;T réalisé dans le cadre des pôles de compétitivité</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Centre-Val de Loire</ns1:region>
+    <ns1:code>R24</ns1:code>
+    <ns0:amount>1.55</ns0:amount>
+    <ns1:Organization>Conseils régionaux</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs6.59">
+    <ns0:title>% Budget R&amp;T réalisé dans le cadre du CPER</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Centre-Val de Loire</ns1:region>
+    <ns1:code>R24</ns1:code>
+    <ns0:amount>6.59</ns0:amount>
+    <ns1:Organization>Conseils régionaux</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Culture%20et%20information%20scientifique%20(%)1.43">
+    <ns0:title>% Budget R&amp;T</ns0:title>
+    <ns1:abstract>Culture et information scientifique (%)</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Centre-Val de Loire</ns1:region>
+    <ns1:code>R24</ns1:code>
+    <ns0:amount>1.43</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Projets%20de%20la%20recherche%20publique1.38">
+    <ns0:title>Budget R&amp;T</ns0:title>
+    <ns1:abstract>Projets de la recherche publique</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Corse (2)</ns1:region>
+    <ns1:code>R94</ns1:code>
+    <ns0:amount>1.38</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Op%C3%A9rations%20immobili%C3%A8res%20(%)59.42">
+    <ns0:title>% Budget R&amp;T</ns0:title>
+    <ns1:abstract>Opérations immobilières (%)</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Corse (2)</ns1:region>
+    <ns1:code>R94</ns1:code>
+    <ns0:amount>59.42</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs2.46">
+    <ns0:title>Budget R&amp;T</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Centre-Val de Loire</ns1:region>
+    <ns1:code>R24</ns1:code>
+    <ns0:amount>2.46</ns0:amount>
+    <ns1:Organization>Communes et EPCI</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs7.79">
+    <ns0:title>Budget R&amp;T</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Corse (2)</ns1:region>
+    <ns1:code>R94</ns1:code>
+    <ns0:amount>7.79</ns0:amount>
+    <ns1:Organization>Conseils régionaux</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs13.57">
+    <ns0:title>Effort budgétaire des conseils régionaux en direction de la R&amp;T</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <rdfs:comment>Budget de R&amp;T par habitant des conseils régionaux (en euros)</rdfs:comment>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Grand Est</ns1:region>
+    <ns1:code>R44</ns1:code>
+    <ns0:amount>13.57</ns0:amount>
+    <ns1:Organization>Conseils régionaux</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs8.79">
+    <ns0:title>Effort budgétaire des conseils régionaux en direction de la R&amp;T</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <rdfs:comment>Poids dans le budget total de R&amp;T des conseils régionaux</rdfs:comment>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Grand Est</ns1:region>
+    <ns1:code>R44</ns1:code>
+    <ns0:amount>8.79</ns0:amount>
+    <ns1:Organization>Conseils régionaux</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs22.67">
+    <ns0:title>Budget R&amp;T réalisé dans le cadre du CPER</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Hauts-de-France</ns1:region>
+    <ns1:code>R32</ns1:code>
+    <ns0:amount>22.67</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs45.33">
+    <ns0:title>% Budget R&amp;T réalisé dans le cadre du CPER</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Grand Est</ns1:region>
+    <ns1:code>R44</ns1:code>
+    <ns0:amount>45.33</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs37.48">
+    <ns0:title>Budget R&amp;T réalisé dans le cadre du CPER</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Grand Est</ns1:region>
+    <ns1:code>R44</ns1:code>
+    <ns0:amount>37.48</ns0:amount>
+    <ns1:Organization>Conseils régionaux</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Aides%20aux%20chercheurs10.49">
+    <ns0:title>Budget R&amp;T</ns0:title>
+    <ns1:abstract>Aides aux chercheurs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Hauts-de-France</ns1:region>
+    <ns1:code>R32</ns1:code>
+    <ns0:amount>10.49</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs52.15">
+    <ns0:title>Budget R&amp;T</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Hauts-de-France</ns1:region>
+    <ns1:code>R32</ns1:code>
+    <ns0:amount>52.15</ns0:amount>
+    <ns1:Organization>Conseils régionaux</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs7.05">
+    <ns0:title>Effort budgétaire des conseils régionaux en direction de la R&amp;T</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <rdfs:comment>Poids dans le budget total de R&amp;T des conseils régionaux</rdfs:comment>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Normandie</ns1:region>
+    <ns1:code>R28</ns1:code>
+    <ns0:amount>7.05</ns0:amount>
+    <ns1:Organization>Conseils régionaux</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs0.34">
+    <ns0:title>Budget R&amp;T réalisé dans le cadre des pôles de compétitivité</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Nouvelle-Aquitaine</ns1:region>
+    <ns1:code>R75</ns1:code>
+    <ns0:amount>0.34</ns0:amount>
+    <ns1:Organization>Communes et EPCI</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Projets%20de%20la%20recherche%20publique%20(%)10">
+    <ns0:title>% Budget R&amp;T</ns0:title>
+    <ns1:abstract>Projets de la recherche publique (%)</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Occitanie</ns1:region>
+    <ns1:code>R76</ns1:code>
+    <ns0:amount>10</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Equipement%20de%20laboratoires%20(%)14.8">
+    <ns0:title>% Budget R&amp;T</ns0:title>
+    <ns1:abstract>Equipement de laboratoires (%)</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Occitanie</ns1:region>
+    <ns1:code>R76</ns1:code>
+    <ns0:amount>14.8</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Transferts%20de%20technologie%20(%)24.94">
+    <ns0:title>% Budget R&amp;T</ns0:title>
+    <ns1:abstract>Transferts de technologie (%)</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Occitanie</ns1:region>
+    <ns1:code>R76</ns1:code>
+    <ns0:amount>24.94</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/R%C3%A9seaux%20haut%20d%C3%A9bit2.7">
+    <ns0:title>Budget R&amp;T</ns0:title>
+    <ns1:abstract>Réseaux haut débit</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Occitanie</ns1:region>
+    <ns1:code>R76</ns1:code>
+    <ns0:amount>2.7</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs15.99">
+    <ns0:title>Effort budgétaire des conseils régionaux en direction de la R&amp;T</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <rdfs:comment>Poids dans le budget total de R&amp;T des conseils régionaux</rdfs:comment>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Île-de-France</ns1:region>
+    <ns1:code>R11</ns1:code>
+    <ns0:amount>15.99</ns0:amount>
+    <ns1:Organization>Conseils régionaux</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs4.45">
+    <ns0:title>Budget R&amp;T réalisé dans le cadre des pôles de compétitivité</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Hauts-de-France</ns1:region>
+    <ns1:code>R32</ns1:code>
+    <ns0:amount>4.45</ns0:amount>
+    <ns1:Organization>Communes et EPCI</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs24.42">
+    <ns0:title>% Budget R&amp;T réalisé dans le cadre du CPER</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Île-de-France</ns1:region>
+    <ns1:code>R11</ns1:code>
+    <ns0:amount>24.42</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs7.15">
+    <ns0:title>% Budget R&amp;T réalisé dans le cadre du CPER</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Île-de-France</ns1:region>
+    <ns1:code>R11</ns1:code>
+    <ns0:amount>7.15</ns0:amount>
+    <ns1:Organization>Conseils départementaux</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs2.22">
+    <ns0:title>Budget R&amp;T réalisé dans le cadre du CPER</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Île-de-France</ns1:region>
+    <ns1:code>R11</ns1:code>
+    <ns0:amount>2.22</ns0:amount>
+    <ns1:Organization>Conseils départementaux</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs16.04">
+    <ns0:title>% Budget R&amp;T réalisé dans le cadre du CPER</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Hauts-de-France</ns1:region>
+    <ns1:code>R32</ns1:code>
+    <ns0:amount>16.04</ns0:amount>
+    <ns1:Organization>Conseils régionaux</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Projets%20de%20la%20recherche%20publique14.28">
+    <ns0:title>Budget R&amp;T</ns0:title>
+    <ns1:abstract>Projets de la recherche publique</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Île-de-France</ns1:region>
+    <ns1:code>R11</ns1:code>
+    <ns0:amount>14.28</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Transferts%20de%20technologie73.89">
+    <ns0:title>Budget R&amp;T</ns0:title>
+    <ns1:abstract>Transferts de technologie</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Île-de-France</ns1:region>
+    <ns1:code>R11</ns1:code>
+    <ns0:amount>73.89</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Op%C3%A9rations%20immobili%C3%A8res20.76">
+    <ns0:title>Budget R&amp;T</ns0:title>
+    <ns1:abstract>Opérations immobilières</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Normandie</ns1:region>
+    <ns1:code>R28</ns1:code>
+    <ns0:amount>20.76</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs72.57">
+    <ns0:title>Budget R&amp;T</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Normandie</ns1:region>
+    <ns1:code>R28</ns1:code>
+    <ns0:amount>72.57</ns0:amount>
+    <ns1:Organization>Collectivités territoriales</ns1:Organization>
+  </ns1:budget>
+
+  <ns1:budget rdf:about="http://ex.org/budget/Tous%20objectifs8.46">
+    <ns0:title>Effort budgétaire des conseils régionaux en direction de la R&amp;T</ns0:title>
+    <ns1:abstract>Tous objectifs</ns1:abstract>
+    <rdfs:comment>Budget de R&amp;T par habitant des conseils régionaux (en euros)</rdfs:comment>
+    <ns1:year>2015*</ns1:year>
+    <ns1:region>Bourgogne-Franche-Comté</ns1:region>
+    <ns1:code>R27</ns1:code>
+    <ns0:amount>8.46</ns0:amount>
+    <ns1:Organization>Conseils régionaux</ns1:Organization>
+  </ns1:budget>
+
+</rdf:RDF>

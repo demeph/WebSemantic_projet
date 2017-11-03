@@ -1,0 +1,14 @@
+# Requête N°2
+# 
+
+
+PREFIX dbo:<http://dbpedia.org/ontology/>
+PREFIX dbp:<http://dbpedia.org/property/>
+PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema#>
+PREFIX ex:<http://test.org/>
+
+Select 
+Where {
+ 	OPTIONAL {  }
+}
+ORDER BY 
