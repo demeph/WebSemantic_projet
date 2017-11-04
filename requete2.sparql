@@ -16,3 +16,5 @@ Where {
 }
 Group By ?annee ?region
 Order By desc(?annee) desc(?sommeValeur)
+
+
