@@ -1,4 +1,4 @@
-\beamer@endinputifotherversion {3.36pt}
+\beamer@endinputifotherversion {3.24pt}
 \headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
 \headcommand {\beamer@framepages {1}{1}}
 \headcommand {\slideentry {0}{0}{2}{2/2}{}{0}}
@@ -33,18 +33,8 @@
 \headcommand {\beamer@subsectionentry {0}{4}{4}{9}{Requ\IeC {\^e}te 2}}\headcommand {\beamer@subsectionpages {8}{8}}
 \headcommand {\slideentry {4}{4}{1}{9/9}{Requ\IeC {\^e}te 2}{0}}
 \headcommand {\beamer@framepages {9}{9}}
-\headcommand {\sectionentry {5}{Cloud}{10}{Cloud}{0}}
-\headcommand {\beamer@sectionpages {6}{9}}
+\headcommand {\beamer@partpages {1}{9}}
 \headcommand {\beamer@subsectionpages {9}{9}}
-\headcommand {\slideentry {5}{0}{1}{10/10}{}{0}}
-\headcommand {\beamer@framepages {10}{10}}
-\headcommand {\sectionentry {6}{Requ\IeC {\^e}te cloud}{11}{Requ\IeC {\^e}te cloud}{0}}
-\headcommand {\beamer@sectionpages {10}{10}}
-\headcommand {\beamer@subsectionpages {10}{10}}
-\headcommand {\slideentry {6}{0}{1}{11/11}{}{0}}
-\headcommand {\beamer@framepages {11}{11}}
-\headcommand {\beamer@partpages {1}{11}}
-\headcommand {\beamer@subsectionpages {11}{11}}
-\headcommand {\beamer@sectionpages {11}{11}}
-\headcommand {\beamer@documentpages {11}}
-\headcommand {\def \inserttotalframenumber {11}}
+\headcommand {\beamer@sectionpages {6}{9}}
+\headcommand {\beamer@documentpages {9}}
+\headcommand {\def \inserttotalframenumber {9}}
