@@ -14,8 +14,7 @@ CONSTRUCT {
     dbo:code ?codereg;
     dbo:code ?codeancienreg;
     dbp:amount ?Valeur;
-    dbo:Organization ?coll      
-        
+    dbo:Organization ?coll 
 }
 WHERE {
   BIND ((?Objectifs_sur_budget_ventilé) AS ?objectif)
