@@ -19,12 +19,12 @@ CONSTRUCT {
     dbo:Organization ?coll 
 }
 WHERE {
+  BIND ((?Objectifs_sur_budget_ventilé) AS ?objectif)
+  BIND ((?Valeur) AS ?valeur) 
   BIND (URI(CONCAT('http://ex.org/budget/', CONCAT(?objectif, ?valeur))) AS ?URI)
   BIND ((?Indicateurs) AS ?indicateur)
   BIND ((?Indicateurs_de_leffort_budgétaire_des_conseils_régionaux) AS ?indicaeffort)
   BIND (CONCAT(?indicateur, ?indicaeffort) AS ?indicateurs)
-  BIND ((?Objectifs_sur_budget_ventilé) AS ?objectif)
-  BIND ((?Valeur) AS ?valeur) 
   BIND ((?Pourcentage) AS ?pourcentage)
   BIND ((?Années) AS ?annee)
   BIND ((?Pays) AS ?pays)
