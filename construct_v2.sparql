@@ -9,7 +9,7 @@ CONSTRUCT {
     frapo:BudgetInformation ?indicateurs;
     frapo:appliesFor ?objectif; 
     frapo:BudgetedAmount ?valeur;
-    dbo:percentage ?pourcentage
+    dbo:percentage ?pourcentage;
     dbo:year ?annee;
     dbo:country ?pays;
     dbo:region ?region;
@@ -24,7 +24,9 @@ WHERE {
   BIND (?Indicateurs_de_leffort_budgétaire_des_conseils_régionaux AS ?indicaeffort)
   BIND ((?Objectifs_sur_budget_ventilé) AS ?objectif)
   BIND ((?Pourcentage) AS ?pourcentage)
+  BIND ((?Valeur) AS ?valeur) 
   BIND ((?Pays) AS ?pays)
+  BIND ((?Régions) AS ?region)
   BIND ((?Codes_régions) AS ?codereg)
   BIND ((?Anciennes_régions) AS ?ancienreg)
   BIND ((?Code_anciennes_régions) AS ?codeancienreg)
