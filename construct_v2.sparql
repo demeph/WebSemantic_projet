@@ -1,32 +1,32 @@
 PREFIX dbo:<http://dbpedia.org/ontology/>
 PREFIX dbp:<http://dbpedia.org/property/>
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema#>
 PREFIX ex:<http://test.org/>
 PREFIX frapo:<http://purl.org/cerif/frapo/>
 
 CONSTRUCT {
  ?URI a dbo:budget;
-    frapo:BudgetInformation ?Indicateurs;
+    frapo:BudgetInformation ?indicateurs;
     frapo:appliesFor ?objectif; 
-    frapo:BudgetInformation ?indicaeffort;
-    dbo:year ?Années;
-    dbo:region ?Régions;
+    frapo:BudgetedAmount ?valeur;
+    dbo:percentage ?pourcentage
+    dbo:year ?annee;
+    dbo:country ?pays;
+    dbo:region ?region;
     dbo:region ?ancienreg;
-    dbo:country ?Pays;
     dbo:code ?codereg;
     dbo:code ?codeancienreg;
-    frapo:BudgetedAmount ?Valeur;
     dbo:Organization ?coll 
 }
 WHERE {
-  BIND ((?Objectifs_sur_budget_ventilé) AS ?objectif)
-  BIND (URI(CONCAT('http://ex.org/budget/', CONCAT(?objectif,?Valeur))) AS ?URI)
-  BIND (?Type_de_collectivité AS ?coll)
+  BIND (URI(CONCAT('http://ex.org/budget/', CONCAT(?objectif, ?valeur))) AS ?URI)
+  BIND (CONCAT(?indicateur, ?indicaeffort) AS ?indicateurs)
   BIND (?Indicateurs_de_leffort_budgétaire_des_conseils_régionaux AS ?indicaeffort)
+  BIND ((?Objectifs_sur_budget_ventilé) AS ?objectif)
+  BIND ((?Pourcentage) AS ?pourcentage)
+  BIND ((?Pays) AS ?pays)
   BIND ((?Codes_régions) AS ?codereg)
-  BIND ((?Code_anciennes_régions) AS ?codeancienreg)
   BIND ((?Anciennes_régions) AS ?ancienreg)
-  BIND ((?Régions) AS ?Pays)
-  FILTER (?Région != "TOTAL FRANCE")
-  FILTER (?Pays = "TOTAL FRANCE")
+  BIND ((?Code_anciennes_régions) AS ?codeancienreg)
+  BIND (?Type_de_collectivité AS ?coll)
 }
