@@ -26,6 +26,7 @@ WHERE {
   BIND ((?Objectifs_sur_budget_ventilé) AS ?objectif)
   BIND ((?Valeur) AS ?valeur) 
   BIND ((?Pourcentage) AS ?pourcentage)
+  BIND ((?Années) AS ?annee)
   BIND ((?Pays) AS ?pays)
   BIND ((?Régions) AS ?region)
   BIND ((?Codes_régions) AS ?codereg)
