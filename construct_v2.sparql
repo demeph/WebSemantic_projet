@@ -25,7 +25,7 @@ WHERE {
   BIND (URI(CONCAT('http://ex.org/budget/', CONCAT(?objectif, ?valeur))) AS ?URI)
   BIND (xsd:string(?Indicateurs) AS ?indicateur)
   BIND (xsd:string(?Indicateurs_de_leffort_budgétaire_des_conseils_régionaux) AS ?indicaeffort)
-  BIND (xsd:string(CONCAT(?indicateur, ?indicaeffort) AS ?indicateurs)
+  BIND (CONCAT(?indicateur, ?indicaeffort) AS ?indicateurs)
   BIND (xsd:boolean(?Pourcentage) AS ?pourcentage)
   BIND (xsd:gYear(?Années) AS ?annee)
   BIND (xsd:string(?Pays) AS ?pays)
