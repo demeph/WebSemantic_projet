@@ -1,8 +1,9 @@
 PREFIX dbo:<http://dbpedia.org/ontology/>
 PREFIX dbp:<http://dbpedia.org/property/>
-PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema#>
 PREFIX ex:<http://test.org/>
 PREFIX frapo:<http://purl.org/cerif/frapo/>
+PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema#>
+PREFIX xsd:<http://w3.org/2001/XMLSchema#>
 
 CONSTRUCT {
  ?URI a dbo:budget;
