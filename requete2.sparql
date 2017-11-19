@@ -4,17 +4,18 @@
 
 PREFIX dbo:<http://dbpedia.org/ontology/>
 PREFIX dbp:<http://dbpedia.org/property/>
-PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema#>
 PREFIX ex:<http://test.org/>
+PREFIX frapo:<http://purl.org/cerif/frapo/>
+PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema#>
 PREFIX xsd:<http://www.w3.org/2001/XMLSchema#>
 
-Select ?annee ?region (sum(xsd:double(?valeur)) as ?sommeValeur) 
-Where {
+SELECT ?annee ?region (sum(xsd:double(?valeur)) as ?sommeValeur) 
+WHERE {
   	?p dbo:year ?annee.
   	?p dbo:region ?region.
-  	?p dbp:amount ?valeur.
+  	?p frapo:BudgetedAmount ?valeur.
 }
-Group By ?annee ?region
-Order By desc(?annee) desc(?sommeValeur)
+GROUP BY ?annee ?region
+ORDER BY DESC(?annee) DESC(?sommeValeur)
 
 

@@ -5,20 +5,21 @@
 
 PREFIX dbo:<http://dbpedia.org/ontology/>
 PREFIX dbp:<http://dbpedia.org/property/>
-PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema#>
 PREFIX ex:<http://test.org/>
+PREFIX frapo:<http://purl.org/cerif/frapo/>
+PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema#>
 
-Select ?Annee ?title ?suppTitle ?organization ?objectif ?valeur
-Where {
+SELECT ?annee ?indicateur ?indicateurEffort ?organization ?objectif ?valeur
+WHERE {
 	?p dbo:region "Hauts-de-France".
 	?p dbo:Organization ?organization.
-	?p dbo:year ?Annee.
-	?p dbp:title ?title.
-	?p dbo:abstract ?objectif.
-	?p dbp:amount ?valeur.
- 	OPTIONAL { ?p rdfs:comment ?suppTitle }
+	?p dbo:year ?annee.
+	?p frapo:BudgetInformation ?indicateur.
+	?p frapo:appliesFor ?objectif.
+	?p frapo:BudgetedAmount ?valeur.
+ 	OPTIONAL { ?p frapo:BudgetInformation ?indicateurEffort }
 }
-ORDER BY ?Annee
+ORDER BY ?annee
 
 
 
@@ -28,19 +29,19 @@ ORDER BY ?Annee
 
 PREFIX dbo:<http://dbpedia.org/ontology/>
 PREFIX dbp:<http://dbpedia.org/property/>
-PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema#>
 PREFIX ex:<http://test.org/>
+PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema#>
 
 INSERT {
 	?p dbo:sameAs "NordPasdeCalais"
 }
-where {
+WHERE {
 	?p dbo:region "Hauts-de-France"
 };
 INSERT {
 	?p dbo:sameAs "Hauts-de-France"
 }
-where {
+WHERE {
 	?p dbo:region "NordPasdeCalais"
 };
 
@@ -52,20 +53,20 @@ where {
 
 PREFIX dbo:<http://dbpedia.org/ontology/>
 PREFIX dbp:<http://dbpedia.org/property/>
-PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema#>
 PREFIX ex:<http://test.org/>
+PREFIX frapo:<http://purl.org/cerif/frapo/>
+PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema#>
 
-Select ?Annee ?region ?title ?suppTitle ?organization ?objectif ?valeur
-Where {
-	?p dbo:region "Hauts-de-France". 
-  	?p dbo:sameAs ?region.
+
+SELECT ?annee ?region ?indicateur ?indicateurEffort ?organization ?objectif ?valeur
+WHERE {
+	?p dbo:region "Hauts-de-France".
+  	?p dbo:sameAs ?region.	
 	?p dbo:Organization ?organization.
-	?p dbo:year ?Annee.
-	?p dbp:title ?title.
-	?p dbo:abstract ?objectif.
-	?p dbp:amount ?valeur.
- 	OPTIONAL { ?p rdfs:comment ?suppTitle }
+	?p dbo:year ?annee.
+	?p frapo:BudgetInformation ?indicateur.
+	?p frapo:appliesFor ?objectif.
+	?p frapo:BudgetedAmount ?valeur.
+ 	OPTIONAL { ?p frapo:BudgetInformation ?indicateurEffort }
 }
-ORDER BY ?Annee
-
-
+ORDER BY ?annee
