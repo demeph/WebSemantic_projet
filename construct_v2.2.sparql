@@ -6,7 +6,7 @@ PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema#>
 PREFIX xsd:<http://www.w3.org/2001/XMLSchema#>
 
 CONSTRUCT {
- ?URI a dbo:budget;
+  ?URI a dbo:budget;
     frapo:BudgetInformation ?indicateurs;
     frapo:BudgetInformation ?indicaeffort;
     frapo:appliesFor ?objectif; 
@@ -22,7 +22,7 @@ CONSTRUCT {
 }
 WHERE {
   BIND (xsd:string(?Objectifs_sur_budget_ventilé) AS ?objectif)
-  BIND (xsd:double(?Valeur) AS ?valeur) 
+  BIND (xsd:decimal(?Valeur) AS ?valeur) 
   BIND (URI(CONCAT('http://ex.org/budget/', CONCAT(?objectif, ?valeur))) AS ?URI)
   BIND (xsd:string(?Indicateurs) AS ?indicateurs)
   BIND (xsd:string(?Indicateurs_de_leffort_budgétaire_des_conseils_régionaux) AS ?indicaeffort)
