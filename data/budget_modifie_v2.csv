@@ -32,14 +32,14 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2015;Collectivités territoriales;0;Budget R&T;;Normandie;;R28;Réseaux haut débit;1.99;;
 2015;Collectivités territoriales;1; Budget R&T;;Normandie;;R28;Budget non ventilé (%);0;;
 2015;Collectivités territoriales;0;Budget R&T;;Normandie;;R28;Budget non ventilé;0;;
-2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);Guadeloupe;;R01;Tous objectifs;nd;;
+2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);Guadeloupe;;R01;Tous objectifs;0;;
 2015;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;Guadeloupe;;R01;Tous objectifs;0.08;;
 2015;Collectivités territoriales;0;Budget R&T;;Guadeloupe;;R01;Projets de la recherche publique;0.55;;
 2015;Collectivités territoriales;1; Budget R&T;;Guadeloupe;;R01;Equipement de laboratoires (%);4.76;;
 2015;Collectivités territoriales;1; Budget R&T;;Guadeloupe;;R01;Transferts de technologie (%);15.7;;
 2015;Collectivités territoriales;0;Budget R&T;;Guadeloupe;;R01;Equipement de laboratoires;0.08;;
 2015;Communes et EPCI;0;Budget R&T;;Guadeloupe;;R01;Tous objectifs;;;
-2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);Grand Est;;R44;Tous objectifs;nd;;
+2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);Grand Est;;R44;Tous objectifs;0;;
 2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);Corse (2);;R94;Tous objectifs;23.79;;
 2015;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;Bretagne;;R53;Tous objectifs;14.56;;
 2015;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;Centre-Val de Loire;;R24;Tous objectifs;2.32;;
@@ -108,7 +108,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2015;Collectivités territoriales;1; Budget R&T;;Auvergne-Rhône-Alpes;;R84;Transferts de technologie (%);41.88;;
 2015;Collectivités territoriales;0;Budget R&T;;Auvergne-Rhône-Alpes;;R84;Réseaux haut débit;1.41;;
 2015;Conseils régionaux;0;Budget R&T;;Auvergne-Rhône-Alpes;;R84;Tous objectifs;98.3;;
-2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);Corse (2);;R94;Tous objectifs;nd;;
+2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);Corse (2);;R94;Tous objectifs;0;;
 2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;Corse (2);;R94;Tous objectifs;0.91;;
 2015;Collectivités territoriales;1; Budget R&T;;Grand Est;;R44;Culture et information scientifique (%);2.6;;
 2015;Collectivités territoriales;0;Budget R&T;;Grand Est;;R44;Projets de la recherche publique;5.21;;
@@ -118,7 +118,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2015;Collectivités territoriales;0;Budget R&T;;Grand Est;;R44;Réseaux haut débit;0.08;;
 2015;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;Corse (2);;R94;Tous objectifs;;;
 2015;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;Corse (2);;R94;Tous objectifs;;;
-2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);Centre-Val de Loire;;R24;Tous objectifs;nd;;
+2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);Centre-Val de Loire;;R24;Tous objectifs;0;;
 2015;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;Centre-Val de Loire;;R24;Tous objectifs;2.3;;
 2015;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;Centre-Val de Loire;;R24;Tous objectifs;1.55;;
 2015;Conseils régionaux;1; Budget R&T réalisé dans le cadre du CPER;;Centre-Val de Loire;;R24;Tous objectifs;6.59;;
@@ -128,7 +128,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2015;Collectivités territoriales;0;Budget R&T;;Corse (2);;R94;Budget non ventilé;0;;
 2015;Communes et EPCI;0;Budget R&T;;Centre-Val de Loire;;R24;Tous objectifs;2.46;;
 2015;Conseils régionaux;0;Budget R&T;;Corse (2);;R94;Tous objectifs;7.79;;
-2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);Hauts-de-France;;R32;Tous objectifs;nd;;
+2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);Hauts-de-France;;R32;Tous objectifs;0;;
 2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);Grand Est;;R44;Tous objectifs;13.57;;
 2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;Grand Est;;R44;Tous objectifs;8.79;;
 2015;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;Hauts-de-France;;R32;Tous objectifs;22.67;;
@@ -138,7 +138,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2015;Collectivités territoriales;1; Budget R&T;;Hauts-de-France;;R32;Réseaux haut débit (%);0;;
 2015;Collectivités territoriales;1; Budget R&T;;Hauts-de-France;;R32;Budget non ventilé (%);0;;
 2015;Conseils régionaux;0;Budget R&T;;Hauts-de-France;;R32;Tous objectifs;52.15;;
-2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);Normandie;;R28;Tous objectifs;nd;;
+2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);Normandie;;R28;Tous objectifs;0;;
 2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;Normandie;;R28;Tous objectifs;7.05;;
 2015;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;Nouvelle-Aquitaine;;R75;Tous objectifs;0.34;;
 2015;Collectivités territoriales;1; Budget R&T;;Occitanie;;R76;Projets de la recherche publique (%);10;;
@@ -155,7 +155,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2015;Collectivités territoriales;0;Budget R&T;;Île-de-France;;R11;Transferts de technologie;73.89;;
 2015;Collectivités territoriales;0;Budget R&T;;Normandie;;R28;Opérations immobilières;20.76;;
 2015;Collectivités territoriales;0;Budget R&T;;Normandie;;R28;Tous objectifs;72.57;;
-2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);Bourgogne-Franche-Comté;;R27;Tous objectifs;nd;;
+2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);Bourgogne-Franche-Comté;;R27;Tous objectifs;0;;
 2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);Bourgogne-Franche-Comté;;R27;Tous objectifs;8.46;;
 2015;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;Bourgogne-Franche-Comté;;R27;Tous objectifs;3.81;;
 2015;Collectivités territoriales;1; Budget R&T;;Bourgogne-Franche-Comté;;R27;Culture et information scientifique (%);4.72;;
@@ -198,7 +198,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2015;Collectivités territoriales;0;Budget R&T;;Pays de la Loire;;R52;Transferts de technologie;27.04;;
 2015;Collectivités territoriales;0;Budget R&T;;Pays de la Loire;;R52;Réseaux haut débit;1.54;;
 2015;Conseils régionaux;0;Budget R&T;;Pays de la Loire;;R52;Tous objectifs;89.05;;
-2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);Provence-Alpes-Côte-d'Azur;;R93;Tous objectifs;nd;;
+2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);Provence-Alpes-Côte-d'Azur;;R93;Tous objectifs;0;;
 2015;Collectivités territoriales;1; Budget R&T;;Auvergne-Rhône-Alpes;;R84;Culture et information scientifique (%);1.02;;
 2015;Collectivités territoriales;1; Budget R&T;;Auvergne-Rhône-Alpes;;R84;Opérations immobilières (%);32.7;;
 2015;Collectivités territoriales;1; Budget R&T;;Auvergne-Rhône-Alpes;;R84;Réseaux haut débit (%);0.86;;
@@ -223,7 +223,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2015;Collectivités territoriales;0;Budget R&T;;Centre-Val de Loire;;R24;Equipement de laboratoires;1.87;;
 2015;Conseils régionaux;0;Budget R&T;;Bretagne;;R53;Tous objectifs;44.52;;
 2015;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;Centre-Val de Loire;;R24;Tous objectifs;;;
-2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);Île-de-France;;R11;Tous objectifs;nd;;
+2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);Île-de-France;;R11;Tous objectifs;0;;
 2015;Collectivités territoriales;1; Budget R&T;;Île-de-France;;R11;Equipement de laboratoires (%);14.37;;
 2015;Collectivités territoriales;1; Budget R&T;;Hauts-de-France;;R32;Transferts de technologie (%);35.69;;
 2015;Collectivités territoriales;1; Budget R&T;;Île-de-France;;R11;Transferts de technologie (%);41.41;;
@@ -349,7 +349,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2015;Conseils régionaux;1; Budget R&T réalisé dans le cadre du CPER;;Pays de la Loire;;R52;Tous objectifs;15.47;;
 2015;Collectivités territoriales;1; Budget R&T;;Provence-Alpes-Côte-d'Azur;;R93;Equipement de laboratoires (%);7.38;;
 2015;Collectivités territoriales;0;Budget R&T;;Provence-Alpes-Côte-d'Azur;;R93;Réseaux haut débit;1.28;;
-2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);Bretagne;;R53;Tous objectifs;nd;;
+2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);Bretagne;;R53;Tous objectifs;0;;
 2015;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;Bourgogne-Franche-Comté;;R27;Tous objectifs;0.29;;
 2015;Collectivités territoriales;1; Budget R&T réalisé dans le cadre du CPER;;Bretagne;;R53;Tous objectifs;12.59;;
 2015;Conseils régionaux;1; Budget R&T réalisé dans le cadre du CPER;;Bretagne;;R53;Tous objectifs;9.43;;
@@ -359,7 +359,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2015;Collectivités territoriales;1; Budget R&T;;Bretagne;;R53;Equipement de laboratoires (%);8.16;;
 2015;Collectivités territoriales;0;Budget R&T;;Bretagne;;R53;Opérations immobilières;8.54;;
 2015;Conseils départementaux;0;Budget R&T;;Bretagne;;R53;Tous objectifs;14.26;;
-2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);Nouvelle-Aquitaine;;R75;Tous objectifs;nd;;
+2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);Nouvelle-Aquitaine;;R75;Tous objectifs;0;;
 2015;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;Normandie;;R28;Tous objectifs;2.97;;
 2015;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;Normandie;;R28;Tous objectifs;0.33;;
 2015;Conseils régionaux;1; Budget R&T réalisé dans le cadre du CPER;;Normandie;;R28;Tous objectifs;24.6;;
@@ -369,7 +369,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2015;Collectivités territoriales;1; Budget R&T;;Normandie;;R28;Réseaux haut débit (%);2.75;;
 2015;Collectivités territoriales;1; Budget R&T;;Occitanie;;R76;Aides aux chercheurs (%);5.86;;
 2015;Collectivités territoriales;0;Budget R&T;;Normandie;;R28;Aides aux chercheurs;8.23;;
-2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);Auvergne-Rhône-Alpes;;R84;Tous objectifs;nd;;
+2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);Auvergne-Rhône-Alpes;;R84;Tous objectifs;0;;
 2015;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;Auvergne-Rhône-Alpes;;R84;Tous objectifs;11.31;;
 2015;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;Bourgogne-Franche-Comté;;R27;Tous objectifs;4.81;;
 2015;Communes et EPCI;1; Budget R&T réalisé dans le cadre du CPER;;Bourgogne-Franche-Comté;;R27;Tous objectifs;29.94;;
@@ -411,7 +411,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2015;Collectivités territoriales;1; Budget R&T;;Bourgogne-Franche-Comté;;R27;Réseaux haut débit (%);0;;
 2015;Collectivités territoriales;0;Budget R&T;;Bourgogne-Franche-Comté;;R27;Aides aux chercheurs;5.14;;
 2015;Collectivités territoriales;0;Budget R&T;;Bourgogne-Franche-Comté;;R27;Tous objectifs;30.37;;
-2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);Pays de la Loire;;R52;Tous objectifs;nd;;
+2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);Pays de la Loire;;R52;Tous objectifs;0;;
 2015;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;Occitanie;;R76;Tous objectifs;0.59;;
 2015;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;Occitanie;;R76;Tous objectifs;1.48;;
 2015;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;Pays de la Loire;;R52;Tous objectifs;24.73;;
@@ -440,7 +440,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2015;Collectivités territoriales;0;Budget R&T;;Nouvelle-Aquitaine;;R75;Aides aux chercheurs;12.16;;
 2015;Collectivités territoriales;1; Budget R&T;;Normandie;;R28;Transferts de technologie (%);24.11;;
 2015;Collectivités territoriales;0;Budget R&T;;Nouvelle-Aquitaine;;R75;Tous objectifs;108.66;;
-2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);Occitanie;;R76;Tous objectifs;nd;;
+2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);Occitanie;;R76;Tous objectifs;0;;
 2015;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;Nouvelle-Aquitaine;;R75;Tous objectifs;3.88;;
 2015;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;Occitanie;;R76;Tous objectifs;2.56;;
 2015;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;Nouvelle-Aquitaine;;R75;Tous objectifs;0.53;;
@@ -522,7 +522,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2015;Collectivités territoriales;0;Budget R&T;;Polynésie Française (4);;A41;Aides aux chercheurs;0.11;;
 2015;Conseils régionaux;0;Budget R&T;;Polynésie Française (4);;A41;Tous objectifs;3.35;;
 2015;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;Polynésie Française (4);;A41;Tous objectifs;;;
-2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);;France;XXX;Tous objectifs;nd;;
+2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);;France;XXX;Tous objectifs;0;;
 2015;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;France;XXX;Tous objectifs;25.83;;
 2015;Collectivités territoriales;1; Budget R&T réalisé dans le cadre du CPER;;;France;XXX;Tous objectifs;24.26;;
 2015;Collectivités territoriales;1; Budget R&T;;;France;XXX;Culture et information scientifique (%);3.33;;
@@ -617,7 +617,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2015;Collectivités territoriales;0;Budget R&T;;Guyane;;R03;Opérations immobilières;0;;
 2015;Collectivités territoriales;0;Budget R&T;;Guyane;;R03;Aides aux chercheurs;0.23;;
 2015;Conseils départementaux;1; Budget R&T réalisé dans le cadre du CPER;;Guadeloupe;;R01;Tous objectifs;;;
-2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);Martinique;;R02;Tous objectifs;nd;;
+2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);Martinique;;R02;Tous objectifs;0;;
 2015;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;Martinique;;R02;Tous objectifs;0.45;;
 2015;Collectivités territoriales;1; Budget R&T;;Martinique;;R02;Transferts de technologie (%);62.08;;
 2015;Collectivités territoriales;0;Budget R&T;;Martinique;;R02;Projets de la recherche publique;0;;
@@ -645,7 +645,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2014;Collectivités territoriales;1; Budget R&T;;Bourgogne-Franche-Comté;;R27;Budget non ventilé (%);0;;
 2014;Collectivités territoriales;0;Budget R&T;;Bretagne;;R53;Projets de la recherche publique;3.18;;
 2014;Collectivités territoriales;1; Budget R&T;;Bretagne;;R53;Equipement de laboratoires (%);4.71;;
-2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);La Réunion;;R04;Tous objectifs;nd;;
+2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);La Réunion;;R04;Tous objectifs;0;;
 2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);La Réunion;;R04;Tous objectifs;2.37;;
 2015;Conseils régionaux;1; Budget R&T réalisé dans le cadre du CPER;;La Réunion;;R04;Tous objectifs;100;;
 2015;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;La Réunion;;R04;Tous objectifs;2.01;;
@@ -900,7 +900,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2014;Collectivités territoriales;0;Budget R&T;;Bourgogne-Franche-Comté;;R27;Budget non ventilé;0;;
 2014;Collectivités territoriales;0;Budget R&T;;Bourgogne-Franche-Comté;;R27;Tous objectifs;37.13;;
 2015;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;Guadeloupe;;R01;Tous objectifs;;;
-2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);Mayotte (3);;R06;Tous objectifs;nd;;
+2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);Mayotte (3);;R06;Tous objectifs;0;;
 2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);Martinique;;R02;Tous objectifs;7.07;;
 2015;Collectivités territoriales;1; Budget R&T;;Mayotte (3);;R06;Culture et information scientifique (%);0;;
 2015;Collectivités territoriales;0;Budget R&T;;Martinique;;R02;Culture et information scientifique;0.39;;
@@ -946,7 +946,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2014;Collectivités territoriales;0;Budget R&T;;Île-de-France;;R11;Aides aux chercheurs;21.85;;
 2014;Collectivités territoriales;0;Budget R&T;;Île-de-France;;R11;Tous objectifs;172.53;;
 2014;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;Hauts-de-France;;R32;Tous objectifs;;;
-2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);Guyane;;R03;Tous objectifs;nd;;
+2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);Guyane;;R03;Tous objectifs;0;;
 2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;Guyane;;R03;Tous objectifs;0.12;;
 2015;Collectivités territoriales;1; Budget R&T;;Martinique;;R02;Culture et information scientifique (%);9.2;;
 2015;Collectivités territoriales;1; Budget R&T;;Martinique;;R02;Opérations immobilières (%);10.62;;
@@ -2066,7 +2066,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2012;Conseils régionaux;0;Budget R&T;;Centre-Val de Loire;;R24;Tous objectifs;24.48;;
 2012;Communes et EPCI;0;Budget R&T;;Centre-Val de Loire;;R24;Tous objectifs;4.46;;
 2012;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;Corse;;R94;Tous objectifs;0.41;;
-2012;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;Corse;;R94;Tous objectifs;nd;;
+2012;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;Corse;;R94;Tous objectifs;0;;
 2012;Collectivités territoriales;1; Budget R&T;;Corse;;R94;Réseaux haut débit (%);31.01;;
 2012;Collectivités territoriales;0;Budget R&T;;Île-de-France;;R11;Tous objectifs;180.03;;
 2012;Collectivités territoriales;0;Budget R&T;;Corse;;R94;Transferts de technologie;17.1;;
@@ -2146,7 +2146,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2012;Conseils départementaux;1; Budget R&T réalisé dans le cadre du CPER;;Centre-Val de Loire;;R24;Tous objectifs;47.88;;
 2012;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;Centre-Val de Loire;;R24;Tous objectifs;2.47;;
 2012;Collectivités territoriales;1; Budget R&T;;Île-de-France;;R11;Culture et information scientifique (%);2.27;;
-2012;Collectivités territoriales;1; Budget R&T réalisé dans le cadre du CPER;;Corse;;R94;Tous objectifs;nd;;
+2012;Collectivités territoriales;1; Budget R&T réalisé dans le cadre du CPER;;Corse;;R94;Tous objectifs;0;;
 2012;Collectivités territoriales;1; Budget R&T;;Corse;;R94;Culture et information scientifique (%);28.95;;
 2012;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;Corse;;R94;Tous objectifs;0;;
 2012;Collectivités territoriales;0;Budget R&T;;Île-de-France;;R11;Transferts de technologie;66.17;;
@@ -3339,7 +3339,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2011;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;Corse;;R94;Tous objectifs;0.77;;
 2011;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;Centre-Val de Loire;;R24;Tous objectifs;1.59;;
 2011;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;Centre-Val de Loire;;R24;Tous objectifs;1.63;;
-2011;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;Corse;;R94;Tous objectifs;nd;;
+2011;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;Corse;;R94;Tous objectifs;0;;
 2011;Collectivités territoriales;0;Budget R&T;;Corse;;R94;Projets de la recherche publique;10.56;;
 2011;Collectivités territoriales;0;Budget R&T;;Corse;;R94;Equipement de laboratoires;10.45;;
 2011;Collectivités territoriales;0;Budget R&T;;Corse;;R94;Réseaux haut débit;0.98;;
@@ -3398,7 +3398,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2011;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;Île-de-France;;R11;Tous objectifs;37.59;;
 2011;Conseils départementaux;1; Budget R&T réalisé dans le cadre du CPER;;Île-de-France;;R11;Tous objectifs;19.25;;
 2011;Collectivités territoriales;1; Budget R&T;;Île-de-France;;R11;Projets de la recherche publique (%);31.35;;
-2011;Collectivités territoriales;1; Budget R&T réalisé dans le cadre du CPER;;Corse;;R94;Tous objectifs;nd;;
+2011;Collectivités territoriales;1; Budget R&T réalisé dans le cadre du CPER;;Corse;;R94;Tous objectifs;0;;
 2012;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;;France;XXX;Tous objectifs;100;;
 2012;Collectivités territoriales;1; Budget R&T;;;France;XXX;Culture et information scientifique (%);3.17;;
 2012;Collectivités territoriales;1; Budget R&T;;;France;XXX;Projets de la recherche publique (%);14.91;;
@@ -3816,7 +3816,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2011;Collectivités territoriales;0;Budget R&T;;Bretagne;;R53;Transferts de technologie;2.28;;
 2011;Collectivités territoriales;0;Budget R&T;;Bretagne;;R53;Opérations immobilières;0;;
 2011;Conseils régionaux;0;Budget R&T;;Bretagne;;R53;Tous objectifs;45.12;;
-2011;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);Mayotte;;R06;Tous objectifs;nd;;
+2011;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);Mayotte;;R06;Tous objectifs;0;;
 2011;Collectivités territoriales;0;Budget R&T;;Mayotte;;R06;Culture et information scientifique;0;;
 2011;Collectivités territoriales;0;Budget R&T;;Mayotte;;R06;Réseaux haut débit;0;;
 2011;Conseils départementaux;0;Budget R&T;;Mayotte;;R06;Tous objectifs;0;;
@@ -4031,7 +4031,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2010;Conseils régionaux;0;Budget R&T;;Martinique;;R02;Tous objectifs;2.94;;
 2010;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;Martinique;;R02;Tous objectifs;;;
 2010;Communes et EPCI;1; Budget R&T réalisé dans le cadre du CPER;;Martinique;;R02;Tous objectifs;;;
-2010;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);Mayotte;;R06;Tous objectifs;nd;;
+2010;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);Mayotte;;R06;Tous objectifs;0;;
 2010;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;Mayotte;;R06;Tous objectifs;0.21;;
 2010;Collectivités territoriales;0;Budget R&T;;La Réunion;;R04;Projets de la recherche publique;2;;
 2010;Collectivités territoriales;1; Budget R&T;;Mayotte;;R06;Opérations immobilières (%);0;;
@@ -4580,7 +4580,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2009;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;Guadeloupe;;R01;Tous objectifs;;;
 2009;Conseils régionaux;1; Budget R&T réalisé dans le cadre du CPER;;Guyane;;R03;Tous objectifs;;;
 2009;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;Guyane;;R03;Tous objectifs;;;
-2009;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);Mayotte;;R06;Tous objectifs;nd;;
+2009;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);Mayotte;;R06;Tous objectifs;0;;
 2009;Collectivités territoriales;0;Budget R&T;;La Réunion;;R04;Tous objectifs;9.53;;
 2009;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;Mayotte;;R06;Tous objectifs;;;
 2008;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;Bourgogne - Franche-Comté;;R27;Tous objectifs;1.11;;
@@ -4659,7 +4659,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2009;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;Guadeloupe;;R01;Tous objectifs;;;
 2009;Conseils départementaux;1; Budget R&T réalisé dans le cadre du CPER;;Guadeloupe;;R01;Tous objectifs;;;
 2009;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;Guadeloupe;;R01;Tous objectifs;;;
-2009;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;Mayotte;;R06;Tous objectifs;nd;;
+2009;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;Mayotte;;R06;Tous objectifs;0;;
 2009;Conseils départementaux;1; Budget R&T réalisé dans le cadre du CPER;;Mayotte;;R06;Tous objectifs;;;
 2009;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;Mayotte;;R06;Tous objectifs;;;
 2009;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;Mayotte;;R06;Tous objectifs;;;
@@ -4891,7 +4891,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2009;Collectivités territoriales;1; Budget R&T;;Occitanie;;R76;Opérations immobilières (%);9.62;;
 2009;Collectivités territoriales;0;Budget R&T;;Occitanie;;R76;Equipement de laboratoires;9.73;;
 2009;Collectivités territoriales;0;Budget R&T;;Occitanie;;R76;Tous objectifs;83.89;;
-2009;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);Mayotte;;R06;Tous objectifs;nd;;
+2009;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);Mayotte;;R06;Tous objectifs;0;;
 2009;Conseils régionaux;1; Budget R&T réalisé dans le cadre du CPER;;Mayotte;;R06;Tous objectifs;;;
 2009;Communes et EPCI;0;Budget R&T;;Mayotte;;R06;Tous objectifs;;;
 2009;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);Guyane;;R03;Tous objectifs;0.33;;
@@ -5057,7 +5057,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2008;Conseils départementaux;0;Budget R&T;;Centre-Val de Loire;;R24;Tous objectifs;9.44;;
 2008;Conseils régionaux;0;Budget R&T;;Centre-Val de Loire;;R24;Tous objectifs;28.07;;
 2008;Collectivités territoriales;0;Budget R&T;;Corse;;R94;Aides aux chercheurs;9.14;;
-2008;Collectivités territoriales;1; Budget R&T réalisé dans le cadre du CPER;;Corse;;R94;Tous objectifs;nd;;
+2008;Collectivités territoriales;1; Budget R&T réalisé dans le cadre du CPER;;Corse;;R94;Tous objectifs;0;;
 2008;Collectivités territoriales;0;Budget R&T;;Île-de-France;;R11;Projets de la recherche publique;46.31;;
 2008;Collectivités territoriales;1; Budget R&T;;Île-de-France;;R11;Transferts de technologie (%);36.56;;
 2008;Conseils régionaux;0;Budget R&T;;Île-de-France;;R11;Tous objectifs;130.26;;
@@ -5310,7 +5310,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2009;Collectivités territoriales;0;Budget R&T;;Martinique;;R02;Réseaux haut débit;5.85;;
 2009;Collectivités territoriales;1; Budget R&T;;Martinique;;R02;Budget non ventilé (%);0;;
 2009;Conseils départementaux;0;Budget R&T;;Martinique;;R02;Tous objectifs;1.08;;
-2009;Conseils régionaux;0;Budget R&T;;Mayotte;;R06;Tous objectifs;nd;;
+2009;Conseils régionaux;0;Budget R&T;;Mayotte;;R06;Tous objectifs;0;;
 2009;Collectivités territoriales;1; Budget R&T;;Mayotte;;R06;Aides aux chercheurs (%);;;
 2009;Collectivités territoriales;0;Budget R&T;;Mayotte;;R06;Réseaux haut débit;;;
 2009;Collectivités territoriales;0;Budget R&T;;Mayotte;;R06;Budget non ventilé;;;
@@ -5427,7 +5427,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2009;Collectivités territoriales;1; Budget R&T;;Bretagne;;R53;Budget non ventilé (%);0;;
 2009;Conseils départementaux;0;Budget R&T;;Bretagne;;R53;Tous objectifs;15.57;;
 2009;Conseils départementaux;1; Budget R&T réalisé dans le cadre du CPER;;Martinique;;R02;Tous objectifs;23.01;;
-2009;Collectivités territoriales;0;Budget R&T;;Mayotte;;R06;Tous objectifs;nd;;
+2009;Collectivités territoriales;0;Budget R&T;;Mayotte;;R06;Tous objectifs;0;;
 2009;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;Martinique;;R02;Tous objectifs;;;
 2009;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;Martinique;;R02;Tous objectifs;;;
 2009;Collectivités territoriales;1; Budget R&T réalisé dans le cadre du CPER;;Mayotte;;R06;Tous objectifs;;;
@@ -6767,8 +6767,8 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2009;Collectivités territoriales;1; Budget R&T;;;;;Transferts de technologie (%);14.59;R02;Martinique
 2009;Collectivités territoriales;1; Budget R&T;;;;;Réseaux haut débit (%);60.68;R02;Martinique
 2009;Collectivités territoriales;1; Budget R&T;;;;;Budget non ventilé (%);0;R02;Martinique
-2009;Collectivités territoriales;1; Budget R&T;;;;;Projets de la recherche publique (%);nd;R06;Mayotte (3)
-2009;Collectivités territoriales;0;Budget R&T;;;;;Réseaux haut débit;nd;R06;Mayotte (3)
+2009;Collectivités territoriales;1; Budget R&T;;;;;Projets de la recherche publique (%);0;R06;Mayotte (3)
+2009;Collectivités territoriales;0;Budget R&T;;;;;Réseaux haut débit;0;R06;Mayotte (3)
 2009;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;;R06;Mayotte (3)
 2009;Conseils départementaux;0;Budget R&T;;;;;Tous objectifs;;R06;Mayotte (3)
 2009;Collectivités territoriales;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;;R06;Mayotte (3)
@@ -7510,16 +7510,16 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2015;Collectivités territoriales;0;Budget R&T;;;;;Aides aux chercheurs;4.65;R73;MidiPyrénées
 2015;Collectivités territoriales;1; Budget R&T;;;;;Réseaux haut débit (%);0;R73;MidiPyrénées
 2015;Collectivités territoriales;1; Budget R&T;;;;;Budget non ventilé (%);0;R73;MidiPyrénées
-2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;nd;R73;MidiPyrénées
+2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;0;R73;MidiPyrénées
 2015;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;33.78;R73;MidiPyrénées
 2015;Collectivités territoriales;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;53.33;R73;MidiPyrénées
 2015;Conseils régionaux;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;58.51;R73;MidiPyrénées
 2015;Conseils départementaux;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;30.44;R73;MidiPyrénées
 2015;Collectivités territoriales;1; Budget R&T;;;;;Equipement de laboratoires (%);5.42;R31;NordPasdeCalais
 2015;Collectivités territoriales;1; Budget R&T;;;;;Aides aux chercheurs (%);10.7;R31;NordPasdeCalais
-2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;nd;R31;NordPasdeCalais
+2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;0;R31;NordPasdeCalais
 2015;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;4.45;R31;NordPasdeCalais
-2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;nd;R52;Pays de la Loire
+2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;0;R52;Pays de la Loire
 2015;Communes et EPCI;0;Budget R&T;;;;;Tous objectifs;12.94;R52;Pays de la Loire
 2015;Conseils régionaux;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;15.47;R52;Pays de la Loire
 2015;Collectivités territoriales;0;Budget R&T;;;;;Equipement de laboratoires;1.38;R22;Picardie
@@ -7546,7 +7546,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2015;Collectivités territoriales;1; Budget R&T;;;;;Equipement de laboratoires (%);0.78;R82;RhôneAlpes
 2015;Collectivités territoriales;0;Budget R&T;;;;;Projets de la recherche publique;0.14;R82;RhôneAlpes
 2015;Collectivités territoriales;0;Budget R&T;;;;;Transferts de technologie;64.84;R82;RhôneAlpes
-2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;nd;R82;RhôneAlpes
+2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;0;R82;RhôneAlpes
 2015;Collectivités territoriales;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;11.31;R82;RhôneAlpes
 2015;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;1.11;R82;RhôneAlpes
 2015;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;11.26;R82;RhôneAlpes
@@ -7579,7 +7579,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2015;Collectivités territoriales;1; Budget R&T;;;;;Transferts de technologie (%);0;R06;Mayotte (3)
 2015;Collectivités territoriales;0;Budget R&T;;;;;Réseaux haut débit;0;R06;Mayotte (3)
 2015;Collectivités territoriales;0;Budget R&T;;;;;Culture et information scientifique;0;R06;Mayotte (3)
-2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;nd;R06;Mayotte (3)
+2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;0;R06;Mayotte (3)
 2015;Conseils régionaux;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;;R06;Mayotte (3)
 2015;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;;R06;Mayotte (3)
 2015;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;;R06;Mayotte (3)
@@ -8145,11 +8145,11 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2009;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0.25;R02;Martinique
 2009;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;;R02;Martinique
 2009;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;;R02;Martinique
-2009;Collectivités territoriales;1; Budget R&T;;;;;Opérations immobilières (%);nd;R06;Mayotte (3)
-2009;Collectivités territoriales;1; Budget R&T;;;;;Equipement de laboratoires (%);nd;R06;Mayotte (3)
-2009;Collectivités territoriales;1; Budget R&T;;;;;Aides aux chercheurs (%);nd;R06;Mayotte (3)
-2009;Collectivités territoriales;1; Budget R&T;;;;;Réseaux haut débit (%);nd;R06;Mayotte (3)
-2009;Collectivités territoriales;0;Budget R&T;;;;;Budget non ventilé;nd;R06;Mayotte (3)
+2009;Collectivités territoriales;1; Budget R&T;;;;;Opérations immobilières (%);0;R06;Mayotte (3)
+2009;Collectivités territoriales;1; Budget R&T;;;;;Equipement de laboratoires (%);0;R06;Mayotte (3)
+2009;Collectivités territoriales;1; Budget R&T;;;;;Aides aux chercheurs (%);0;R06;Mayotte (3)
+2009;Collectivités territoriales;1; Budget R&T;;;;;Réseaux haut débit (%);0;R06;Mayotte (3)
+2009;Collectivités territoriales;0;Budget R&T;;;;;Budget non ventilé;0;R06;Mayotte (3)
 2009;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);;;;Tous objectifs;;R06;Mayotte (3)
 2009;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;;R06;Mayotte (3)
 2009;Conseils régionaux;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;;R06;Mayotte (3)
@@ -8823,7 +8823,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2008;Collectivités territoriales;0;Budget R&T;;Mayotte;;R06;Réseaux haut débit;;;
 2008;Collectivités territoriales;1; Budget R&T;;Mayotte;;R06;Culture et information scientifique (%);;;
 2008;Collectivités territoriales;0;Budget R&T;;Mayotte;;R06;Budget non ventilé;;;
-2008;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;Mayotte;;R06;Tous objectifs;nd;;
+2008;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;Mayotte;;R06;Tous objectifs;0;;
 2008;Conseils départementaux;0;Budget R&T;;Mayotte;;R06;Tous objectifs;0;;
 2008;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;Mayotte;;R06;Tous objectifs;;;
 2008;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;Mayotte;;R06;Tous objectifs;;;
@@ -8917,8 +8917,8 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2008;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;Martinique;;R02;Tous objectifs;;;
 2008;Collectivités territoriales;0;Budget R&T;;Mayotte;;R06;Opérations immobilières;;;
 2008;Collectivités territoriales;0;Budget R&T;;Mayotte;;R06;Projets de la recherche publique;;;
-2008;Conseils régionaux;0;Budget R&T;;Mayotte;;R06;Tous objectifs;nd;;
-2008;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);Mayotte;;R06;Tous objectifs;nd;;
+2008;Conseils régionaux;0;Budget R&T;;Mayotte;;R06;Tous objectifs;0;;
+2008;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);Mayotte;;R06;Tous objectifs;0;;
 2008;Communes et EPCI;0;Budget R&T;;Mayotte;;R06;Tous objectifs;0;;
 2008;Conseils régionaux;1; Budget R&T réalisé dans le cadre du CPER;;Mayotte;;R06;Tous objectifs;;;
 2008;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;Mayotte;;R06;Tous objectifs;;;
@@ -9041,7 +9041,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2008;Collectivités territoriales;1; Budget R&T;;Guyane;;R03;Transferts de technologie (%);55.8;;
 2008;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);Guyane;;R03;Tous objectifs;3.27;;
 2008;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;Guyane;;R03;Tous objectifs;;;
-2008;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;Guyane;;R03;Tous objectifs;nd;;
+2008;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;Guyane;;R03;Tous objectifs;0;;
 2008;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;Guyane;;R03;Tous objectifs;;;
 2008;Collectivités territoriales;0;Budget R&T;;Martinique;;R02;Tous objectifs;5.41;;
 2008;Collectivités territoriales;1; Budget R&T;;Martinique;;R02;Equipement de laboratoires (%);0;;
@@ -9049,7 +9049,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2008;Collectivités territoriales;0;Budget R&T;;Martinique;;R02;Culture et information scientifique;0;;
 2008;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);Martinique;;R02;Tous objectifs;11.21;;
 2008;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;Martinique;;R02;Tous objectifs;;;
-2008;Conseils régionaux;1; Budget R&T réalisé dans le cadre du CPER;;Martinique;;R02;Tous objectifs;nd;;
+2008;Conseils régionaux;1; Budget R&T réalisé dans le cadre du CPER;;Martinique;;R02;Tous objectifs;0;;
 2008;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;Martinique;;R02;Tous objectifs;0.3;;
 2008;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;Martinique;;R02;Tous objectifs;;;
 2008;Collectivités territoriales;1; Budget R&T;;Mayotte;;R06;Aides aux chercheurs (%);;;
@@ -9151,13 +9151,13 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2008;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);;;;Tous objectifs;11.21;R02;Martinique
 2008;Communes et EPCI;0;Budget R&T;;;;;Tous objectifs;0.27;R02;Martinique
 2008;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0;R02;Martinique
-2008;Collectivités territoriales;0;Budget R&T;;;;;Tous objectifs;nd;R06;Mayotte (3)
-2008;Collectivités territoriales;1; Budget R&T;;;;;Opérations immobilières (%);nd;R06;Mayotte (3)
-2008;Collectivités territoriales;1; Budget R&T;;;;;Projets de la recherche publique (%);nd;R06;Mayotte (3)
-2008;Collectivités territoriales;1; Budget R&T;;;;;Réseaux haut débit (%);nd;R06;Mayotte (3)
-2008;Collectivités territoriales;1; Budget R&T;;;;;Budget non ventilé (%);nd;R06;Mayotte (3)
-2008;Collectivités territoriales;0;Budget R&T;;;;;Budget non ventilé;nd;R06;Mayotte (3)
-2008;Conseils régionaux;0;Budget R&T;;;;;Tous objectifs;nd;R06;Mayotte (3)
+2008;Collectivités territoriales;0;Budget R&T;;;;;Tous objectifs;0;R06;Mayotte (3)
+2008;Collectivités territoriales;1; Budget R&T;;;;;Opérations immobilières (%);0;R06;Mayotte (3)
+2008;Collectivités territoriales;1; Budget R&T;;;;;Projets de la recherche publique (%);0;R06;Mayotte (3)
+2008;Collectivités territoriales;1; Budget R&T;;;;;Réseaux haut débit (%);0;R06;Mayotte (3)
+2008;Collectivités territoriales;1; Budget R&T;;;;;Budget non ventilé (%);0;R06;Mayotte (3)
+2008;Collectivités territoriales;0;Budget R&T;;;;;Budget non ventilé;0;R06;Mayotte (3)
+2008;Conseils régionaux;0;Budget R&T;;;;;Tous objectifs;0;R06;Mayotte (3)
 2008;Conseils départementaux;0;Budget R&T;;;;;Tous objectifs;;R06;Mayotte (3)
 2008;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;;R06;Mayotte (3)
 2008;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;;R06;Mayotte (3)
@@ -9365,7 +9365,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2007;Conseils régionaux;0;Budget R&T;;Guyane;;R03;Tous objectifs;0.48;;
 2007;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);Guyane;;R03;Tous objectifs;2.25;;
 2007;Collectivités territoriales;1; Budget R&T réalisé dans le cadre du CPER;;Guyane;;R03;Tous objectifs;;;
-2007;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;Guyane;;R03;Tous objectifs;nd;;
+2007;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;Guyane;;R03;Tous objectifs;0;;
 2007;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;Guyane;;R03;Tous objectifs;;;
 2007;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;Guyane;;R03;Tous objectifs;;;
 2007;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;Guyane;;R03;Tous objectifs;;;
@@ -9377,10 +9377,10 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2007;Collectivités territoriales;1; Budget R&T;;Martinique;;R02;Budget non ventilé (%);0;;
 2007;Collectivités territoriales;0;Budget R&T;;Martinique;;R02;Budget non ventilé;0;;
 2007;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);Martinique;;R02;Tous objectifs;0.78;;
-2007;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;Martinique;;R02;Tous objectifs;nd;;
+2007;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;Martinique;;R02;Tous objectifs;0;;
 2007;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;Martinique;;R02;Tous objectifs;;;
 2007;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;Martinique;;R02;Tous objectifs;;;
-2007;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;Mayotte;;R06;Tous objectifs;nd;;
+2007;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;Mayotte;;R06;Tous objectifs;0;;
 2007;Communes et EPCI;0;Budget R&T;;Mayotte;;R06;Tous objectifs;;;
 2007;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;Mayotte;;R06;Tous objectifs;;;
 2007;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;Mayotte;;R06;Tous objectifs;;;
@@ -9389,7 +9389,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2007;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);La Réunion;;R04;Tous objectifs;8.96;;
 2007;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);La Réunion;;R04;Tous objectifs;0.89;;
 2007;Conseils départementaux;0;Budget R&T;;La Réunion;;R04;Tous objectifs;0.2;;
-2007;Communes et EPCI;0;Budget R&T;;La Réunion;;R04;Tous objectifs;nd;;
+2007;Communes et EPCI;0;Budget R&T;;La Réunion;;R04;Tous objectifs;0;;
 2007;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;La Réunion;;R04;Tous objectifs;;;
 2007;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;La Réunion;;R04;Tous objectifs;;;
 2007;Collectivités territoriales;0;Budget R&T;;Polynésie Française (4);;A41;Equipement de laboratoires;0.3;;
@@ -9583,13 +9583,13 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2007;Collectivités territoriales;0;Budget R&T;;Martinique;;R02;Culture et information scientifique;0;;
 2007;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);Martinique;;R02;Tous objectifs;6.03;;
 2007;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;Martinique;;R02;Tous objectifs;0.18;;
-2007;Collectivités territoriales;0;Budget R&T;;Mayotte;;R06;Tous objectifs;nd;;
+2007;Collectivités territoriales;0;Budget R&T;;Mayotte;;R06;Tous objectifs;0;;
 2007;Collectivités territoriales;0;Budget R&T;;Mayotte;;R06;Projets de la recherche publique;;;
 2007;Collectivités territoriales;1; Budget R&T;;Mayotte;;R06;Aides aux chercheurs (%);;;
 2007;Collectivités territoriales;1; Budget R&T;;Mayotte;;R06;Transferts de technologie (%);;;
 2007;Collectivités territoriales;1; Budget R&T;;Mayotte;;R06;Réseaux haut débit (%);;;
 2007;Collectivités territoriales;0;Budget R&T;;Mayotte;;R06;Culture et information scientifique;;;
-2007;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);Mayotte;;R06;Tous objectifs;nd;;
+2007;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);Mayotte;;R06;Tous objectifs;0;;
 2007;Collectivités territoriales;1; Budget R&T réalisé dans le cadre du CPER;;Mayotte;;R06;Tous objectifs;;;
 2007;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;Mayotte;;R06;Tous objectifs;;;
 2007;Collectivités territoriales;0;Budget R&T;;La Réunion;;R04;Tous objectifs;7.31;;
@@ -9613,14 +9613,14 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2008;Collectivités territoriales;0;Budget R&T;;Guyane;;R03;Culture et information scientifique;0.01;;
 2008;Conseils départementaux;0;Budget R&T;;Guyane;;R03;Tous objectifs;0;;
 2008;Communes et EPCI;0;Budget R&T;;Guyane;;R03;Tous objectifs;0;;
-2008;Conseils régionaux;1; Budget R&T réalisé dans le cadre du CPER;;Guyane;;R03;Tous objectifs;nd;;
+2008;Conseils régionaux;1; Budget R&T réalisé dans le cadre du CPER;;Guyane;;R03;Tous objectifs;0;;
 2008;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;Guyane;;R03;Tous objectifs;;;
 2008;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;Guyane;;R03;Tous objectifs;;;
 2008;Collectivités territoriales;0;Budget R&T;;Martinique;;R02;Opérations immobilières;0.3;;
 2008;Collectivités territoriales;1; Budget R&T;;Martinique;;R02;Transferts de technologie (%);32.21;;
 2008;Collectivités territoriales;1; Budget R&T;;Martinique;;R02;Budget non ventilé (%);0;;
 2008;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);Martinique;;R02;Tous objectifs;1.52;;
-2008;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;Martinique;;R02;Tous objectifs;nd;;
+2008;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;Martinique;;R02;Tous objectifs;0;;
 2008;Communes et EPCI;1; Budget R&T réalisé dans le cadre du CPER;;Martinique;;R02;Tous objectifs;;;
 2008;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;Martinique;;R02;Tous objectifs;;;
 2008;Collectivités territoriales;1; Budget R&T;;Mayotte;;R06;Budget non ventilé (%);;;
@@ -9653,10 +9653,10 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2008;Collectivités territoriales;0;Budget R&T;;;France;XXX;Réseaux haut débit;37.47;;
 2008;Collectivités territoriales;1; Budget R&T;;;France;XXX;Budget non ventilé (%);1.83;;
 2008;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;;France;XXX;Tous objectifs;100;;
-2008;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;;France;XXX;Tous objectifs;nd;;
-2008;Collectivités territoriales;1; Budget R&T réalisé dans le cadre du CPER;;;France;XXX;Tous objectifs;nd;;
-2008;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;France;XXX;Tous objectifs;nd;;
-2008;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;France;XXX;Tous objectifs;nd;;
+2008;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;;France;XXX;Tous objectifs;0;;
+2008;Collectivités territoriales;1; Budget R&T réalisé dans le cadre du CPER;;;France;XXX;Tous objectifs;0;;
+2008;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;France;XXX;Tous objectifs;0;;
+2008;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;France;XXX;Tous objectifs;0;;
 2008;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;France;XXX;Tous objectifs;29.74;;
 2007;Collectivités territoriales;1; Budget R&T;;Grand Est;;R44;Transferts de technologie (%);63.01;;
 2007;Collectivités territoriales;0;Budget R&T;;Grand Est;;R44;Culture et information scientifique;4.63;;
@@ -9695,7 +9695,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2007;Collectivités territoriales;0;Budget R&T;;Corse;;R94;Tous objectifs;1.9;;
 2007;Collectivités territoriales;1; Budget R&T;;Corse;;R94;Opérations immobilières (%);1245.65;;
 2007;Collectivités territoriales;1; Budget R&T;;Corse;;R94;Budget non ventilé (%);1.98;;
-2007;Collectivités territoriales;1; Budget R&T réalisé dans le cadre du CPER;;Corse;;R94;Tous objectifs;nd;;
+2007;Collectivités territoriales;1; Budget R&T réalisé dans le cadre du CPER;;Corse;;R94;Tous objectifs;0;;
 2007;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;Corse;;R94;Tous objectifs;;;
 2007;Conseils régionaux;1; Budget R&T réalisé dans le cadre du CPER;;Corse;;R94;Tous objectifs;;;
 2007;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;Corse;;R94;Tous objectifs;;;
@@ -9807,9 +9807,9 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2007;Collectivités territoriales;1; Budget R&T;;;France;XXX;Réseaux haut débit (%);3.96;;
 2007;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;;France;XXX;Tous objectifs;100;;
 2007;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);;France;XXX;Tous objectifs;2.59;;
-2007;Collectivités territoriales;1; Budget R&T réalisé dans le cadre du CPER;;;France;XXX;Tous objectifs;nd;;
-2007;Conseils départementaux;1; Budget R&T réalisé dans le cadre du CPER;;;France;XXX;Tous objectifs;nd;;
-2007;Communes et EPCI;1; Budget R&T réalisé dans le cadre du CPER;;;France;XXX;Tous objectifs;nd;;
+2007;Collectivités territoriales;1; Budget R&T réalisé dans le cadre du CPER;;;France;XXX;Tous objectifs;0;;
+2007;Conseils départementaux;1; Budget R&T réalisé dans le cadre du CPER;;;France;XXX;Tous objectifs;0;;
+2007;Communes et EPCI;1; Budget R&T réalisé dans le cadre du CPER;;;France;XXX;Tous objectifs;0;;
 2015;Collectivités territoriales;1; Budget R&T;;;;;Equipement de laboratoires (%);1.52;R42;Alsace
 2015;Collectivités territoriales;0;Budget R&T;;;;;Equipement de laboratoires;0.28;R42;Alsace
 2015;Collectivités territoriales;0;Budget R&T;;;;;Aides aux chercheurs;2.77;R42;Alsace
@@ -9849,7 +9849,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2015;Collectivités territoriales;0;Budget R&T;;;;;Tous objectifs;39.66;R24;Centre
 2015;Collectivités territoriales;0;Budget R&T;;;;;Opérations immobilières;0.5;R24;Centre
 2015;Collectivités territoriales;1; Budget R&T;;;;;Projets de la recherche publique (%);53.02;R24;Centre
-2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;nd;R24;Centre
+2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;0;R24;Centre
 2015;Conseils départementaux;0;Budget R&T;;;;;Tous objectifs;2.72;R24;Centre
 2015;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;2.32;R24;Centre
 2015;Collectivités territoriales;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;5.86;R24;Centre
@@ -9890,7 +9890,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2015;Collectivités territoriales;1; Budget R&T;;;;;Opérations immobilières (%);25.3;R11;IledeFrance
 2015;Collectivités territoriales;0;Budget R&T;;;;;Réseaux haut débit;1.19;R11;IledeFrance
 2015;Collectivités territoriales;0;Budget R&T;;;;;Budget non ventilé;0.17;R11;IledeFrance
-2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;nd;R11;IledeFrance
+2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;0;R11;IledeFrance
 2015;Conseils départementaux;0;Budget R&T;;;;;Tous objectifs;30.99;R11;IledeFrance
 2015;Collectivités territoriales;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;24.42;R11;IledeFrance
 2015;Collectivités territoriales;0;Budget R&T;;;;;Projets de la recherche publique;0.08;R91;LanguedocRoussillon
@@ -9900,13 +9900,13 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2015;Conseils départementaux;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;;R91;LanguedocRoussillon
 2015;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;;R91;LanguedocRoussillon
 2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);;;;Tous objectifs;5.62;R42;Alsace
-2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;nd;R42;Alsace
+2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;0;R42;Alsace
 2015;Conseils départementaux;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;47.83;R42;Alsace
 2015;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;1.56;R42;Alsace
 2015;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;1.56;R42;Alsace
 2015;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;;R42;Alsace
 2015;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;;R42;Alsace
-2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;nd;R72;Aquitaine
+2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;0;R72;Aquitaine
 2015;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;11.79;R72;Aquitaine
 2015;Conseils départementaux;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;20.66;R72;Aquitaine
 2015;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0.02;R72;Aquitaine
@@ -9984,7 +9984,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2015;Collectivités territoriales;1; Budget R&T;;;;;Transferts de technologie (%);50.53;R91;LanguedocRoussillon
 2015;Collectivités territoriales;0;Budget R&T;;;;;Transferts de technologie;18.48;R91;LanguedocRoussillon
 2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;;;;Tous objectifs;3.42;R91;LanguedocRoussillon
-2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;nd;R91;LanguedocRoussillon
+2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;0;R91;LanguedocRoussillon
 2015;Collectivités territoriales;0;Budget R&T;;;;;Opérations immobilières;7.63;R74;Limousin
 2015;Collectivités territoriales;1; Budget R&T;;;;;Projets de la recherche publique (%);0;R74;Limousin
 2015;Collectivités territoriales;0;Budget R&T;;;;;Aides aux chercheurs;2.9;R74;Limousin
@@ -10016,8 +10016,8 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2007;Communes et EPCI;0;Budget R&T;;Nouvelle-Calédonie (5);;A40;Tous objectifs;0;;
 2007;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;Nouvelle-Calédonie (5);;A40;Tous objectifs;;;
 2007;Conseils régionaux;0;Budget R&T;;;France;XXX;Tous objectifs;635.43;;
-2007;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;;France;XXX;Tous objectifs;nd;;
-2007;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;France;XXX;Tous objectifs;nd;;
+2007;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;;France;XXX;Tous objectifs;0;;
+2007;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;France;XXX;Tous objectifs;0;;
 2007;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;France;XXX;Tous objectifs;97.31;;
 2015;Collectivités territoriales;0;Budget R&T;;;;;Opérations immobilières;3.81;R42;Alsace
 2015;Collectivités territoriales;0;Budget R&T;;;;;Transferts de technologie;9.25;R42;Alsace
@@ -10073,7 +10073,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2015;Collectivités territoriales;1; Budget R&T;;;;;Culture et information scientifique (%);2.56;R21;ChampagneArdenne
 2015;Collectivités territoriales;0;Budget R&T;;;;;Culture et information scientifique;0.84;R21;ChampagneArdenne
 2015;Collectivités territoriales;0;Budget R&T;;;;;Budget non ventilé;0;R21;ChampagneArdenne
-2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;nd;R21;ChampagneArdenne
+2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;0;R21;ChampagneArdenne
 2015;Conseils départementaux;0;Budget R&T;;;;;Tous objectifs;5.37;R21;ChampagneArdenne
 2015;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0.61;R21;ChampagneArdenne
 2015;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0.42;R21;ChampagneArdenne
@@ -10087,10 +10087,10 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2015;Collectivités territoriales;0;Budget R&T;;;;;Tous objectifs;18.61;R43;FrancheComté
 2015;Conseils régionaux;0;Budget R&T;;;;;Tous objectifs;15.28;R43;FrancheComté
 2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);;;;Tous objectifs;12.95;R43;FrancheComté
-2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;nd;R43;FrancheComté
+2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;0;R43;FrancheComté
 2015;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;4.52;R43;FrancheComté
 2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;;;;Tous objectifs;4.06;R23;HauteNormandie
-2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;nd;R23;HauteNormandie
+2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;0;R23;HauteNormandie
 2015;Conseils départementaux;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;51.03;R23;HauteNormandie
 2015;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;2.8;R23;HauteNormandie
 2014;Collectivités territoriales;0;Budget R&T;;;;;Transferts de technologie;0.03;A41;Polynésie Française (4)
@@ -10171,17 +10171,17 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2007;Collectivités territoriales;0;Budget R&T;;Martinique;;R02;Tous objectifs;2.9;;
 2007;Collectivités territoriales;1; Budget R&T;;Martinique;;R02;Aides aux chercheurs (%);0;;
 2007;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;Martinique;;R02;Tous objectifs;0.38;;
-2007;Conseils régionaux;1; Budget R&T réalisé dans le cadre du CPER;;Martinique;;R02;Tous objectifs;nd;;
+2007;Conseils régionaux;1; Budget R&T réalisé dans le cadre du CPER;;Martinique;;R02;Tous objectifs;0;;
 2007;Communes et EPCI;1; Budget R&T réalisé dans le cadre du CPER;;Martinique;;R02;Tous objectifs;;;
 2007;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;Martinique;;R02;Tous objectifs;;;
 2007;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;Martinique;;R02;Tous objectifs;;;
-2007;Collectivités territoriales;1; Budget R&T;;Mayotte;;R06;Opérations immobilières (%);nd;;
+2007;Collectivités territoriales;1; Budget R&T;;Mayotte;;R06;Opérations immobilières (%);0;;
 2007;Collectivités territoriales;1; Budget R&T;;Mayotte;;R06;Equipement de laboratoires (%);;;
 2007;Collectivités territoriales;0;Budget R&T;;Mayotte;;R06;Aides aux chercheurs;;;
 2007;Collectivités territoriales;1; Budget R&T;;Mayotte;;R06;Culture et information scientifique (%);;;
 2007;Collectivités territoriales;1; Budget R&T;;Mayotte;;R06;Budget non ventilé (%);;;
 2007;Collectivités territoriales;0;Budget R&T;;Mayotte;;R06;Budget non ventilé;;;
-2007;Conseils régionaux;0;Budget R&T;;Mayotte;;R06;Tous objectifs;nd;;
+2007;Conseils régionaux;0;Budget R&T;;Mayotte;;R06;Tous objectifs;0;;
 2007;Conseils départementaux;0;Budget R&T;;Mayotte;;R06;Tous objectifs;;;
 2007;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;Mayotte;;R06;Tous objectifs;;;
 2007;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;Mayotte;;R06;Tous objectifs;;;
@@ -10270,7 +10270,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2007;Collectivités territoriales;0;Budget R&T;;Corse;;R94;Réseaux haut débit;3.47;;
 2007;Collectivités territoriales;0;Budget R&T;;Corse;;R94;Budget non ventilé;0.04;;
 2007;Conseils régionaux;0;Budget R&T;;Corse;;R94;Tous objectifs;1.9;;
-2007;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;Corse;;R94;Tous objectifs;nd;;
+2007;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;Corse;;R94;Tous objectifs;0;;
 2007;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;Corse;;R94;Tous objectifs;;;
 2007;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;Corse;;R94;Tous objectifs;0.77;;
 2007;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;Corse;;R94;Tous objectifs;;;
@@ -10308,7 +10308,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2015;Collectivités territoriales;1; Budget R&T;;;;;Aides aux chercheurs (%);5.86;R41;Lorraine
 2015;Collectivités territoriales;1; Budget R&T;;;;;Transferts de technologie (%);39.56;R41;Lorraine
 2015;Collectivités territoriales;1; Budget R&T;;;;;Réseaux haut débit (%);0;R41;Lorraine
-2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;nd;R41;Lorraine
+2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;0;R41;Lorraine
 2015;Collectivités territoriales;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;52.9;R41;Lorraine
 2015;Collectivités territoriales;0;Budget R&T;;;;;Tous objectifs;63.33;R73;MidiPyrénées
 2015;Collectivités territoriales;0;Budget R&T;;;;;Projets de la recherche publique;9.91;R73;MidiPyrénées
@@ -10354,7 +10354,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2015;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0.58;R54;PoitouCharentes
 2015;Collectivités territoriales;0;Budget R&T;;;;;Réseaux haut débit;1.28;R93;ProvenceAlpesCôte d'Azur
 2015;Collectivités territoriales;1; Budget R&T;;;;;Budget non ventilé (%);0;R93;ProvenceAlpesCôte d'Azur
-2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;nd;R93;ProvenceAlpesCôte d'Azur
+2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;0;R93;ProvenceAlpesCôte d'Azur
 2015;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;12.94;R93;ProvenceAlpesCôte d'Azur
 2015;Collectivités territoriales;0;Budget R&T;;;;;Tous objectifs;140.09;R82;RhôneAlpes
 2015;Collectivités territoriales;1; Budget R&T;;;;;Transferts de technologie (%);46.29;R82;RhôneAlpes
@@ -10457,7 +10457,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2015;Collectivités territoriales;0;Budget R&T;;;;;Equipement de laboratoires;0.08;R01;Guadeloupe
 2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;;;;Tous objectifs;0.19;R01;Guadeloupe
 2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);;;;Tous objectifs;4.09;R01;Guadeloupe
-2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;nd;R01;Guadeloupe
+2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;0;R01;Guadeloupe
 2015;Communes et EPCI;0;Budget R&T;;;;;Tous objectifs;;R01;Guadeloupe
 2015;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;;R01;Guadeloupe
 2015;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;;R01;Guadeloupe
@@ -10483,7 +10483,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2015;Collectivités territoriales;0;Budget R&T;;;;;Réseaux haut débit;0;R04;La Réunion
 2015;Conseils régionaux;0;Budget R&T;;;;;Tous objectifs;2.01;R04;La Réunion
 2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;;;;Tous objectifs;0.23;R04;La Réunion
-2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;nd;R04;La Réunion
+2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;0;R04;La Réunion
 2015;Conseils départementaux;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;98.56;R04;La Réunion
 2015;Communes et EPCI;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;;R04;La Réunion
 2015;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;;R04;La Réunion
@@ -10605,7 +10605,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2007;Collectivités territoriales;0;Budget R&T;;;France;XXX;Equipement de laboratoires;93.77;;
 2007;Collectivités territoriales;1; Budget R&T;;;France;XXX;Transferts de technologie (%);27.59;;
 2007;Collectivités territoriales;1; Budget R&T;;;France;XXX;Culture et information scientifique (%);3.72;;
-2007;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;France;XXX;Tous objectifs;nd;;
+2007;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;France;XXX;Tous objectifs;0;;
 2007;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;France;XXX;Tous objectifs;129.72;;
 2015;Collectivités territoriales;1; Budget R&T;;;;;Opérations immobilières (%);21.09;R42;Alsace
 2015;Collectivités territoriales;0;Budget R&T;;;;;Budget non ventilé;0;R42;Alsace
@@ -10625,14 +10625,14 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2015;Collectivités territoriales;1; Budget R&T;;;;;Transferts de technologie (%);15.94;R83;Auvergne
 2015;Collectivités territoriales;1; Budget R&T;;;;;Réseaux haut débit (%);0;R83;Auvergne
 2015;Collectivités territoriales;1; Budget R&T;;;;;Budget non ventilé (%);0;R83;Auvergne
-2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;nd;R83;Auvergne
+2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;0;R83;Auvergne
 2015;Communes et EPCI;0;Budget R&T;;;;;Tous objectifs;3.27;R83;Auvergne
 2015;Conseils régionaux;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;41.28;R83;Auvergne
 2015;Collectivités territoriales;0;Budget R&T;;;;;Réseaux haut débit;0.42;R25;BasseNormandie
 2015;Collectivités territoriales;1; Budget R&T;;;;;Culture et information scientifique (%);3.64;R25;BasseNormandie
 2015;Collectivités territoriales;1; Budget R&T;;;;;Budget non ventilé (%);0;R25;BasseNormandie
 2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);;;;Tous objectifs;17.39;R25;BasseNormandie
-2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;nd;R25;BasseNormandie
+2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;0;R25;BasseNormandie
 2015;Conseils départementaux;0;Budget R&T;;;;;Tous objectifs;3.09;R25;BasseNormandie
 2015;Communes et EPCI;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;19.86;R25;BasseNormandie
 2015;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0.27;R25;BasseNormandie
@@ -10644,13 +10644,13 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2015;Collectivités territoriales;0;Budget R&T;;;;;Transferts de technologie;4.38;R26;Bourgogne
 2015;Collectivités territoriales;0;Budget R&T;;;;;Réseaux haut débit;0;R26;Bourgogne
 2015;Conseils régionaux;0;Budget R&T;;;;;Tous objectifs;8.61;R26;Bourgogne
-2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;nd;R26;Bourgogne
+2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;0;R26;Bourgogne
 2015;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0.29;R26;Bourgogne
 2015;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0.17;R26;Bourgogne
 2015;Collectivités territoriales;1; Budget R&T;;;;;Réseaux haut débit (%);4.93;R53;Bretagne
 2015;Collectivités territoriales;0;Budget R&T;;;;;Culture et information scientifique;6.97;R53;Bretagne
 2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);;;;Tous objectifs;13.51;R53;Bretagne
-2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;nd;R53;Bretagne
+2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;0;R53;Bretagne
 2015;Collectivités territoriales;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;12.59;R53;Bretagne
 2015;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;4.2;R53;Bretagne
 2015;Conseils départementaux;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;11.21;R53;Bretagne
@@ -10672,7 +10672,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2015;Communes et EPCI;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;14.11;R21;ChampagneArdenne
 2015;Collectivités territoriales;0;Budget R&T;;;;;Transferts de technologie;0.2;R94;Corse (2)
 2015;Collectivités territoriales;0;Budget R&T;;;;;Réseaux haut débit;0;R94;Corse (2)
-2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;nd;R94;Corse (2)
+2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;0;R94;Corse (2)
 2015;Collectivités territoriales;1; Budget R&T;;;;;Projets de la recherche publique (%);21.1;R43;FrancheComté
 2015;Collectivités territoriales;0;Budget R&T;;;;;Transferts de technologie;5.05;R43;FrancheComté
 2015;Collectivités territoriales;1; Budget R&T;;;;;Culture et information scientifique (%);6.02;R43;FrancheComté
@@ -10713,18 +10713,18 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2007;Communes et EPCI;1; Budget R&T réalisé dans le cadre du CPER;;Guadeloupe;;R01;Tous objectifs;;;
 2007;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;Guadeloupe;;R01;Tous objectifs;;;
 2007;Communes et EPCI;0;Budget R&T;;Guyane;;R03;Tous objectifs;;;
-2007;Conseils régionaux;1; Budget R&T réalisé dans le cadre du CPER;;Guyane;;R03;Tous objectifs;nd;;
+2007;Conseils régionaux;1; Budget R&T réalisé dans le cadre du CPER;;Guyane;;R03;Tous objectifs;0;;
 2007;Collectivités territoriales;1; Budget R&T;;Martinique;;R02;Projets de la recherche publique (%);11.03;;
 2007;Collectivités territoriales;1; Budget R&T;;Martinique;;R02;Culture et information scientifique (%);0;;
 2007;Conseils départementaux;0;Budget R&T;;Martinique;;R02;Tous objectifs;0.5;;
-2007;Communes et EPCI;0;Budget R&T;;Martinique;;R02;Tous objectifs;nd;;
+2007;Communes et EPCI;0;Budget R&T;;Martinique;;R02;Tous objectifs;0;;
 2007;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;Martinique;;R02;Tous objectifs;;;
 2007;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;Martinique;;R02;Tous objectifs;;;
 2007;Collectivités territoriales;0;Budget R&T;;Mayotte;;R06;Equipement de laboratoires;;;
 2007;Collectivités territoriales;1; Budget R&T;;Mayotte;;R06;Projets de la recherche publique (%);;;
 2007;Collectivités territoriales;0;Budget R&T;;Mayotte;;R06;Transferts de technologie;;;
 2007;Collectivités territoriales;0;Budget R&T;;Mayotte;;R06;Réseaux haut débit;;;
-2007;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);Mayotte;;R06;Tous objectifs;nd;;
+2007;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);Mayotte;;R06;Tous objectifs;0;;
 2007;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;Mayotte;;R06;Tous objectifs;;;
 2007;Conseils départementaux;1; Budget R&T réalisé dans le cadre du CPER;;Mayotte;;R06;Tous objectifs;;;
 2007;Collectivités territoriales;1; Budget R&T;;La Réunion;;R04;Opérations immobilières (%);10.53;;
@@ -10763,8 +10763,8 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2007;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);;France;XXX;Tous objectifs;9.81;;
 2007;Conseils départementaux;0;Budget R&T;;;France;XXX;Tous objectifs;173.69;;
 2007;Communes et EPCI;0;Budget R&T;;;France;XXX;Tous objectifs;136.66;;
-2007;Conseils régionaux;1; Budget R&T réalisé dans le cadre du CPER;;;France;XXX;Tous objectifs;nd;;
-2007;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;;France;XXX;Tous objectifs;nd;;
+2007;Conseils régionaux;1; Budget R&T réalisé dans le cadre du CPER;;;France;XXX;Tous objectifs;0;;
+2007;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;;France;XXX;Tous objectifs;0;;
 2015;Collectivités territoriales;0;Budget R&T;;;;;Tous objectifs;18.08;R42;Alsace
 2015;Collectivités territoriales;1; Budget R&T;;;;;Aides aux chercheurs (%);15.3;R42;Alsace
 2015;Collectivités territoriales;1; Budget R&T;;;;;Culture et information scientifique (%);8.8;R42;Alsace
@@ -10903,7 +10903,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2015;Collectivités territoriales;1; Budget R&T;;;;;Transferts de technologie (%);34.63;XXX;TOTAL FRANCE
 2015;Collectivités territoriales;1; Budget R&T;;;;;Réseaux haut débit (%);1.2;XXX;TOTAL FRANCE
 2015;Collectivités territoriales;0;Budget R&T;;;;;Réseaux haut débit;14.37;XXX;TOTAL FRANCE
-2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;nd;XXX;TOTAL FRANCE
+2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;0;XXX;TOTAL FRANCE
 2015;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;291.53;XXX;TOTAL FRANCE
 2015;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;212.15;XXX;TOTAL FRANCE
 2015;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;55.34;XXX;TOTAL FRANCE
@@ -11147,13 +11147,13 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2015;Collectivités territoriales;0;Budget R&T;;;;;Budget non ventilé;0;R22;Picardie
 2015;Conseils régionaux;0;Budget R&T;;;;;Tous objectifs;26.7;R22;Picardie
 2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);;;;Tous objectifs;13.81;R22;Picardie
-2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;nd;R22;Picardie
+2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;0;R22;Picardie
 2015;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0.01;R22;Picardie
 2015;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0;R22;Picardie
 2015;Collectivités territoriales;1; Budget R&T;;;;;Projets de la recherche publique (%);3.4;R54;PoitouCharentes
 2015;Collectivités territoriales;1; Budget R&T;;;;;Culture et information scientifique (%);20;R54;PoitouCharentes
 2015;Collectivités territoriales;0;Budget R&T;;;;;Culture et information scientifique;2.94;R54;PoitouCharentes
-2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;nd;R54;PoitouCharentes
+2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;0;R54;PoitouCharentes
 2015;Communes et EPCI;0;Budget R&T;;;;;Tous objectifs;3.5;R54;PoitouCharentes
 2015;Conseils départementaux;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;30.56;R54;PoitouCharentes
 2015;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0.03;R54;PoitouCharentes
@@ -11178,7 +11178,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2015;Collectivités territoriales;1; Budget R&T;;;;;Aides aux chercheurs (%);21.94;R03;Guyane
 2015;Collectivités territoriales;1; Budget R&T;;;;;Réseaux haut débit (%);14.25;R03;Guyane
 2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;;;;Tous objectifs;0.12;R03;Guyane
-2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;nd;R03;Guyane
+2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;0;R03;Guyane
 2015;Communes et EPCI;0;Budget R&T;;;;;Tous objectifs;;R03;Guyane
 2015;Collectivités territoriales;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;;R03;Guyane
 2015;Conseils départementaux;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;;R03;Guyane
@@ -11260,7 +11260,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2015;Collectivités territoriales;1; Budget R&T;;;;;Réseaux haut débit (%);0;R74;Limousin
 2015;Collectivités territoriales;0;Budget R&T;;;;;Réseaux haut débit;0;R74;Limousin
 2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;;;;Tous objectifs;2.44;R74;Limousin
-2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;nd;R74;Limousin
+2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;0;R74;Limousin
 2015;Communes et EPCI;0;Budget R&T;;;;;Tous objectifs;0.8;R74;Limousin
 2015;Collectivités territoriales;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;35.08;R74;Limousin
 2015;Conseils régionaux;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;36.46;R74;Limousin
@@ -11735,7 +11735,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2015;Collectivités territoriales;1; Budget R&T;;;;;Culture et information scientifique (%);9.2;R02;Martinique
 2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;;;;Tous objectifs;0.31;R02;Martinique
 2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);;;;Tous objectifs;7.07;R02;Martinique
-2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;nd;R02;Martinique
+2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;0;R02;Martinique
 2015;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0.45;R02;Martinique
 2015;Collectivités territoriales;0;Budget R&T;;;;;Aides aux chercheurs;0.45;R06;Mayotte (3)
 2008;Collectivités territoriales;1; Budget R&T;;;;;Equipement de laboratoires (%);18;R72;Aquitaine
@@ -11793,7 +11793,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2008;Collectivités territoriales;0;Budget R&T;;;;;Equipement de laboratoires;0;R94;Corse (2)
 2008;Collectivités territoriales;1; Budget R&T;;;;;Aides aux chercheurs (%);47.63;R94;Corse (2)
 2008;Collectivités territoriales;0;Budget R&T;;;;;Aides aux chercheurs;0.65;R94;Corse (2)
-2008;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;nd;R94;Corse (2)
+2008;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;R94;Corse (2)
 2008;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0;R94;Corse (2)
 2008;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0;R94;Corse (2)
 2008;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0;R94;Corse (2)
@@ -12037,11 +12037,11 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2009;Conseils départementaux;0;Budget R&T;;;;;Tous objectifs;1.08;R02;Martinique
 2009;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;1.8;R02;Martinique
 2009;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;;R02;Martinique
-2009;Collectivités territoriales;0;Budget R&T;;;;;Tous objectifs;nd;R06;Mayotte (3)
-2009;Collectivités territoriales;0;Budget R&T;;;;;Equipement de laboratoires;nd;R06;Mayotte (3)
-2009;Collectivités territoriales;0;Budget R&T;;;;;Projets de la recherche publique;nd;R06;Mayotte (3)
-2009;Collectivités territoriales;1; Budget R&T;;;;;Culture et information scientifique (%);nd;R06;Mayotte (3)
-2009;Collectivités territoriales;0;Budget R&T;;;;;Culture et information scientifique;nd;R06;Mayotte (3)
+2009;Collectivités territoriales;0;Budget R&T;;;;;Tous objectifs;0;R06;Mayotte (3)
+2009;Collectivités territoriales;0;Budget R&T;;;;;Equipement de laboratoires;0;R06;Mayotte (3)
+2009;Collectivités territoriales;0;Budget R&T;;;;;Projets de la recherche publique;0;R06;Mayotte (3)
+2009;Collectivités territoriales;1; Budget R&T;;;;;Culture et information scientifique (%);0;R06;Mayotte (3)
+2009;Collectivités territoriales;0;Budget R&T;;;;;Culture et information scientifique;0;R06;Mayotte (3)
 2009;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;;R06;Mayotte (3)
 2009;Collectivités territoriales;0;Budget R&T;;;;;Opérations immobilières;2.03;R04;La Réunion
 2009;Collectivités territoriales;0;Budget R&T;;;;;Aides aux chercheurs;0.5;R04;La Réunion
@@ -12381,10 +12381,10 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2009;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;1.31;R02;Martinique
 2009;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0.25;R02;Martinique
 2009;Communes et EPCI;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;100;R02;Martinique
-2009;Collectivités territoriales;0;Budget R&T;;;;;Aides aux chercheurs;nd;R06;Mayotte (3)
-2009;Collectivités territoriales;0;Budget R&T;;;;;Transferts de technologie;nd;R06;Mayotte (3)
-2009;Collectivités territoriales;1; Budget R&T;;;;;Budget non ventilé (%);nd;R06;Mayotte (3)
-2009;Conseils régionaux;0;Budget R&T;;;;;Tous objectifs;nd;R06;Mayotte (3)
+2009;Collectivités territoriales;0;Budget R&T;;;;;Aides aux chercheurs;0;R06;Mayotte (3)
+2009;Collectivités territoriales;0;Budget R&T;;;;;Transferts de technologie;0;R06;Mayotte (3)
+2009;Collectivités territoriales;1; Budget R&T;;;;;Budget non ventilé (%);0;R06;Mayotte (3)
+2009;Conseils régionaux;0;Budget R&T;;;;;Tous objectifs;0;R06;Mayotte (3)
 2009;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;;;;Tous objectifs;;R06;Mayotte (3)
 2009;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;;R06;Mayotte (3)
 2009;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;;R06;Mayotte (3)
@@ -12489,8 +12489,8 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2009;Conseils régionaux;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;15.75;R02;Martinique
 2009;Conseils départementaux;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;23.01;R02;Martinique
 2009;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;;R02;Martinique
-2009;Collectivités territoriales;0;Budget R&T;;;;;Opérations immobilières;nd;R06;Mayotte (3)
-2009;Collectivités territoriales;1; Budget R&T;;;;;Transferts de technologie (%);nd;R06;Mayotte (3)
+2009;Collectivités territoriales;0;Budget R&T;;;;;Opérations immobilières;0;R06;Mayotte (3)
+2009;Collectivités territoriales;1; Budget R&T;;;;;Transferts de technologie (%);0;R06;Mayotte (3)
 2009;Communes et EPCI;0;Budget R&T;;;;;Tous objectifs;;R06;Mayotte (3)
 2009;Communes et EPCI;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;;R06;Mayotte (3)
 2009;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;;R06;Mayotte (3)
@@ -12528,7 +12528,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2008;Collectivités territoriales;1; Budget R&T;;;;;Transferts de technologie (%);21.52;R94;Corse (2)
 2008;Collectivités territoriales;1; Budget R&T;;;;;Réseaux haut débit (%);0;R94;Corse (2)
 2008;Collectivités territoriales;0;Budget R&T;;;;;Réseaux haut débit;0;R94;Corse (2)
-2008;Conseils régionaux;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;nd;R94;Corse (2)
+2008;Conseils régionaux;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;R94;Corse (2)
 2008;Collectivités territoriales;1; Budget R&T;;;;;Projets de la recherche publique (%);15.84;R43;FrancheComté
 2008;Collectivités territoriales;1; Budget R&T;;;;;Transferts de technologie (%);35.13;R43;FrancheComté
 2008;Collectivités territoriales;1; Budget R&T;;;;;Budget non ventilé (%);0.73;R43;FrancheComté
@@ -12703,9 +12703,9 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2008;Collectivités territoriales;1; Budget R&T;;;;;Culture et information scientifique (%);0;R02;Martinique
 2008;Conseils départementaux;0;Budget R&T;;;;;Tous objectifs;0.68;R02;Martinique
 2008;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;;R02;Martinique
-2008;Conseils régionaux;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;nd;R02;Martinique
+2008;Conseils régionaux;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;R02;Martinique
 2008;Conseils départementaux;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;44.12;R02;Martinique
-2008;Collectivités territoriales;0;Budget R&T;;;;;Projets de la recherche publique;nd;R06;Mayotte (3)
+2008;Collectivités territoriales;0;Budget R&T;;;;;Projets de la recherche publique;0;R06;Mayotte (3)
 2008;Collectivités territoriales;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;;R06;Mayotte (3)
 2008;Collectivités territoriales;0;Budget R&T;;;;;Aides aux chercheurs;0.96;R04;La Réunion
 2008;Collectivités territoriales;1; Budget R&T;;;;;Réseaux haut débit (%);0.29;R04;La Réunion
@@ -12794,7 +12794,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2007;Collectivités territoriales;1; Budget R&T;;;;;Transferts de technologie (%);11.03;R94;Corse (2)
 2007;Collectivités territoriales;0;Budget R&T;;;;;Culture et information scientifique;0.05;R94;Corse (2)
 2007;Collectivités territoriales;1; Budget R&T;;;;;Budget non ventilé (%);0;R94;Corse (2)
-2007;Conseils régionaux;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;nd;R94;Corse (2)
+2007;Conseils régionaux;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;R94;Corse (2)
 2007;Conseils départementaux;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;;R94;Corse (2)
 2007;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0.77;R94;Corse (2)
 2007;Collectivités territoriales;0;Budget R&T;;;;;Projets de la recherche publique;1.66;R43;FrancheComté
@@ -12888,8 +12888,8 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2008;Collectivités territoriales;1; Budget R&T;;;;;Budget non ventilé (%);0;R94;Corse (2)
 2008;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);;;;Tous objectifs;4.36;R94;Corse (2)
 2008;Communes et EPCI;0;Budget R&T;;;;;Tous objectifs;0.04;R94;Corse (2)
-2008;Collectivités territoriales;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;nd;R94;Corse (2)
-2008;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;nd;R94;Corse (2)
+2008;Collectivités territoriales;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;R94;Corse (2)
+2008;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;R94;Corse (2)
 2008;Collectivités territoriales;0;Budget R&T;;;;;Projets de la recherche publique;1.95;R43;FrancheComté
 2008;Collectivités territoriales;1; Budget R&T;;;;;Aides aux chercheurs (%);18.13;R43;FrancheComté
 2008;Collectivités territoriales;0;Budget R&T;;;;;Budget non ventilé;0.09;R43;FrancheComté
@@ -13048,8 +13048,8 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2008;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;R02;Martinique
 2008;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0;R02;Martinique
 2008;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0;R02;Martinique
-2008;Collectivités territoriales;1; Budget R&T;;;;;Equipement de laboratoires (%);nd;R06;Mayotte (3)
-2008;Collectivités territoriales;1; Budget R&T;;;;;Transferts de technologie (%);nd;R06;Mayotte (3)
+2008;Collectivités territoriales;1; Budget R&T;;;;;Equipement de laboratoires (%);0;R06;Mayotte (3)
+2008;Collectivités territoriales;1; Budget R&T;;;;;Transferts de technologie (%);0;R06;Mayotte (3)
 2008;Conseils départementaux;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;;R06;Mayotte (3)
 2008;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;;R06;Mayotte (3)
 2008;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;;R06;Mayotte (3)
@@ -13385,20 +13385,20 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2008;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;;R01;Guadeloupe
 2008;Collectivités territoriales;0;Budget R&T;;;;;Réseaux haut débit;0;R03;Guyane
 2008;Collectivités territoriales;0;Budget R&T;;;;;Budget non ventilé;0;R03;Guyane
-2008;Conseils régionaux;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;nd;R03;Guyane
+2008;Conseils régionaux;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;R03;Guyane
 2008;Communes et EPCI;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;;R03;Guyane
 2008;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;;R03;Guyane
 2008;Collectivités territoriales;1; Budget R&T;;;;;Transferts de technologie (%);32.21;R02;Martinique
 2008;Collectivités territoriales;0;Budget R&T;;;;;Réseaux haut débit;2.4;R02;Martinique
 2008;Collectivités territoriales;1; Budget R&T;;;;;Budget non ventilé (%);0;R02;Martinique
-2008;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;nd;R02;Martinique
+2008;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;R02;Martinique
 2008;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0;R02;Martinique
-2008;Collectivités territoriales;0;Budget R&T;;;;;Opérations immobilières;nd;R06;Mayotte (3)
-2008;Collectivités territoriales;0;Budget R&T;;;;;Equipement de laboratoires;nd;R06;Mayotte (3)
-2008;Collectivités territoriales;1; Budget R&T;;;;;Aides aux chercheurs (%);nd;R06;Mayotte (3)
-2008;Collectivités territoriales;0;Budget R&T;;;;;Transferts de technologie;nd;R06;Mayotte (3)
-2008;Collectivités territoriales;1; Budget R&T;;;;;Culture et information scientifique (%);nd;R06;Mayotte (3)
-2008;Collectivités territoriales;0;Budget R&T;;;;;Culture et information scientifique;nd;R06;Mayotte (3)
+2008;Collectivités territoriales;0;Budget R&T;;;;;Opérations immobilières;0;R06;Mayotte (3)
+2008;Collectivités territoriales;0;Budget R&T;;;;;Equipement de laboratoires;0;R06;Mayotte (3)
+2008;Collectivités territoriales;1; Budget R&T;;;;;Aides aux chercheurs (%);0;R06;Mayotte (3)
+2008;Collectivités territoriales;0;Budget R&T;;;;;Transferts de technologie;0;R06;Mayotte (3)
+2008;Collectivités territoriales;1; Budget R&T;;;;;Culture et information scientifique (%);0;R06;Mayotte (3)
+2008;Collectivités territoriales;0;Budget R&T;;;;;Culture et information scientifique;0;R06;Mayotte (3)
 2008;Collectivités territoriales;0;Budget R&T;;;;;Transferts de technologie;1.68;R23;HauteNormandie
 2008;Collectivités territoriales;0;Budget R&T;;;;;Réseaux haut débit;1.38;R23;HauteNormandie
 2008;Communes et EPCI;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;;R23;HauteNormandie
@@ -13493,7 +13493,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2008;Collectivités territoriales;0;Budget R&T;;;;;Opérations immobilières;0;R03;Guyane
 2008;Collectivités territoriales;1; Budget R&T;;;;;Culture et information scientifique (%);1.39;R03;Guyane
 2008;Collectivités territoriales;1; Budget R&T;;;;;Budget non ventilé (%);0;R03;Guyane
-2008;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;nd;R03;Guyane
+2008;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;R03;Guyane
 2008;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;;R03;Guyane
 2008;Conseils départementaux;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;;R03;Guyane
 2008;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;;R03;Guyane
@@ -13905,8 +13905,8 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2008;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;0.78;R02;Martinique
 2008;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0.3;R02;Martinique
 2008;Communes et EPCI;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;R02;Martinique
-2008;Collectivités territoriales;0;Budget R&T;;;;;Aides aux chercheurs;nd;R06;Mayotte (3)
-2008;Collectivités territoriales;0;Budget R&T;;;;;Réseaux haut débit;nd;R06;Mayotte (3)
+2008;Collectivités territoriales;0;Budget R&T;;;;;Aides aux chercheurs;0;R06;Mayotte (3)
+2008;Collectivités territoriales;0;Budget R&T;;;;;Réseaux haut débit;0;R06;Mayotte (3)
 2008;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;;;;Tous objectifs;;R06;Mayotte (3)
 2008;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);;;;Tous objectifs;;R06;Mayotte (3)
 2008;Conseils régionaux;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;;R06;Mayotte (3)
@@ -14099,9 +14099,9 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2009;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0.04;R25;BasseNormandie
 2009;Collectivités territoriales;1; Budget R&T;;;;;Opérations immobilières (%);46.69;R26;Bourgogne
 2009;Collectivités territoriales;1; Budget R&T;;;;;Projets de la recherche publique (%);7.02;R26;Bourgogne
-2008;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;nd;XXX;TOTAL FRANCE
-2008;Collectivités territoriales;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;nd;XXX;TOTAL FRANCE
-2008;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;nd;XXX;TOTAL FRANCE
+2008;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;XXX;TOTAL FRANCE
+2008;Collectivités territoriales;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;XXX;TOTAL FRANCE
+2008;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;XXX;TOTAL FRANCE
 2007;Collectivités territoriales;0;Budget R&T;;;;;Réseaux haut débit;0.06;R42;Alsace
 2007;Collectivités territoriales;0;Budget R&T;;;;;Budget non ventilé;6.46;R42;Alsace
 2007;Communes et EPCI;0;Budget R&T;;;;;Tous objectifs;1.04;R42;Alsace
@@ -14568,7 +14568,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2009;Collectivités territoriales;1; Budget R&T;;;;;Réseaux haut débit (%);0.39;R31;NordPasdeCalais
 2009;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;2.31;R31;NordPasdeCalais
 2008;Communes et EPCI;0;Budget R&T;;;;;Tous objectifs;151.17;XXX;TOTAL FRANCE
-2008;Communes et EPCI;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;nd;XXX;TOTAL FRANCE
+2008;Communes et EPCI;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;XXX;TOTAL FRANCE
 2008;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;29.74;XXX;TOTAL FRANCE
 2007;Collectivités territoriales;1; Budget R&T;;;;;Equipement de laboratoires (%);12.81;R42;Alsace
 2007;Collectivités territoriales;0;Budget R&T;;;;;Equipement de laboratoires;2.59;R42;Alsace
@@ -14698,7 +14698,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2007;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;;R02;Martinique
 2007;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;;R02;Martinique
 2007;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;;R02;Martinique
-2007;Collectivités territoriales;1; Budget R&T;;;;;Opérations immobilières (%);nd;R06;Mayotte (3)
+2007;Collectivités territoriales;1; Budget R&T;;;;;Opérations immobilières (%);0;R06;Mayotte (3)
 2010;Collectivités territoriales;1; Budget R&T;;;;;Equipement de laboratoires (%);6.43;R83;Auvergne
 2010;Collectivités territoriales;1; Budget R&T;;;;;Aides aux chercheurs (%);34.81;R83;Auvergne
 2010;Collectivités territoriales;0;Budget R&T;;;;;Réseaux haut débit;0.01;R83;Auvergne
@@ -14725,7 +14725,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2008;Collectivités territoriales;0;Budget R&T;;Corse;;R94;Réseaux haut débit;1.92;;
 2008;Collectivités territoriales;1; Budget R&T;;Corse;;R94;Budget non ventilé (%);0;;
 2008;Conseils départementaux;0;Budget R&T;;Corse;;R94;Tous objectifs;0;;
-2008;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;Corse;;R94;Tous objectifs;nd;;
+2008;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;Corse;;R94;Tous objectifs;0;;
 2008;Conseils régionaux;1; Budget R&T réalisé dans le cadre du CPER;;Corse;;R94;Tous objectifs;0;;
 2008;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;Corse;;R94;Tous objectifs;;;
 2008;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;Corse;;R94;Tous objectifs;;;
@@ -14881,8 +14881,8 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2009;Collectivités territoriales;0;Budget R&T;;;;;Transferts de technologie;3.74;R83;Auvergne
 2009;Collectivités territoriales;1; Budget R&T;;;;;Réseaux haut débit (%);1.66;R83;Auvergne
 2008;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;2.59;XXX;TOTAL FRANCE
-2008;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;nd;XXX;TOTAL FRANCE
-2008;Conseils départementaux;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;nd;XXX;TOTAL FRANCE
+2008;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;XXX;TOTAL FRANCE
+2008;Conseils départementaux;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;XXX;TOTAL FRANCE
 2008;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;124.55;XXX;TOTAL FRANCE
 2007;Collectivités territoriales;0;Budget R&T;;;;;Transferts de technologie;4.96;R42;Alsace
 2007;Collectivités territoriales;1; Budget R&T;;;;;Budget non ventilé (%);32.01;R42;Alsace
@@ -15032,8 +15032,8 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2007;Collectivités territoriales;0;Budget R&T;;;;;Budget non ventilé;0;R94;Corse (2)
 2007;Conseils régionaux;0;Budget R&T;;;;;Tous objectifs;1.9;R94;Corse (2)
 2007;Conseils départementaux;0;Budget R&T;;;;;Tous objectifs;;R94;Corse (2)
-2007;Collectivités territoriales;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;nd;R94;Corse (2)
-2007;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;nd;R94;Corse (2)
+2007;Collectivités territoriales;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;R94;Corse (2)
+2007;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;R94;Corse (2)
 2007;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;;R94;Corse (2)
 2007;Collectivités territoriales;1; Budget R&T;;;;;Opérations immobilières (%);11.2;R43;FrancheComté
 2007;Collectivités territoriales;0;Budget R&T;;;;;Culture et information scientifique;0.81;R43;FrancheComté
@@ -15099,8 +15099,8 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2007;Collectivités territoriales;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;28.46;R52;Pays de la Loire
 2007;Communes et EPCI;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;25.58;R52;Pays de la Loire
 2007;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0.8;R52;Pays de la Loire
-2007;Collectivités territoriales;1; Budget R&T;;;;;Projets de la recherche publique (%);nd;R06;Mayotte (3)
-2007;Collectivités territoriales;1; Budget R&T;;;;;Transferts de technologie (%);nd;R06;Mayotte (3)
+2007;Collectivités territoriales;1; Budget R&T;;;;;Projets de la recherche publique (%);0;R06;Mayotte (3)
+2007;Collectivités territoriales;1; Budget R&T;;;;;Transferts de technologie (%);0;R06;Mayotte (3)
 2007;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;;R06;Mayotte (3)
 2007;Conseils régionaux;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;;R06;Mayotte (3)
 2007;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;;R06;Mayotte (3)
@@ -15133,9 +15133,9 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2007;Collectivités territoriales;1; Budget R&T;;;;;Projets de la recherche publique (%);15.5;XXX;TOTAL FRANCE
 2007;Collectivités territoriales;1; Budget R&T;;;;;Réseaux haut débit (%);3.96;XXX;TOTAL FRANCE
 2007;Conseils régionaux;0;Budget R&T;;;;;Tous objectifs;635.43;XXX;TOTAL FRANCE
-2007;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;nd;XXX;TOTAL FRANCE
-2007;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;nd;XXX;TOTAL FRANCE
-2007;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;nd;XXX;TOTAL FRANCE
+2007;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;XXX;TOTAL FRANCE
+2007;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;XXX;TOTAL FRANCE
+2007;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;XXX;TOTAL FRANCE
 2010;Communes et EPCI;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;35.26;R25;BasseNormandie
 2010;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;2.03;R25;BasseNormandie
 2010;Collectivités territoriales;0;Budget R&T;;;;;Equipement de laboratoires;4.76;R26;Bourgogne
@@ -15199,14 +15199,14 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2010;Collectivités territoriales;1; Budget R&T;;;;;Equipement de laboratoires (%);2.45;R91;LanguedocRoussillon
 2010;Collectivités territoriales;0;Budget R&T;;;;;Aides aux chercheurs;1.27;R91;LanguedocRoussillon
 2010;Conseils départementaux;0;Budget R&T;;;;;Tous objectifs;0.48;R91;LanguedocRoussillon
-2008;Collectivités territoriales;0;Budget R&T;;Mayotte;;R06;Tous objectifs;nd;;
+2008;Collectivités territoriales;0;Budget R&T;;Mayotte;;R06;Tous objectifs;0;;
 2008;Collectivités territoriales;1; Budget R&T;;Mayotte;;R06;Opérations immobilières (%);;;
 2008;Collectivités territoriales;1; Budget R&T;;Mayotte;;R06;Equipement de laboratoires (%);;;
 2008;Collectivités territoriales;0;Budget R&T;;Mayotte;;R06;Equipement de laboratoires;;;
 2008;Collectivités territoriales;0;Budget R&T;;Mayotte;;R06;Aides aux chercheurs;;;
 2008;Collectivités territoriales;1; Budget R&T;;Mayotte;;R06;Réseaux haut débit (%);;;
 2008;Collectivités territoriales;0;Budget R&T;;Mayotte;;R06;Culture et information scientifique;;;
-2008;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);Mayotte;;R06;Tous objectifs;nd;;
+2008;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);Mayotte;;R06;Tous objectifs;0;;
 2008;Conseils départementaux;1; Budget R&T réalisé dans le cadre du CPER;;Mayotte;;R06;Tous objectifs;;;
 2008;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;Mayotte;;R06;Tous objectifs;;;
 2008;Collectivités territoriales;0;Budget R&T;;La Réunion;;R04;Tous objectifs;7.5;;
@@ -15236,10 +15236,10 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2008;Collectivités territoriales;1; Budget R&T;;;France;XXX;Culture et information scientifique (%);3.31;;
 2008;Collectivités territoriales;0;Budget R&T;;;France;XXX;Culture et information scientifique;36.16;;
 2008;Conseils régionaux;0;Budget R&T;;;France;XXX;Tous objectifs;758.55;;
-2008;Conseils régionaux;1; Budget R&T réalisé dans le cadre du CPER;;;France;XXX;Tous objectifs;nd;;
-2008;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;;France;XXX;Tous objectifs;nd;;
-2008;Conseils départementaux;1; Budget R&T réalisé dans le cadre du CPER;;;France;XXX;Tous objectifs;nd;;
-2008;Communes et EPCI;1; Budget R&T réalisé dans le cadre du CPER;;;France;XXX;Tous objectifs;nd;;
+2008;Conseils régionaux;1; Budget R&T réalisé dans le cadre du CPER;;;France;XXX;Tous objectifs;0;;
+2008;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;;France;XXX;Tous objectifs;0;;
+2008;Conseils départementaux;1; Budget R&T réalisé dans le cadre du CPER;;;France;XXX;Tous objectifs;0;;
+2008;Communes et EPCI;1; Budget R&T réalisé dans le cadre du CPER;;;France;XXX;Tous objectifs;0;;
 2008;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;France;XXX;Tous objectifs;172.03;;
 2008;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;France;XXX;Tous objectifs;124.55;;
 2007;Conseils régionaux;0;Budget R&T;;Grand Est;;R44;Tous objectifs;50.38;;
@@ -15408,8 +15408,8 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2009;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;2.7;R72;Aquitaine
 2009;Collectivités territoriales;1; Budget R&T;;;;;Aides aux chercheurs (%);32.89;R83;Auvergne
 2009;Collectivités territoriales;0;Budget R&T;;;;;Réseaux haut débit;0.15;R83;Auvergne
-2008;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;nd;XXX;TOTAL FRANCE
-2008;Conseils régionaux;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;nd;XXX;TOTAL FRANCE
+2008;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;XXX;TOTAL FRANCE
+2008;Conseils régionaux;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;XXX;TOTAL FRANCE
 2008;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;17.74;XXX;TOTAL FRANCE
 2007;Collectivités territoriales;0;Budget R&T;;;;;Tous objectifs;20.19;R42;Alsace
 2007;Collectivités territoriales;1; Budget R&T;;;;;Opérations immobilières (%);14.15;R42;Alsace
@@ -15473,7 +15473,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2007;Collectivités territoriales;0;Budget R&T;;;;;Projets de la recherche publique;0.99;R94;Corse (2)
 2007;Collectivités territoriales;1; Budget R&T;;;;;Réseaux haut débit (%);0;R94;Corse (2)
 2007;Collectivités territoriales;1; Budget R&T;;;;;Culture et information scientifique (%);2.64;R94;Corse (2)
-2007;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;nd;R94;Corse (2)
+2007;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;R94;Corse (2)
 2007;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;;R94;Corse (2)
 2007;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0.77;R94;Corse (2)
 2007;Collectivités territoriales;0;Budget R&T;;;;;Opérations immobilières;1.3;R43;FrancheComté
@@ -15542,8 +15542,8 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2007;Collectivités territoriales;1; Budget R&T;;;;;Culture et information scientifique (%);0;R02;Martinique
 2007;Collectivités territoriales;1; Budget R&T;;;;;Budget non ventilé (%);0;R02;Martinique
 2007;Conseils régionaux;0;Budget R&T;;;;;Tous objectifs;2.4;R02;Martinique
-2007;Collectivités territoriales;0;Budget R&T;;;;;Tous objectifs;nd;R06;Mayotte (3)
-2007;Collectivités territoriales;0;Budget R&T;;;;;Projets de la recherche publique;nd;R06;Mayotte (3)
+2007;Collectivités territoriales;0;Budget R&T;;;;;Tous objectifs;0;R06;Mayotte (3)
+2007;Collectivités territoriales;0;Budget R&T;;;;;Projets de la recherche publique;0;R06;Mayotte (3)
 2007;Conseils régionaux;0;Budget R&T;;;;;Tous objectifs;;R06;Mayotte (3)
 2007;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;;;;Tous objectifs;;R06;Mayotte (3)
 2007;Conseils départementaux;0;Budget R&T;;;;;Tous objectifs;;R06;Mayotte (3)
@@ -15576,7 +15576,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2007;Collectivités territoriales;0;Budget R&T;;;;;Culture et information scientifique;35.23;XXX;TOTAL FRANCE
 2007;Collectivités territoriales;1; Budget R&T;;;;;Budget non ventilé (%);4.22;XXX;TOTAL FRANCE
 2007;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);;;;Tous objectifs;9.81;XXX;TOTAL FRANCE
-2007;Communes et EPCI;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;nd;XXX;TOTAL FRANCE
+2007;Communes et EPCI;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;XXX;TOTAL FRANCE
 2010;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;26.58;R91;LanguedocRoussillon
 2010;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;;R91;LanguedocRoussillon
 2010;Communes et EPCI;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;;R91;LanguedocRoussillon
@@ -15712,14 +15712,14 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2007;Communes et EPCI;0;Budget R&T;;;;;Tous objectifs;;R02;Martinique
 2007;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;;R02;Martinique
 2007;Collectivités territoriales;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;;R02;Martinique
-2007;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;nd;R02;Martinique
-2007;Collectivités territoriales;0;Budget R&T;;;;;Opérations immobilières;nd;R06;Mayotte (3)
-2007;Collectivités territoriales;1; Budget R&T;;;;;Equipement de laboratoires (%);nd;R06;Mayotte (3)
-2007;Collectivités territoriales;1; Budget R&T;;;;;Réseaux haut débit (%);nd;R06;Mayotte (3)
-2007;Collectivités territoriales;0;Budget R&T;;;;;Réseaux haut débit;nd;R06;Mayotte (3)
-2007;Collectivités territoriales;0;Budget R&T;;;;;Culture et information scientifique;nd;R06;Mayotte (3)
-2007;Collectivités territoriales;1; Budget R&T;;;;;Budget non ventilé (%);nd;R06;Mayotte (3)
-2007;Collectivités territoriales;0;Budget R&T;;;;;Budget non ventilé;nd;R06;Mayotte (3)
+2007;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;R02;Martinique
+2007;Collectivités territoriales;0;Budget R&T;;;;;Opérations immobilières;0;R06;Mayotte (3)
+2007;Collectivités territoriales;1; Budget R&T;;;;;Equipement de laboratoires (%);0;R06;Mayotte (3)
+2007;Collectivités territoriales;1; Budget R&T;;;;;Réseaux haut débit (%);0;R06;Mayotte (3)
+2007;Collectivités territoriales;0;Budget R&T;;;;;Réseaux haut débit;0;R06;Mayotte (3)
+2007;Collectivités territoriales;0;Budget R&T;;;;;Culture et information scientifique;0;R06;Mayotte (3)
+2007;Collectivités territoriales;1; Budget R&T;;;;;Budget non ventilé (%);0;R06;Mayotte (3)
+2007;Collectivités territoriales;0;Budget R&T;;;;;Budget non ventilé;0;R06;Mayotte (3)
 2007;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);;;;Tous objectifs;;R06;Mayotte (3)
 2007;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;;R06;Mayotte (3)
 2007;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;;R06;Mayotte (3)
@@ -15810,7 +15810,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2007;Collectivités territoriales;0;Budget R&T;;;;;Culture et information scientifique;0;R03;Guyane
 2007;Collectivités territoriales;1; Budget R&T;;;;;Budget non ventilé (%);0;R03;Guyane
 2007;Collectivités territoriales;0;Budget R&T;;;;;Budget non ventilé;0;R03;Guyane
-2007;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;nd;R03;Guyane
+2007;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;R03;Guyane
 2007;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;;R03;Guyane
 2007;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;;R03;Guyane
 2007;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;;R03;Guyane
@@ -15818,8 +15818,8 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2007;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;;;;Tous objectifs;0.38;R02;Martinique
 2007;Conseils départementaux;0;Budget R&T;;;;;Tous objectifs;0.5;R02;Martinique
 2007;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;;R02;Martinique
-2007;Collectivités territoriales;0;Budget R&T;;;;;Aides aux chercheurs;nd;R06;Mayotte (3)
-2007;Collectivités territoriales;1; Budget R&T;;;;;Culture et information scientifique (%);nd;R06;Mayotte (3)
+2007;Collectivités territoriales;0;Budget R&T;;;;;Aides aux chercheurs;0;R06;Mayotte (3)
+2007;Collectivités territoriales;1; Budget R&T;;;;;Culture et information scientifique (%);0;R06;Mayotte (3)
 2007;Communes et EPCI;0;Budget R&T;;;;;Tous objectifs;;R06;Mayotte (3)
 2007;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;;R06;Mayotte (3)
 2007;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;;R06;Mayotte (3)
@@ -15852,8 +15852,8 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2007;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;;;;Tous objectifs;100;XXX;TOTAL FRANCE
 2007;Conseils départementaux;0;Budget R&T;;;;;Tous objectifs;173.68;XXX;TOTAL FRANCE
 2007;Communes et EPCI;0;Budget R&T;;;;;Tous objectifs;136.66;XXX;TOTAL FRANCE
-2007;Conseils régionaux;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;nd;XXX;TOTAL FRANCE
-2007;Conseils départementaux;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;nd;XXX;TOTAL FRANCE
+2007;Conseils régionaux;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;XXX;TOTAL FRANCE
+2007;Conseils départementaux;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;XXX;TOTAL FRANCE
 2007;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;24.88;XXX;TOTAL FRANCE
 2007;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;;R11;IledeFrance
 2007;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;10.02;R11;IledeFrance
@@ -15939,18 +15939,18 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2007;Collectivités territoriales;1; Budget R&T;;;;;Opérations immobilières (%);0;R03;Guyane
 2007;Collectivités territoriales;1; Budget R&T;;;;;Aides aux chercheurs (%);0;R03;Guyane
 2007;Collectivités territoriales;0;Budget R&T;;;;;Transferts de technologie;0.35;R03;Guyane
-2007;Conseils régionaux;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;nd;R03;Guyane
+2007;Conseils régionaux;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;R03;Guyane
 2007;Conseils départementaux;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;;R03;Guyane
 2007;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;;R03;Guyane
 2007;Collectivités territoriales;1; Budget R&T;;;;;Réseaux haut débit (%);82.76;R02;Martinique
 2007;Collectivités territoriales;0;Budget R&T;;;;;Budget non ventilé;0;R02;Martinique
-2007;Conseils régionaux;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;nd;R02;Martinique
+2007;Conseils régionaux;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;R02;Martinique
 2007;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0.18;R02;Martinique
 2007;Communes et EPCI;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;;R02;Martinique
 2007;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;;R02;Martinique
-2007;Collectivités territoriales;0;Budget R&T;;;;;Equipement de laboratoires;nd;R06;Mayotte (3)
-2007;Collectivités territoriales;1; Budget R&T;;;;;Aides aux chercheurs (%);nd;R06;Mayotte (3)
-2007;Collectivités territoriales;0;Budget R&T;;;;;Transferts de technologie;nd;R06;Mayotte (3)
+2007;Collectivités territoriales;0;Budget R&T;;;;;Equipement de laboratoires;0;R06;Mayotte (3)
+2007;Collectivités territoriales;1; Budget R&T;;;;;Aides aux chercheurs (%);0;R06;Mayotte (3)
+2007;Collectivités territoriales;0;Budget R&T;;;;;Transferts de technologie;0;R06;Mayotte (3)
 2007;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;;R06;Mayotte (3)
 2007;Collectivités territoriales;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;;R06;Mayotte (3)
 2007;Conseils départementaux;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;;R06;Mayotte (3)
@@ -16061,6 +16061,6 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2007;Collectivités territoriales;0;Budget R&T;;;;;Aides aux chercheurs;105.4;XXX;TOTAL FRANCE
 2007;Collectivités territoriales;0;Budget R&T;;;;;Budget non ventilé;39.9;XXX;TOTAL FRANCE
 2007;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;2.59;XXX;TOTAL FRANCE
-2007;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;nd;XXX;TOTAL FRANCE
-2007;Collectivités territoriales;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;nd;XXX;TOTAL FRANCE
+2007;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;XXX;TOTAL FRANCE
+2007;Collectivités territoriales;1; Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;XXX;TOTAL FRANCE
 2007;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;129.71;XXX;TOTAL FRANCE
