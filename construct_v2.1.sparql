@@ -3,11 +3,11 @@ PREFIX dbp:<http://dbpedia.org/property/>
 PREFIX ex:<http://test.org/>
 PREFIX frapo:<http://purl.org/cerif/frapo/>
 PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema#>
-PREFIX xsd:<http://www.w3.org/2001/XMLSchema#>
 
 CONSTRUCT {
- ?URI a dbo:budget;
+  ?URI a dbo:budget;
     frapo:BudgetInformation ?indicateurs;
+    frapo:BudgetInformation ?indicaeffort;
     frapo:appliesFor ?objectif; 
     frapo:BudgetedAmount ?valeur;
     dbo:percentage ?pourcentage;
@@ -24,6 +24,7 @@ WHERE {
   BIND ((?Valeur) AS ?valeur) 
   BIND (URI(CONCAT('http://ex.org/budget/', CONCAT(?objectif, ?valeur))) AS ?URI)
   BIND ((?Indicateurs) AS ?indicateurs)
+  BIND ((?Indicateurs_de_leffort_budgétaire_des_conseils_régionaux) AS ?indicaeffort)
   BIND ((?Pourcentage) AS ?pourcentage)
   BIND ((?Années) AS ?annee)
   BIND ((?Pays) AS ?pays)
@@ -32,8 +33,4 @@ WHERE {
   BIND ((?Anciennes_régions) AS ?ancienreg)
   BIND ((?Code_anciennes_régions) AS ?codeancienreg)
   BIND ((?Type_de_collectivité) AS ?coll)
-  OPTIONAL { 
-
-      BIND ((?Indicateurs_de_leffort_budgétaire_des_conseils_régionaux) AS ?indicaeffort)
-    BIND(CONCAT(?Indicateurs, ?indicaeffort) AS ?indicateurs ) }
 }
