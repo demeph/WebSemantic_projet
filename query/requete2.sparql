@@ -14,6 +14,7 @@ WHERE {
   	?p dbo:year ?annee.
   	?p dbo:region ?region.
   	?p frapo:BudgetedAmount ?valeur.
+  	?p dbo:percentage "false"^^xsd:boolean.
 }
 GROUP BY ?annee ?region
 ORDER BY DESC(?annee) DESC(?sommeValeur)
