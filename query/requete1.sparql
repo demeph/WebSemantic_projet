@@ -57,7 +57,6 @@ PREFIX ex:<http://test.org/>
 PREFIX frapo:<http://purl.org/cerif/frapo/>
 PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema#>
 
-
 SELECT ?annee ?region ?indicateur ?indicateurEffort ?organization ?objectif ?valeur
 WHERE {
 	?p dbo:region "Hauts-de-France".
