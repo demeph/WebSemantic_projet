@@ -14,6 +14,7 @@ CONSTRUCT {
     dbo:percentage ?pourcentage;
     dbo:year ?annee;
     dbo:country ?pays;
+    dbo:country ?country;
     dbo:region ?region;
     dbo:code ?codereg;
     dbo:region ?ancienreg;
@@ -29,6 +30,7 @@ WHERE {
   BIND (xsd:boolean(?Pourcentage) AS ?pourcentage)
   BIND (xsd:gYear(?Années) AS ?annee)
   BIND (xsd:string(?Pays) AS ?pays)
+  BIND (xsd:string(?Country) AS ?country)  
   BIND (xsd:string(?Régions) AS ?region)
   BIND (xsd:string(?Codes_régions) AS ?codereg)
   BIND (xsd:string(?Anciennes_régions) AS ?ancienreg)
