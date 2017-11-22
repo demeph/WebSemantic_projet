@@ -1,4 +1,4 @@
-Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort budgétaire des conseils régionaux;Régions;Pays;Codes régions;Objectifs sur budget ventilé;Valeur;Code anciennes régions;Anciennes régions
+Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort budgétaire des conseils régionaux;Régions;Pays;Codes régions;Objectifs sur budget ventilé;Valeur;Code anciennes régions;Anciennes régions;Pays
 2015;Collectivités territoriales;1;Budget R&T;;Auvergne-Rhône-Alpes;;R84;Equipement de laboratoires (%);1.59;;
 2015;Collectivités territoriales;0;Budget R&T;;Auvergne-Rhône-Alpes;;R84;Opérations immobilières;53.58;;
 2015;Collectivités territoriales;0;Budget R&T;;Auvergne-Rhône-Alpes;;R84;Equipement de laboratoires;2.6;;
@@ -5777,11 +5777,11 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2010;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2010;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2010;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
-2010;Collectivités territoriales;0;Budget R&T;;;;;Opérations immobilières;375.04;XXX;France
-2010;Collectivités territoriales;1;Budget R&T;;;;;Budget non ventilé (%);0.38;XXX;France
-2010;Conseils régionaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;33.77;XXX;France
-2010;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;166.51;XXX;France
-2010;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;106.58;XXX;France
+2010;Collectivités territoriales;0;Budget R&T;;;;;Opérations immobilières;375.04;XXX;;France
+2010;Collectivités territoriales;1;Budget R&T;;;;;Budget non ventilé (%);0.38;XXX;;France
+2010;Conseils régionaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;33.77;XXX;;France
+2010;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;166.51;XXX;;France
+2010;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;106.58;XXX;;France
 2009;Collectivités territoriales;1;Budget R&T;;;;;Equipement de laboratoires (%);8.17;R42;Grand Est
 2009;Collectivités territoriales;0;Budget R&T;;;;;Equipement de laboratoires;2.64;R42;Grand Est
 2009;Collectivités territoriales;1;Budget R&T;;;;;Aides aux chercheurs (%);12.75;R42;Grand Est
@@ -5812,15 +5812,15 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2014;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2014;Conseils régionaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2014;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
-2014;Collectivités territoriales;1;Budget R&T;;;;;Opérations immobilières (%);35.38;XXX;France
-2014;Collectivités territoriales;0;Budget R&T;;;;;Equipement de laboratoires;96.94;XXX;France
-2014;Collectivités territoriales;0;Budget R&T;;;;;Transferts de technologie;394.69;XXX;France
-2014;Collectivités territoriales;0;Budget R&T;;;;;Culture et information scientifique;40.2;XXX;France
-2014;Collectivités territoriales;1;Budget R&T;;;;;Budget non ventilé (%);0.04;XXX;France
-2014;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;283.94;XXX;France
-2014;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;65.05;XXX;France
-2014;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;37.15;XXX;France
-2014;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;16.38;XXX;France
+2014;Collectivités territoriales;1;Budget R&T;;;;;Opérations immobilières (%);35.38;XXX;;France
+2014;Collectivités territoriales;0;Budget R&T;;;;;Equipement de laboratoires;96.94;XXX;;France
+2014;Collectivités territoriales;0;Budget R&T;;;;;Transferts de technologie;394.69;XXX;;France
+2014;Collectivités territoriales;0;Budget R&T;;;;;Culture et information scientifique;40.2;XXX;;France
+2014;Collectivités territoriales;1;Budget R&T;;;;;Budget non ventilé (%);0.04;XXX;;France
+2014;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;283.94;XXX;;France
+2014;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;65.05;XXX;;France
+2014;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;37.15;XXX;;France
+2014;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;16.38;XXX;;France
 2013;Collectivités territoriales;1;Budget R&T;;;;;Opérations immobilières (%);43.83;R42;Grand Est
 2013;Collectivités territoriales;1;Budget R&T;;;;;Equipement de laboratoires (%);9.55;R42;Grand Est
 2013;Conseils régionaux;0;Budget R&T;;;;;Tous objectifs;17.72;R42;Grand Est
@@ -5913,13 +5913,13 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2014;Communes et EPCI;0;Budget R&T;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2014;Collectivités territoriales;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2014;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
-2014;Collectivités territoriales;0;Budget R&T;;;;;Opérations immobilières;443.19;XXX;France
-2014;Collectivités territoriales;1;Budget R&T;;;;;Equipement de laboratoires (%);7.74;XXX;France
-2014;Collectivités territoriales;1;Budget R&T;;;;;Projets de la recherche publique (%);9.6;XXX;France
-2014;Collectivités territoriales;0;Budget R&T;;;;;Projets de la recherche publique;120.18;XXX;France
-2014;Collectivités territoriales;0;Budget R&T;;;;;Réseaux haut débit;11.43;XXX;France
-2014;Collectivités territoriales;1;Budget R&T;;;;;Culture et information scientifique (%);3.21;XXX;France
-2014;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;104.75;XXX;France
+2014;Collectivités territoriales;0;Budget R&T;;;;;Opérations immobilières;443.19;XXX;;France
+2014;Collectivités territoriales;1;Budget R&T;;;;;Equipement de laboratoires (%);7.74;XXX;;France
+2014;Collectivités territoriales;1;Budget R&T;;;;;Projets de la recherche publique (%);9.6;XXX;;France
+2014;Collectivités territoriales;0;Budget R&T;;;;;Projets de la recherche publique;120.18;XXX;;France
+2014;Collectivités territoriales;0;Budget R&T;;;;;Réseaux haut débit;11.43;XXX;;France
+2014;Collectivités territoriales;1;Budget R&T;;;;;Culture et information scientifique (%);3.21;XXX;;France
+2014;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;104.75;XXX;;France
 2013;Collectivités territoriales;0;Budget R&T;;;;;Equipement de laboratoires;3.25;R42;Grand Est
 2013;Collectivités territoriales;0;Budget R&T;;;;;Projets de la recherche publique;1.01;R42;Grand Est
 2013;Collectivités territoriales;0;Budget R&T;;;;;Aides aux chercheurs;2.56;R42;Grand Est
@@ -6030,15 +6030,15 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2012;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2012;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2012;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
-2012;Collectivités territoriales;0;Budget R&T;;;;;Tous objectifs;1213.97;XXX;France
-2012;Collectivités territoriales;1;Budget R&T;;;;;Opérations immobilières (%);35.84;XXX;France
-2012;Collectivités territoriales;0;Budget R&T;;;;;Opérations immobilières;435.05;XXX;France
-2012;Collectivités territoriales;0;Budget R&T;;;;;Projets de la recherche publique;180.99;XXX;France
-2012;Collectivités territoriales;1;Budget R&T;;;;;Aides aux chercheurs (%);9.08;XXX;France
-2012;Collectivités territoriales;1;Budget R&T;;;;;Réseaux haut débit (%);1.3;XXX;France
-2012;Collectivités territoriales;1;Budget R&T;;;;;Culture et information scientifique (%);3.17;XXX;France
-2012;Collectivités territoriales;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;30.58;XXX;France
-2012;Communes et EPCI;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;32.93;XXX;France
+2012;Collectivités territoriales;0;Budget R&T;;;;;Tous objectifs;1213.97;XXX;;France
+2012;Collectivités territoriales;1;Budget R&T;;;;;Opérations immobilières (%);35.84;XXX;;France
+2012;Collectivités territoriales;0;Budget R&T;;;;;Opérations immobilières;435.05;XXX;;France
+2012;Collectivités territoriales;0;Budget R&T;;;;;Projets de la recherche publique;180.99;XXX;;France
+2012;Collectivités territoriales;1;Budget R&T;;;;;Aides aux chercheurs (%);9.08;XXX;;France
+2012;Collectivités territoriales;1;Budget R&T;;;;;Réseaux haut débit (%);1.3;XXX;;France
+2012;Collectivités territoriales;1;Budget R&T;;;;;Culture et information scientifique (%);3.17;XXX;;France
+2012;Collectivités territoriales;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;30.58;XXX;;France
+2012;Communes et EPCI;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;32.93;XXX;;France
 2011;Collectivités territoriales;0;Budget R&T;;;;;Opérations immobilières;8.39;R42;Grand Est
 2011;Collectivités territoriales;1;Budget R&T;;;;;Projets de la recherche publique (%);5.15;R42;Grand Est
 2011;Collectivités territoriales;1;Budget R&T;;;;;Transferts de technologie (%);38.56;R42;Grand Est
@@ -6122,17 +6122,17 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2012;Conseils départementaux;0;Budget R&T;;;;;Tous objectifs;6.03;A40;Nouvelle-Calédonie
 2012;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2012;Conseils départementaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
-2012;Collectivités territoriales;1;Budget R&T;;;;;Projets de la recherche publique (%);14.91;XXX;France
-2012;Collectivités territoriales;1;Budget R&T;;;;;Budget non ventilé (%);0.28;XXX;France
-2012;Conseils régionaux;0;Budget R&T;;;;;Tous objectifs;825.42;XXX;France
-2012;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);;;;Tous objectifs;12.53;XXX;France
-2012;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;2.97;XXX;France
-2012;Conseils départementaux;0;Budget R&T;;;;;Tous objectifs;199.32;XXX;France
-2012;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;371.2;XXX;France
-2012;Conseils départementaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;32.67;XXX;France
-2012;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;156.98;XXX;France
-2012;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;103.17;XXX;France
-2012;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;24.01;XXX;France
+2012;Collectivités territoriales;1;Budget R&T;;;;;Projets de la recherche publique (%);14.91;XXX;;France
+2012;Collectivités territoriales;1;Budget R&T;;;;;Budget non ventilé (%);0.28;XXX;;France
+2012;Conseils régionaux;0;Budget R&T;;;;;Tous objectifs;825.42;XXX;;France
+2012;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);;;;Tous objectifs;12.53;XXX;;France
+2012;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;2.97;XXX;;France
+2012;Conseils départementaux;0;Budget R&T;;;;;Tous objectifs;199.32;XXX;;France
+2012;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;371.2;XXX;;France
+2012;Conseils départementaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;32.67;XXX;;France
+2012;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;156.98;XXX;;France
+2012;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;103.17;XXX;;France
+2012;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;24.01;XXX;;France
 2011;Collectivités territoriales;0;Budget R&T;;;;;Equipement de laboratoires;3.93;R42;Grand Est
 2011;Collectivités territoriales;0;Budget R&T;;;;;Réseaux haut débit;0;R42;Grand Est
 2011;Conseils départementaux;0;Budget R&T;;;;;Tous objectifs;3.79;R42;Grand Est
@@ -6787,13 +6787,13 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2009;Communes et EPCI;0;Budget R&T;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2009;Collectivités territoriales;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2009;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
-2009;Collectivités territoriales;1;Budget R&T;;;;;Equipement de laboratoires (%);8.62;XXX;France
-2009;Collectivités territoriales;1;Budget R&T;;;;;Projets de la recherche publique (%);11.58;XXX;France
-2009;Collectivités territoriales;1;Budget R&T;;;;;Transferts de technologie (%);29.73;XXX;France
-2009;Collectivités territoriales;1;Budget R&T;;;;;Réseaux haut débit (%);3.31;XXX;France
-2009;Collectivités territoriales;0;Budget R&T;;;;;Réseaux haut débit;41.39;XXX;France
-2009;Collectivités territoriales;1;Budget R&T;;;;;Budget non ventilé (%);1.11;XXX;France
-2009;Conseils régionaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;36.13;XXX;France
+2009;Collectivités territoriales;1;Budget R&T;;;;;Equipement de laboratoires (%);8.62;XXX;;France
+2009;Collectivités territoriales;1;Budget R&T;;;;;Projets de la recherche publique (%);11.58;XXX;;France
+2009;Collectivités territoriales;1;Budget R&T;;;;;Transferts de technologie (%);29.73;XXX;;France
+2009;Collectivités territoriales;1;Budget R&T;;;;;Réseaux haut débit (%);3.31;XXX;;France
+2009;Collectivités territoriales;0;Budget R&T;;;;;Réseaux haut débit;41.39;XXX;;France
+2009;Collectivités territoriales;1;Budget R&T;;;;;Budget non ventilé (%);1.11;XXX;;France
+2009;Conseils régionaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;36.13;XXX;;France
 2008;Collectivités territoriales;0;Budget R&T;;;;;Tous objectifs;21.24;R42;Grand Est
 2008;Collectivités territoriales;1;Budget R&T;;;;;Aides aux chercheurs (%);13.06;R42;Grand Est
 2008;Collectivités territoriales;0;Budget R&T;;;;;Réseaux haut débit;0.06;R42;Grand Est
@@ -6818,20 +6818,20 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2013;Collectivités territoriales;1;Budget R&T;;;;;Transferts de technologie (%);43.39;A40;Nouvelle-Calédonie
 2013;Collectivités territoriales;1;Budget R&T;;;;;Réseaux haut débit (%);0;A40;Nouvelle-Calédonie
 2013;Conseils régionaux;0;Budget R&T;;;;;Tous objectifs;0.43;A40;Nouvelle-Calédonie
-2013;Collectivités territoriales;0;Budget R&T;;;;;Opérations immobilières;438.13;XXX;France
-2013;Collectivités territoriales;1;Budget R&T;;;;;Equipement de laboratoires (%);8.17;XXX;France
-2013;Collectivités territoriales;0;Budget R&T;;;;;Equipement de laboratoires;97.96;XXX;France
-2013;Collectivités territoriales;1;Budget R&T;;;;;Aides aux chercheurs (%);10.46;XXX;France
-2013;Collectivités territoriales;0;Budget R&T;;;;;Aides aux chercheurs;125.44;XXX;France
-2013;Collectivités territoriales;1;Budget R&T;;;;;Réseaux haut débit (%);1.97;XXX;France
-2013;Collectivités territoriales;0;Budget R&T;;;;;Réseaux haut débit;23.61;XXX;France
-2013;Collectivités territoriales;0;Budget R&T;;;;;Culture et information scientifique;32.08;XXX;France
-2013;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);;;;Tous objectifs;11.67;XXX;France
-2013;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;2.64;XXX;France
-2013;Communes et EPCI;0;Budget R&T;;;;;Tous objectifs;246.59;XXX;France
-2013;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;315.24;XXX;France
-2013;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;301.88;XXX;France
-2013;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;111.48;XXX;France
+2013;Collectivités territoriales;0;Budget R&T;;;;;Opérations immobilières;438.13;XXX;;France
+2013;Collectivités territoriales;1;Budget R&T;;;;;Equipement de laboratoires (%);8.17;XXX;;France
+2013;Collectivités territoriales;0;Budget R&T;;;;;Equipement de laboratoires;97.96;XXX;;France
+2013;Collectivités territoriales;1;Budget R&T;;;;;Aides aux chercheurs (%);10.46;XXX;;France
+2013;Collectivités territoriales;0;Budget R&T;;;;;Aides aux chercheurs;125.44;XXX;;France
+2013;Collectivités territoriales;1;Budget R&T;;;;;Réseaux haut débit (%);1.97;XXX;;France
+2013;Collectivités territoriales;0;Budget R&T;;;;;Réseaux haut débit;23.61;XXX;;France
+2013;Collectivités territoriales;0;Budget R&T;;;;;Culture et information scientifique;32.08;XXX;;France
+2013;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);;;;Tous objectifs;11.67;XXX;;France
+2013;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;2.64;XXX;;France
+2013;Communes et EPCI;0;Budget R&T;;;;;Tous objectifs;246.59;XXX;;France
+2013;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;315.24;XXX;;France
+2013;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;301.88;XXX;;France
+2013;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;111.48;XXX;;France
 2012;Collectivités territoriales;1;Budget R&T;;;;;Culture et information scientifique (%);5.17;R42;Grand Est
 2012;Collectivités territoriales;0;Budget R&T;;;;;Budget non ventilé;2.1;R42;Grand Est
 2012;Conseils régionaux;0;Budget R&T;;;;;Tous objectifs;30.49;R42;Grand Est
@@ -6918,8 +6918,8 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2013;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2013;Conseils départementaux;0;Budget R&T;;;;;Tous objectifs;5.13;A40;Nouvelle-Calédonie
 2013;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
-2013;Conseils départementaux;0;Budget R&T;;;;;Tous objectifs;180.51;XXX;France
-2013;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;55.95;XXX;France
+2013;Conseils départementaux;0;Budget R&T;;;;;Tous objectifs;180.51;XXX;;France
+2013;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;55.95;XXX;;France
 2012;Collectivités territoriales;0;Budget R&T;;;;;Equipement de laboratoires;3.57;R42;Grand Est
 2012;Collectivités territoriales;0;Budget R&T;;;;;Projets de la recherche publique;0.83;R42;Grand Est
 2012;Collectivités territoriales;0;Budget R&T;;;;;Aides aux chercheurs;2.18;R42;Grand Est
@@ -7051,12 +7051,12 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2011;Conseils départementaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2011;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2011;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
-2011;Collectivités territoriales;1;Budget R&T;;;;;Budget non ventilé (%);0.3;XXX;France
-2011;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;;;;Tous objectifs;100;XXX;France
-2011;Collectivités territoriales;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;26.13;XXX;France
-2011;Conseils départementaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;34.86;XXX;France
-2011;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;44.26;XXX;France
-2011;Communes et EPCI;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;27.03;XXX;France
+2011;Collectivités territoriales;1;Budget R&T;;;;;Budget non ventilé (%);0.3;XXX;;France
+2011;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;;;;Tous objectifs;100;XXX;;France
+2011;Collectivités territoriales;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;26.13;XXX;;France
+2011;Conseils départementaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;34.86;XXX;;France
+2011;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;44.26;XXX;;France
+2011;Communes et EPCI;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;27.03;XXX;;France
 2010;Collectivités territoriales;1;Budget R&T;;;;;Opérations immobilières (%);18.4;R42;Grand Est
 2010;Collectivités territoriales;1;Budget R&T;;;;;Equipement de laboratoires (%);13.02;R42;Grand Est
 2010;Collectivités territoriales;1;Budget R&T;;;;;Culture et information scientifique (%);2.86;R42;Grand Est
@@ -7137,17 +7137,17 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2011;Collectivités territoriales;1;Budget R&T;;;;;Culture et information scientifique (%);1.2;A40;Nouvelle-Calédonie
 2011;Collectivités territoriales;0;Budget R&T;;;;;Budget non ventilé;0;A40;Nouvelle-Calédonie
 2011;Conseils régionaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
-2011;Collectivités territoriales;0;Budget R&T;;;;;Opérations immobilières;382.41;XXX;France
-2011;Collectivités territoriales;1;Budget R&T;;;;;Aides aux chercheurs (%);9.56;XXX;France
-2011;Collectivités territoriales;0;Budget R&T;;;;;Aides aux chercheurs;113.3;XXX;France
-2011;Collectivités territoriales;1;Budget R&T;;;;;Réseaux haut débit (%);2.04;XXX;France
-2011;Collectivités territoriales;1;Budget R&T;;;;;Culture et information scientifique (%);2.95;XXX;France
-2011;Collectivités territoriales;0;Budget R&T;;;;;Budget non ventilé;3.59;XXX;France
-2011;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;2.98;XXX;France
-2011;Conseils départementaux;0;Budget R&T;;;;;Tous objectifs;209.9;XXX;France
-2011;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;309.49;XXX;France
-2011;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;73.16;XXX;France
-2011;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;21.49;XXX;France
+2011;Collectivités territoriales;0;Budget R&T;;;;;Opérations immobilières;382.41;XXX;;France
+2011;Collectivités territoriales;1;Budget R&T;;;;;Aides aux chercheurs (%);9.56;XXX;;France
+2011;Collectivités territoriales;0;Budget R&T;;;;;Aides aux chercheurs;113.3;XXX;;France
+2011;Collectivités territoriales;1;Budget R&T;;;;;Réseaux haut débit (%);2.04;XXX;;France
+2011;Collectivités territoriales;1;Budget R&T;;;;;Culture et information scientifique (%);2.95;XXX;;France
+2011;Collectivités territoriales;0;Budget R&T;;;;;Budget non ventilé;3.59;XXX;;France
+2011;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;2.98;XXX;;France
+2011;Conseils départementaux;0;Budget R&T;;;;;Tous objectifs;209.9;XXX;;France
+2011;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;309.49;XXX;;France
+2011;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;73.16;XXX;;France
+2011;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;21.49;XXX;;France
 2010;Collectivités territoriales;0;Budget R&T;;;;;Opérations immobilières;5.35;R42;Grand Est
 2010;Collectivités territoriales;0;Budget R&T;;;;;Projets de la recherche publique;1.43;R42;Grand Est
 2010;Collectivités territoriales;0;Budget R&T;;;;;Culture et information scientifique;0.83;R42;Grand Est
@@ -7758,13 +7758,13 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2013;Conseils départementaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2013;Communes et EPCI;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2013;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
-2013;Collectivités territoriales;0;Budget R&T;;;;;Tous objectifs;1198.68;XXX;France
-2013;Collectivités territoriales;0;Budget R&T;;;;;Transferts de technologie;332.48;XXX;France
-2013;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;;;;Tous objectifs;100;XXX;France
-2013;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;311.03;XXX;France
-2013;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;388.47;XXX;France
-2013;Communes et EPCI;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;32.41;XXX;France
-2013;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;30.41;XXX;France
+2013;Collectivités territoriales;0;Budget R&T;;;;;Tous objectifs;1198.68;XXX;;France
+2013;Collectivités territoriales;0;Budget R&T;;;;;Transferts de technologie;332.48;XXX;;France
+2013;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;;;;Tous objectifs;100;XXX;;France
+2013;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;311.03;XXX;;France
+2013;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;388.47;XXX;;France
+2013;Communes et EPCI;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;32.41;XXX;;France
+2013;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;30.41;XXX;;France
 2012;Collectivités territoriales;1;Budget R&T;;;;;Equipement de laboratoires (%);8.62;R42;Grand Est
 2012;Collectivités territoriales;1;Budget R&T;;;;;Budget non ventilé (%);5.08;R42;Grand Est
 2012;Collectivités territoriales;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;53.9;R42;Grand Est
@@ -7835,14 +7835,14 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2012;Collectivités territoriales;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2012;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2012;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
-2012;Collectivités territoriales;0;Budget R&T;;;;;Equipement de laboratoires;91.67;XXX;France
-2012;Collectivités territoriales;0;Budget R&T;;;;;Aides aux chercheurs;110.18;XXX;France
-2012;Collectivités territoriales;0;Budget R&T;;;;;Transferts de technologie;338.4;XXX;France
-2012;Collectivités territoriales;0;Budget R&T;;;;;Budget non ventilé;3.36;XXX;France
-2012;Communes et EPCI;0;Budget R&T;;;;;Tous objectifs;189.21;XXX;France
-2012;Conseils régionaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;29.43;XXX;France
-2012;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;65.12;XXX;France
-2012;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;62.32;XXX;France
+2012;Collectivités territoriales;0;Budget R&T;;;;;Equipement de laboratoires;91.67;XXX;;France
+2012;Collectivités territoriales;0;Budget R&T;;;;;Aides aux chercheurs;110.18;XXX;;France
+2012;Collectivités territoriales;0;Budget R&T;;;;;Transferts de technologie;338.4;XXX;;France
+2012;Collectivités territoriales;0;Budget R&T;;;;;Budget non ventilé;3.36;XXX;;France
+2012;Communes et EPCI;0;Budget R&T;;;;;Tous objectifs;189.21;XXX;;France
+2012;Conseils régionaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;29.43;XXX;;France
+2012;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;65.12;XXX;;France
+2012;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;62.32;XXX;;France
 2011;Collectivités territoriales;1;Budget R&T;;;;;Aides aux chercheurs (%);8.37;R42;Grand Est
 2011;Collectivités territoriales;0;Budget R&T;;;;;Aides aux chercheurs;2.92;R42;Grand Est
 2011;Collectivités territoriales;1;Budget R&T;;;;;Réseaux haut débit (%);0;R42;Grand Est
@@ -7908,12 +7908,12 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2012;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A41;Polynésie française
 2012;Conseils départementaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A41;Polynésie française
 2012;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0;A41;Polynésie française
-2012;Collectivités territoriales;1;Budget R&T;;;;;Transferts de technologie (%);27.88;XXX;France
-2012;Collectivités territoriales;0;Budget R&T;;;;;Réseaux haut débit;15.83;XXX;France
-2012;Collectivités territoriales;0;Budget R&T;;;;;Culture et information scientifique;38.5;XXX;France
-2012;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;;;;Tous objectifs;100;XXX;France
-2012;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;242.95;XXX;France
-2012;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;29.8;XXX;France
+2012;Collectivités territoriales;1;Budget R&T;;;;;Transferts de technologie (%);27.88;XXX;;France
+2012;Collectivités territoriales;0;Budget R&T;;;;;Réseaux haut débit;15.83;XXX;;France
+2012;Collectivités territoriales;0;Budget R&T;;;;;Culture et information scientifique;38.5;XXX;;France
+2012;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;;;;Tous objectifs;100;XXX;;France
+2012;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;242.95;XXX;;France
+2012;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;29.8;XXX;;France
 2011;Collectivités territoriales;0;Budget R&T;;;;;Tous objectifs;34.85;R42;Grand Est
 2011;Collectivités territoriales;1;Budget R&T;;;;;Opérations immobilières (%);24.07;R42;Grand Est
 2011;Collectivités territoriales;1;Budget R&T;;;;;Equipement de laboratoires (%);11.29;R42;Grand Est
@@ -8009,11 +8009,11 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2015;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2015;Conseils départementaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2015;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
-2015;Collectivités territoriales;0;Budget R&T;;;;;Opérations immobilières;367.65;XXX;France
-2015;Collectivités territoriales;1;Budget R&T;;;;;Equipement de laboratoires (%);8.11;XXX;France
-2015;Collectivités territoriales;1;Budget R&T;;;;;Culture et information scientifique (%);3.33;XXX;France
-2015;Communes et EPCI;0;Budget R&T;;;;;Tous objectifs;200.14;XXX;France
-2015;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;25.83;XXX;France
+2015;Collectivités territoriales;0;Budget R&T;;;;;Opérations immobilières;367.65;XXX;;France
+2015;Collectivités territoriales;1;Budget R&T;;;;;Equipement de laboratoires (%);8.11;XXX;;France
+2015;Collectivités territoriales;1;Budget R&T;;;;;Culture et information scientifique (%);3.33;XXX;;France
+2015;Communes et EPCI;0;Budget R&T;;;;;Tous objectifs;200.14;XXX;;France
+2015;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;25.83;XXX;;France
 2014;Collectivités territoriales;0;Budget R&T;;;;;Tous objectifs;28.09;R42;Grand Est
 2014;Collectivités territoriales;1;Budget R&T;;;;;Projets de la recherche publique (%);3.2;R42;Grand Est
 2014;Collectivités territoriales;1;Budget R&T;;;;;Réseaux haut débit (%);0;R42;Grand Est
@@ -8173,12 +8173,12 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2009;Collectivités territoriales;0;Budget R&T;;;;;Budget non ventilé;0;A40;Nouvelle-Calédonie
 2009;Conseils régionaux;0;Budget R&T;;;;;Tous objectifs;2.22;A40;Nouvelle-Calédonie
 2009;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
-2009;Collectivités territoriales;0;Budget R&T;;;;;Transferts de technologie;372.03;XXX;France
-2009;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;3.08;XXX;France
-2009;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;63.25;XXX;France
-2009;Communes et EPCI;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;32.93;XXX;France
-2009;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;117.7;XXX;France
-2009;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;39.87;XXX;France
+2009;Collectivités territoriales;0;Budget R&T;;;;;Transferts de technologie;372.03;XXX;;France
+2009;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;3.08;XXX;;France
+2009;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;63.25;XXX;;France
+2009;Communes et EPCI;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;32.93;XXX;;France
+2009;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;117.7;XXX;;France
+2009;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;39.87;XXX;;France
 2008;Collectivités territoriales;1;Budget R&T;;;;;Equipement de laboratoires (%);15.51;R42;Grand Est
 2008;Collectivités territoriales;1;Budget R&T;;;;;Transferts de technologie (%);25.01;R42;Grand Est
 2008;Collectivités territoriales;1;Budget R&T;;;;;Réseaux haut débit (%);0.28;R42;Grand Est
@@ -8761,13 +8761,13 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2015;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2015;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2015;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
-2015;Collectivités territoriales;1;Budget R&T;;;;;Opérations immobilières (%);30.6;XXX;France
-2015;Collectivités territoriales;0;Budget R&T;;;;;Equipement de laboratoires;97.49;XXX;France
-2015;Collectivités territoriales;1;Budget R&T;;;;;Budget non ventilé (%);0.23;XXX;France
-2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;;;;Tous objectifs;100;XXX;France
-2015;Conseils régionaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;24.48;XXX;France
-2015;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;23.66;XXX;France
-2015;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;120.57;XXX;France
+2015;Collectivités territoriales;1;Budget R&T;;;;;Opérations immobilières (%);30.6;XXX;;France
+2015;Collectivités territoriales;0;Budget R&T;;;;;Equipement de laboratoires;97.49;XXX;;France
+2015;Collectivités territoriales;1;Budget R&T;;;;;Budget non ventilé (%);0.23;XXX;;France
+2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;;;;Tous objectifs;100;XXX;;France
+2015;Conseils régionaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;24.48;XXX;;France
+2015;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;23.66;XXX;;France
+2015;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;120.57;XXX;;France
 2014;Collectivités territoriales;0;Budget R&T;;;;;Equipement de laboratoires;4.93;R42;Grand Est
 2014;Collectivités territoriales;0;Budget R&T;;;;;Projets de la recherche publique;0.9;R42;Grand Est
 2014;Collectivités territoriales;0;Budget R&T;;;;;Aides aux chercheurs;2.21;R42;Grand Est
@@ -9174,10 +9174,10 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2008;Conseils départementaux;0;Budget R&T;;;;;Tous objectifs;8.39;A40;Nouvelle-Calédonie
 2008;Collectivités territoriales;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2008;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
-2008;Collectivités territoriales;0;Budget R&T;;;;;Opérations immobilières;318.92;XXX;France
-2008;Collectivités territoriales;1;Budget R&T;;;;;Equipement de laboratoires (%);10.21;XXX;France
-2008;Collectivités territoriales;1;Budget R&T;;;;;Aides aux chercheurs (%);10.04;XXX;France
-2008;Collectivités territoriales;1;Budget R&T;;;;;Budget non ventilé (%);1.83;XXX;France
+2008;Collectivités territoriales;0;Budget R&T;;;;;Opérations immobilières;318.92;XXX;;France
+2008;Collectivités territoriales;1;Budget R&T;;;;;Equipement de laboratoires (%);10.21;XXX;;France
+2008;Collectivités territoriales;1;Budget R&T;;;;;Aides aux chercheurs (%);10.04;XXX;;France
+2008;Collectivités territoriales;1;Budget R&T;;;;;Budget non ventilé (%);1.83;XXX;;France
 2008;Collectivités territoriales;1;Budget R&T;;Normandie;;R28;Projets de la recherche publique (%);12.28;;
 2008;Collectivités territoriales;0;Budget R&T;;Normandie;;R28;Réseaux haut débit;0.72;;
 2008;Collectivités territoriales;0;Budget R&T;;Normandie;;R28;Culture et information scientifique;0.77;;
@@ -9776,13 +9776,13 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2014;Conseils départementaux;0;Budget R&T;;;;;Tous objectifs;6.64;A40;Nouvelle-Calédonie
 2014;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2014;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
-2014;Collectivités territoriales;1;Budget R&T;;;;;Aides aux chercheurs (%);11.61;XXX;France
-2014;Collectivités territoriales;0;Budget R&T;;;;;Aides aux chercheurs;145.36;XXX;France
-2014;Communes et EPCI;0;Budget R&T;;;;;Tous objectifs;230.46;XXX;France
-2014;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;155.74;XXX;France
-2014;Conseils régionaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;18.51;XXX;France
-2014;Conseils départementaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;23.62;XXX;France
-2014;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;4.66;XXX;France
+2014;Collectivités territoriales;1;Budget R&T;;;;;Aides aux chercheurs (%);11.61;XXX;;France
+2014;Collectivités territoriales;0;Budget R&T;;;;;Aides aux chercheurs;145.36;XXX;;France
+2014;Communes et EPCI;0;Budget R&T;;;;;Tous objectifs;230.46;XXX;;France
+2014;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;155.74;XXX;;France
+2014;Conseils régionaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;18.51;XXX;;France
+2014;Conseils départementaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;23.62;XXX;;France
+2014;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;4.66;XXX;;France
 2013;Collectivités territoriales;1;Budget R&T;;;;;Projets de la recherche publique (%);2.96;R42;Grand Est
 2013;Collectivités territoriales;1;Budget R&T;;;;;Aides aux chercheurs (%);7.52;R42;Grand Est
 2013;Collectivités territoriales;1;Budget R&T;;;;;Transferts de technologie (%);30.22;R42;Grand Est
@@ -10497,8 +10497,8 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2015;Collectivités territoriales;1;Budget R&T;;;;;Opérations immobilières (%);1.52;A40;Nouvelle-Calédonie
 2015;Collectivités territoriales;1;Budget R&T;;;;;Equipement de laboratoires (%);5.53;A40;Nouvelle-Calédonie
 2015;Conseils régionaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
-2015;Collectivités territoriales;1;Budget R&T;;;;;Projets de la recherche publique (%);10.44;XXX;France
-2015;Collectivités territoriales;0;Budget R&T;;;;;Projets de la recherche publique;125.46;XXX;France
+2015;Collectivités territoriales;1;Budget R&T;;;;;Projets de la recherche publique (%);10.44;XXX;;France
+2015;Collectivités territoriales;0;Budget R&T;;;;;Projets de la recherche publique;125.46;XXX;;France
 2014;Communes et EPCI;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A41;Polynésie française
 2014;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0;A41;Polynésie française
 2014;Collectivités territoriales;0;Budget R&T;;;;;Opérations immobilières;0.66;A40;Nouvelle-Calédonie
@@ -10511,11 +10511,11 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2014;Conseils départementaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2014;Communes et EPCI;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2014;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
-2014;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;;;;Tous objectifs;100;XXX;France
-2014;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);;;;Tous objectifs;12.6;XXX;France
-2014;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;3.05;XXX;France
-2014;Conseils départementaux;0;Budget R&T;;;;;Tous objectifs;180.5;XXX;France
-2014;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;118.59;XXX;France
+2014;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;;;;Tous objectifs;100;XXX;;France
+2014;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);;;;Tous objectifs;12.6;XXX;;France
+2014;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;3.05;XXX;;France
+2014;Conseils départementaux;0;Budget R&T;;;;;Tous objectifs;180.5;XXX;;France
+2014;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;118.59;XXX;;France
 2013;Collectivités territoriales;0;Budget R&T;;;;;Tous objectifs;34.01;R42;Grand Est
 2013;Collectivités territoriales;0;Budget R&T;;;;;Opérations immobilières;14.91;R42;Grand Est
 2013;Collectivités territoriales;0;Budget R&T;;;;;Transferts de technologie;10.28;R42;Grand Est
@@ -10812,13 +10812,13 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2015;Communes et EPCI;0;Budget R&T;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2015;Collectivités territoriales;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2015;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
-2015;Collectivités territoriales;0;Budget R&T;;;;;Tous objectifs;1201.48;XXX;France
-2015;Collectivités territoriales;0;Budget R&T;;;;;Transferts de technologie;416.07;XXX;France
-2015;Collectivités territoriales;0;Budget R&T;;;;;Culture et information scientifique;39.97;XXX;France
-2015;Conseils régionaux;0;Budget R&T;;;;;Tous objectifs;866.71;XXX;France
-2015;Conseils départementaux;0;Budget R&T;;;;;Tous objectifs;134.62;XXX;France
-2015;Conseils départementaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;17.58;XXX;France
-2015;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;15.33;XXX;France
+2015;Collectivités territoriales;0;Budget R&T;;;;;Tous objectifs;1201.48;XXX;;France
+2015;Collectivités territoriales;0;Budget R&T;;;;;Transferts de technologie;416.07;XXX;;France
+2015;Collectivités territoriales;0;Budget R&T;;;;;Culture et information scientifique;39.97;XXX;;France
+2015;Conseils régionaux;0;Budget R&T;;;;;Tous objectifs;866.71;XXX;;France
+2015;Conseils départementaux;0;Budget R&T;;;;;Tous objectifs;134.62;XXX;;France
+2015;Conseils départementaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;17.58;XXX;;France
+2015;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;15.33;XXX;;France
 2014;Collectivités territoriales;1;Budget R&T;;;;;Opérations immobilières (%);37.99;R42;Grand Est
 2014;Collectivités territoriales;1;Budget R&T;;;;;Aides aux chercheurs (%);7.88;R42;Grand Est
 2014;Collectivités territoriales;1;Budget R&T;;;;;Culture et information scientifique (%);7.06;R42;Grand Est
@@ -10899,15 +10899,15 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2014;Communes et EPCI;0;Budget R&T;;;;;Tous objectifs;7.04;R23;Normandie
 2014;Collectivités territoriales;0;Budget R&T;;;;;Aides aux chercheurs;21.85;R11;Île-de-France
 2014;Communes et EPCI;0;Budget R&T;;;;;Tous objectifs;14.34;R11;Île-de-France
-2015;Collectivités territoriales;1;Budget R&T;;;;;Aides aux chercheurs (%);11.46;XXX;France
-2015;Collectivités territoriales;1;Budget R&T;;;;;Transferts de technologie (%);34.63;XXX;France
-2015;Collectivités territoriales;1;Budget R&T;;;;;Réseaux haut débit (%);1.2;XXX;France
-2015;Collectivités territoriales;0;Budget R&T;;;;;Réseaux haut débit;14.37;XXX;France
-2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;0;XXX;France
-2015;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;291.53;XXX;France
-2015;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;212.15;XXX;France
-2015;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;55.34;XXX;France
-2015;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;79.4;XXX;France
+2015;Collectivités territoriales;1;Budget R&T;;;;;Aides aux chercheurs (%);11.46;XXX;;France
+2015;Collectivités territoriales;1;Budget R&T;;;;;Transferts de technologie (%);34.63;XXX;;France
+2015;Collectivités territoriales;1;Budget R&T;;;;;Réseaux haut débit (%);1.2;XXX;;France
+2015;Collectivités territoriales;0;Budget R&T;;;;;Réseaux haut débit;14.37;XXX;;France
+2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;0;XXX;;France
+2015;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;291.53;XXX;;France
+2015;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;212.15;XXX;;France
+2015;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;55.34;XXX;;France
+2015;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;79.4;XXX;;France
 2014;Collectivités territoriales;0;Budget R&T;;;;;Opérations immobilières;10.67;R42;Grand Est
 2014;Collectivités territoriales;1;Budget R&T;;;;;Equipement de laboratoires (%);17.55;R42;Grand Est
 2014;Collectivités territoriales;0;Budget R&T;;;;;Transferts de technologie;7.39;R42;Grand Est
@@ -11519,11 +11519,11 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2013;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2013;Communes et EPCI;0;Budget R&T;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2013;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
-2013;Collectivités territoriales;0;Budget R&T;;;;;Projets de la recherche publique;148.66;XXX;France
-2013;Collectivités territoriales;1;Budget R&T;;;;;Budget non ventilé (%);0.03;XXX;France
-2013;Conseils régionaux;0;Budget R&T;;;;;Tous objectifs;771.58;XXX;France
-2013;Conseils départementaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;25.95;XXX;France
-2013;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;25.12;XXX;France
+2013;Collectivités territoriales;0;Budget R&T;;;;;Projets de la recherche publique;148.66;XXX;;France
+2013;Collectivités territoriales;1;Budget R&T;;;;;Budget non ventilé (%);0.03;XXX;;France
+2013;Conseils régionaux;0;Budget R&T;;;;;Tous objectifs;771.58;XXX;;France
+2013;Conseils départementaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;25.95;XXX;;France
+2013;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;25.12;XXX;;France
 2012;Collectivités territoriales;0;Budget R&T;;;;;Opérations immobilières;19.71;R42;Grand Est
 2012;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;15.92;R42;Grand Est
 2012;Conseils régionaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;52.22;R42;Grand Est
@@ -11615,11 +11615,11 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2015;Collectivités territoriales;1;Budget R&T;;;;;Transferts de technologie (%);61.31;A40;Nouvelle-Calédonie
 2015;Communes et EPCI;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2015;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
-2015;Collectivités territoriales;0;Budget R&T;;;;;Aides aux chercheurs;137.72;XXX;France
-2015;Collectivités territoriales;0;Budget R&T;;;;;Budget non ventilé;2.75;XXX;France
-2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);;;;Tous objectifs;12.91;XXX;France
-2015;Collectivités territoriales;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;24.26;XXX;France
-2015;Communes et EPCI;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;27.65;XXX;France
+2015;Collectivités territoriales;0;Budget R&T;;;;;Aides aux chercheurs;137.72;XXX;;France
+2015;Collectivités territoriales;0;Budget R&T;;;;;Budget non ventilé;2.75;XXX;;France
+2015;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);;;;Tous objectifs;12.91;XXX;;France
+2015;Collectivités territoriales;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;24.26;XXX;;France
+2015;Communes et EPCI;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;27.65;XXX;;France
 2014;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);;;;Tous objectifs;7.57;R42;Grand Est
 2014;Conseils départementaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;32.96;R42;Grand Est
 2014;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0.07;R42;Grand Est
@@ -12064,12 +12064,12 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2009;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2009;Communes et EPCI;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2009;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
-2009;Collectivités territoriales;0;Budget R&T;;;;;Tous objectifs;1251.24;XXX;France
-2009;Collectivités territoriales;0;Budget R&T;;;;;Aides aux chercheurs;116.58;XXX;France
-2009;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;438.89;XXX;France
-2009;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;309.95;XXX;France
-2009;Conseils départementaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;32.26;XXX;France
-2009;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;178.75;XXX;France
+2009;Collectivités territoriales;0;Budget R&T;;;;;Tous objectifs;1251.24;XXX;;France
+2009;Collectivités territoriales;0;Budget R&T;;;;;Aides aux chercheurs;116.58;XXX;;France
+2009;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;438.89;XXX;;France
+2009;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;309.95;XXX;;France
+2009;Conseils départementaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;32.26;XXX;;France
+2009;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;178.75;XXX;;France
 2008;Collectivités territoriales;0;Budget R&T;;;;;Transferts de technologie;5.31;R42;Grand Est
 2008;Collectivités territoriales;1;Budget R&T;;;;;Budget non ventilé (%);27.45;R42;Grand Est
 2008;Conseils départementaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;40.52;R42;Grand Est
@@ -12627,13 +12627,13 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2014;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2014;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2014;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
-2014;Collectivités territoriales;0;Budget R&T;;;;;Tous objectifs;1252.54;XXX;France
-2014;Collectivités territoriales;1;Budget R&T;;;;;Transferts de technologie (%);31.51;XXX;France
-2014;Collectivités territoriales;1;Budget R&T;;;;;Réseaux haut débit (%);0.91;XXX;France
-2014;Collectivités territoriales;0;Budget R&T;;;;;Budget non ventilé;0.56;XXX;France
-2014;Conseils régionaux;0;Budget R&T;;;;;Tous objectifs;841.59;XXX;France
-2014;Collectivités territoriales;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;22.67;XXX;France
-2014;Communes et EPCI;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;37;XXX;France
+2014;Collectivités territoriales;0;Budget R&T;;;;;Tous objectifs;1252.54;XXX;;France
+2014;Collectivités territoriales;1;Budget R&T;;;;;Transferts de technologie (%);31.51;XXX;;France
+2014;Collectivités territoriales;1;Budget R&T;;;;;Réseaux haut débit (%);0.91;XXX;;France
+2014;Collectivités territoriales;0;Budget R&T;;;;;Budget non ventilé;0.56;XXX;;France
+2014;Conseils régionaux;0;Budget R&T;;;;;Tous objectifs;841.59;XXX;;France
+2014;Collectivités territoriales;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;22.67;XXX;;France
+2014;Communes et EPCI;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;37;XXX;;France
 2013;Communes et EPCI;0;Budget R&T;;;;;Tous objectifs;10.29;R42;Grand Est
 2013;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;19.26;R42;Grand Est
 2013;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;2.18;R42;Grand Est
@@ -12728,11 +12728,11 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2008;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2008;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2008;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
-2008;Collectivités territoriales;1;Budget R&T;;;;;Opérations immobilières (%);29.17;XXX;France
-2008;Collectivités territoriales;1;Budget R&T;;;;;Projets de la recherche publique (%);13.06;XXX;France
-2008;Collectivités territoriales;0;Budget R&T;;;;;Projets de la recherche publique;142.84;XXX;France
-2008;Conseils départementaux;0;Budget R&T;;;;;Tous objectifs;183.76;XXX;France
-2008;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;172.03;XXX;France
+2008;Collectivités territoriales;1;Budget R&T;;;;;Opérations immobilières (%);29.17;XXX;;France
+2008;Collectivités territoriales;1;Budget R&T;;;;;Projets de la recherche publique (%);13.06;XXX;;France
+2008;Collectivités territoriales;0;Budget R&T;;;;;Projets de la recherche publique;142.84;XXX;;France
+2008;Conseils départementaux;0;Budget R&T;;;;;Tous objectifs;183.76;XXX;;France
+2008;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;172.03;XXX;;France
 2007;Collectivités territoriales;1;Budget R&T;;;;;Projets de la recherche publique (%);0.94;R42;Grand Est
 2007;Collectivités territoriales;0;Budget R&T;;;;;Aides aux chercheurs;2.54;R42;Grand Est
 2007;Collectivités territoriales;0;Budget R&T;;;;;Culture et information scientifique;0.53;R42;Grand Est
@@ -12815,15 +12815,15 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2009;Conseils départementaux;0;Budget R&T;;;;;Tous objectifs;6.15;A40;Nouvelle-Calédonie
 2009;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2009;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
-2009;Collectivités territoriales;1;Budget R&T;;;;;Opérations immobilières (%);33.41;XXX;France
-2009;Collectivités territoriales;0;Budget R&T;;;;;Opérations immobilières;418.09;XXX;France
-2009;Collectivités territoriales;1;Budget R&T;;;;;Aides aux chercheurs (%);9.32;XXX;France
-2009;Collectivités territoriales;0;Budget R&T;;;;;Budget non ventilé;13.86;XXX;France
-2009;Conseils régionaux;0;Budget R&T;;;;;Tous objectifs;857.82;XXX;France
-2009;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;;;;Tous objectifs;100;XXX;France
-2009;Conseils départementaux;0;Budget R&T;;;;;Tous objectifs;203.29;XXX;France
-2009;Communes et EPCI;0;Budget R&T;;;;;Tous objectifs;192.05;XXX;France
-2009;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;65.59;XXX;France
+2009;Collectivités territoriales;1;Budget R&T;;;;;Opérations immobilières (%);33.41;XXX;;France
+2009;Collectivités territoriales;0;Budget R&T;;;;;Opérations immobilières;418.09;XXX;;France
+2009;Collectivités territoriales;1;Budget R&T;;;;;Aides aux chercheurs (%);9.32;XXX;;France
+2009;Collectivités territoriales;0;Budget R&T;;;;;Budget non ventilé;13.86;XXX;;France
+2009;Conseils régionaux;0;Budget R&T;;;;;Tous objectifs;857.82;XXX;;France
+2009;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;;;;Tous objectifs;100;XXX;;France
+2009;Conseils départementaux;0;Budget R&T;;;;;Tous objectifs;203.29;XXX;;France
+2009;Communes et EPCI;0;Budget R&T;;;;;Tous objectifs;192.05;XXX;;France
+2009;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;65.59;XXX;;France
 2008;Collectivités territoriales;1;Budget R&T;;;;;Opérations immobilières (%);14.34;R42;Grand Est
 2008;Collectivités territoriales;0;Budget R&T;;;;;Opérations immobilières;3.05;R42;Grand Est
 2008;Collectivités territoriales;0;Budget R&T;;;;;Equipement de laboratoires;3.29;R42;Grand Est
@@ -12920,13 +12920,13 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2009;Conseils départementaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2009;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2009;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
-2009;Collectivités territoriales;0;Budget R&T;;;;;Equipement de laboratoires;107.89;XXX;France
-2009;Collectivités territoriales;0;Budget R&T;;;;;Projets de la recherche publique;144.9;XXX;France
-2009;Collectivités territoriales;1;Budget R&T;;;;;Culture et information scientifique (%);2.92;XXX;France
-2009;Collectivités territoriales;0;Budget R&T;;;;;Culture et information scientifique;36.49;XXX;France
-2009;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);;;;Tous objectifs;13.25;XXX;France
-2009;Collectivités territoriales;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;35.02;XXX;France
-2009;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;21.18;XXX;France
+2009;Collectivités territoriales;0;Budget R&T;;;;;Equipement de laboratoires;107.89;XXX;;France
+2009;Collectivités territoriales;0;Budget R&T;;;;;Projets de la recherche publique;144.9;XXX;;France
+2009;Collectivités territoriales;1;Budget R&T;;;;;Culture et information scientifique (%);2.92;XXX;;France
+2009;Collectivités territoriales;0;Budget R&T;;;;;Culture et information scientifique;36.49;XXX;;France
+2009;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);;;;Tous objectifs;13.25;XXX;;France
+2009;Collectivités territoriales;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;35.02;XXX;;France
+2009;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;21.18;XXX;;France
 2008;Collectivités territoriales;1;Budget R&T;;;;;Projets de la recherche publique (%);1.69;R42;Grand Est
 2008;Collectivités territoriales;0;Budget R&T;;;;;Projets de la recherche publique;0.36;R42;Grand Est
 2008;Collectivités territoriales;0;Budget R&T;;;;;Aides aux chercheurs;2.77;R42;Grand Est
@@ -13080,10 +13080,10 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2008;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2008;Conseils régionaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2008;Communes et EPCI;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
-2008;Collectivités territoriales;0;Budget R&T;;;;;Tous objectifs;1093.48;XXX;France
-2008;Collectivités territoriales;0;Budget R&T;;;;;Equipement de laboratoires;111.64;XXX;France
-2008;Collectivités territoriales;1;Budget R&T;;;;;Transferts de technologie (%);28.95;XXX;France
-2008;Collectivités territoriales;0;Budget R&T;;;;;Budget non ventilé;20.04;XXX;France
+2008;Collectivités territoriales;0;Budget R&T;;;;;Tous objectifs;1093.48;XXX;;France
+2008;Collectivités territoriales;0;Budget R&T;;;;;Equipement de laboratoires;111.64;XXX;;France
+2008;Collectivités territoriales;1;Budget R&T;;;;;Transferts de technologie (%);28.95;XXX;;France
+2008;Collectivités territoriales;0;Budget R&T;;;;;Budget non ventilé;20.04;XXX;;France
 2010;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0.11;R25;Normandie
 2010;Collectivités territoriales;1;Budget R&T;;;;;Opérations immobilières (%);31.21;R26;Bourgogne-Franche-Comté
 2010;Collectivités territoriales;0;Budget R&T;;;;;Opérations immobilières;8.77;R26;Bourgogne-Franche-Comté
@@ -13264,7 +13264,7 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2012;Communes et EPCI;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2012;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2012;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
-2012;Collectivités territoriales;1;Budget R&T;;;;;Equipement de laboratoires (%);7.55;XXX;France
+2012;Collectivités territoriales;1;Budget R&T;;;;;Equipement de laboratoires (%);7.55;XXX;;France
 2011;Collectivités territoriales;0;Budget R&T;;;;;Transferts de technologie;13.44;R42;Grand Est
 2011;Conseils régionaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;14.89;R42;Grand Est
 2011;Communes et EPCI;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;50.41;R42;Grand Est
@@ -13638,13 +13638,13 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2013;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2013;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2013;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
-2013;Collectivités territoriales;1;Budget R&T;;;;;Opérations immobilières (%);36.55;XXX;France
-2013;Collectivités territoriales;1;Budget R&T;;;;;Projets de la recherche publique (%);12.4;XXX;France
-2013;Collectivités territoriales;1;Budget R&T;;;;;Transferts de technologie (%);27.74;XXX;France
-2013;Collectivités territoriales;1;Budget R&T;;;;;Culture et information scientifique (%);2.68;XXX;France
-2013;Collectivités territoriales;0;Budget R&T;;;;;Budget non ventilé;0.31;XXX;France
-2013;Collectivités territoriales;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;26.3;XXX;France
-2013;Conseils régionaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;25.18;XXX;France
+2013;Collectivités territoriales;1;Budget R&T;;;;;Opérations immobilières (%);36.55;XXX;;France
+2013;Collectivités territoriales;1;Budget R&T;;;;;Projets de la recherche publique (%);12.4;XXX;;France
+2013;Collectivités territoriales;1;Budget R&T;;;;;Transferts de technologie (%);27.74;XXX;;France
+2013;Collectivités territoriales;1;Budget R&T;;;;;Culture et information scientifique (%);2.68;XXX;;France
+2013;Collectivités territoriales;0;Budget R&T;;;;;Budget non ventilé;0.31;XXX;;France
+2013;Collectivités territoriales;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;26.3;XXX;;France
+2013;Conseils régionaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;25.18;XXX;;France
 2012;Collectivités territoriales;0;Budget R&T;;;;;Tous objectifs;41.38;R42;Grand Est
 2012;Collectivités territoriales;1;Budget R&T;;;;;Opérations immobilières (%);47.63;R42;Grand Est
 2012;Collectivités territoriales;1;Budget R&T;;;;;Projets de la recherche publique (%);2.01;R42;Grand Est
@@ -13824,9 +13824,9 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2008;Conseils régionaux;0;Budget R&T;;;;;Tous objectifs;2.22;A40;Nouvelle-Calédonie
 2008;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2008;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
-2008;Collectivités territoriales;1;Budget R&T;;;;;Réseaux haut débit (%);3.43;XXX;France
-2008;Collectivités territoriales;1;Budget R&T;;;;;Culture et information scientifique (%);3.31;XXX;France
-2008;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;;;;Tous objectifs;100;XXX;France
+2008;Collectivités territoriales;1;Budget R&T;;;;;Réseaux haut débit (%);3.43;XXX;;France
+2008;Collectivités territoriales;1;Budget R&T;;;;;Culture et information scientifique (%);3.31;XXX;;France
+2008;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;;;;Tous objectifs;100;XXX;;France
 2011;Conseils régionaux;0;Budget R&T;;;;;Tous objectifs;80.83;R82;Auvergne-Rhône-Alpes
 2011;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;3.62;R82;Auvergne-Rhône-Alpes
 2011;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;27.66;R82;Auvergne-Rhône-Alpes
@@ -13884,13 +13884,13 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2011;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2011;Communes et EPCI;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2011;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
-2011;Collectivités territoriales;0;Budget R&T;;;;;Tous objectifs;1184.57;XXX;France
-2011;Collectivités territoriales;0;Budget R&T;;;;;Transferts de technologie;353.07;XXX;France
-2011;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);;;;Tous objectifs;12.34;XXX;France
-2011;Communes et EPCI;0;Budget R&T;;;;;Tous objectifs;163.75;XXX;France
-2011;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;192.38;XXX;France
-2011;Conseils régionaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;23.72;XXX;France
-2011;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;34.41;XXX;France
+2011;Collectivités territoriales;0;Budget R&T;;;;;Tous objectifs;1184.57;XXX;;France
+2011;Collectivités territoriales;0;Budget R&T;;;;;Transferts de technologie;353.07;XXX;;France
+2011;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);;;;Tous objectifs;12.34;XXX;;France
+2011;Communes et EPCI;0;Budget R&T;;;;;Tous objectifs;163.75;XXX;;France
+2011;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;192.38;XXX;;France
+2011;Conseils régionaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;23.72;XXX;;France
+2011;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;34.41;XXX;;France
 2010;Collectivités territoriales;0;Budget R&T;;;;;Equipement de laboratoires;3.79;R42;Grand Est
 2010;Collectivités territoriales;1;Budget R&T;;;;;Projets de la recherche publique (%);4.92;R42;Grand Est
 2010;Collectivités territoriales;1;Budget R&T;;;;;Réseaux haut débit (%);0;R42;Grand Est
@@ -13936,12 +13936,12 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2008;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2008;Conseils départementaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2008;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
-2008;Collectivités territoriales;0;Budget R&T;;;;;Aides aux chercheurs;109.84;XXX;France
-2008;Collectivités territoriales;0;Budget R&T;;;;;Transferts de technologie;316.56;XXX;France
-2008;Collectivités territoriales;0;Budget R&T;;;;;Réseaux haut débit;37.47;XXX;France
-2008;Collectivités territoriales;0;Budget R&T;;;;;Culture et information scientifique;36.16;XXX;France
-2008;Conseils régionaux;0;Budget R&T;;;;;Tous objectifs;758.55;XXX;France
-2008;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);;;;Tous objectifs;11.76;XXX;France
+2008;Collectivités territoriales;0;Budget R&T;;;;;Aides aux chercheurs;109.84;XXX;;France
+2008;Collectivités territoriales;0;Budget R&T;;;;;Transferts de technologie;316.56;XXX;;France
+2008;Collectivités territoriales;0;Budget R&T;;;;;Réseaux haut débit;37.47;XXX;;France
+2008;Collectivités territoriales;0;Budget R&T;;;;;Culture et information scientifique;36.16;XXX;;France
+2008;Conseils régionaux;0;Budget R&T;;;;;Tous objectifs;758.55;XXX;;France
+2008;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);;;;Tous objectifs;11.76;XXX;;France
 2011;Collectivités territoriales;0;Budget R&T;;;;;Transferts de technologie;0;R06;Mayotte
 2011;Collectivités territoriales;1;Budget R&T;;;;;Culture et information scientifique (%);0;R06;Mayotte
 2011;Collectivités territoriales;1;Budget R&T;;;;;Budget non ventilé (%);0;R06;Mayotte
@@ -13966,12 +13966,12 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2011;Conseils départementaux;0;Budget R&T;;;;;Tous objectifs;5.5;A40;Nouvelle-Calédonie
 2011;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2011;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
-2011;Collectivités territoriales;1;Budget R&T;;;;;Opérations immobilières (%);32.28;XXX;France
-2011;Collectivités territoriales;0;Budget R&T;;;;;Equipement de laboratoires;108.02;XXX;France
-2011;Collectivités territoriales;0;Budget R&T;;;;;Réseaux haut débit;24.16;XXX;France
-2011;Collectivités territoriales;0;Budget R&T;;;;;Culture et information scientifique;34.93;XXX;France
-2011;Conseils régionaux;0;Budget R&T;;;;;Tous objectifs;810.93;XXX;France
-2011;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;175.31;XXX;France
+2011;Collectivités territoriales;1;Budget R&T;;;;;Opérations immobilières (%);32.28;XXX;;France
+2011;Collectivités territoriales;0;Budget R&T;;;;;Equipement de laboratoires;108.02;XXX;;France
+2011;Collectivités territoriales;0;Budget R&T;;;;;Réseaux haut débit;24.16;XXX;;France
+2011;Collectivités territoriales;0;Budget R&T;;;;;Culture et information scientifique;34.93;XXX;;France
+2011;Conseils régionaux;0;Budget R&T;;;;;Tous objectifs;810.93;XXX;;France
+2011;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;175.31;XXX;;France
 2010;Collectivités territoriales;0;Budget R&T;;;;;Tous objectifs;29.07;R42;Grand Est
 2010;Collectivités territoriales;1;Budget R&T;;;;;Aides aux chercheurs (%);14.82;R42;Grand Est
 2010;Collectivités territoriales;0;Budget R&T;;;;;Aides aux chercheurs;4.31;R42;Grand Est
@@ -14065,12 +14065,12 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2010;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2010;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2010;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
-2010;Collectivités territoriales;1;Budget R&T;;;;;Equipement de laboratoires (%);9.11;XXX;France
-2010;Collectivités territoriales;1;Budget R&T;;;;;Aides aux chercheurs (%);9.9;XXX;France
-2010;Collectivités territoriales;1;Budget R&T;;;;;Transferts de technologie (%);30.78;XXX;France
-2010;Collectivités territoriales;0;Budget R&T;;;;;Culture et information scientifique;38.08;XXX;France
-2010;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;389.57;XXX;France
-2010;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;278.96;XXX;France
+2010;Collectivités territoriales;1;Budget R&T;;;;;Equipement de laboratoires (%);9.11;XXX;;France
+2010;Collectivités territoriales;1;Budget R&T;;;;;Aides aux chercheurs (%);9.9;XXX;;France
+2010;Collectivités territoriales;1;Budget R&T;;;;;Transferts de technologie (%);30.78;XXX;;France
+2010;Collectivités territoriales;0;Budget R&T;;;;;Culture et information scientifique;38.08;XXX;;France
+2010;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;389.57;XXX;;France
+2010;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;278.96;XXX;;France
 2009;Collectivités territoriales;1;Budget R&T;;;;;Opérations immobilières (%);18.71;R42;Grand Est
 2009;Collectivités territoriales;0;Budget R&T;;;;;Aides aux chercheurs;4.12;R42;Grand Est
 2009;Conseils départementaux;0;Budget R&T;;;;;Tous objectifs;3.37;R42;Grand Est
@@ -14099,9 +14099,9 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2009;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0.04;R25;Normandie
 2009;Collectivités territoriales;1;Budget R&T;;;;;Opérations immobilières (%);46.69;R26;Bourgogne-Franche-Comté
 2009;Collectivités territoriales;1;Budget R&T;;;;;Projets de la recherche publique (%);7.02;R26;Bourgogne-Franche-Comté
-2008;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;XXX;France
-2008;Collectivités territoriales;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;XXX;France
-2008;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;XXX;France
+2008;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;XXX;;France
+2008;Collectivités territoriales;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;XXX;;France
+2008;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;XXX;;France
 2007;Collectivités territoriales;0;Budget R&T;;;;;Réseaux haut débit;0.06;R42;Grand Est
 2007;Collectivités territoriales;0;Budget R&T;;;;;Budget non ventilé;6.46;R42;Grand Est
 2007;Communes et EPCI;0;Budget R&T;;;;;Tous objectifs;1.04;R42;Grand Est
@@ -14278,11 +14278,11 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2011;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2011;Collectivités territoriales;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2011;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
-2011;Collectivités territoriales;1;Budget R&T;;;;;Equipement de laboratoires (%);9.12;XXX;France
-2011;Collectivités territoriales;1;Budget R&T;;;;;Projets de la recherche publique (%);13.94;XXX;France
-2011;Collectivités territoriales;0;Budget R&T;;;;;Projets de la recherche publique;165.09;XXX;France
-2011;Collectivités territoriales;1;Budget R&T;;;;;Transferts de technologie (%);29.81;XXX;France
-2011;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;119.42;XXX;France
+2011;Collectivités territoriales;1;Budget R&T;;;;;Equipement de laboratoires (%);9.12;XXX;;France
+2011;Collectivités territoriales;1;Budget R&T;;;;;Projets de la recherche publique (%);13.94;XXX;;France
+2011;Collectivités territoriales;0;Budget R&T;;;;;Projets de la recherche publique;165.09;XXX;;France
+2011;Collectivités territoriales;1;Budget R&T;;;;;Transferts de technologie (%);29.81;XXX;;France
+2011;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;119.42;XXX;;France
 2010;Collectivités territoriales;0;Budget R&T;;;;;Transferts de technologie;11.28;R42;Grand Est
 2010;Collectivités territoriales;1;Budget R&T;;;;;Budget non ventilé (%);7.19;R42;Grand Est
 2010;Collectivités territoriales;0;Budget R&T;;;;;Budget non ventilé;2.09;R42;Grand Est
@@ -14567,9 +14567,9 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2009;Collectivités territoriales;0;Budget R&T;;;;;Equipement de laboratoires;9.84;R31;Hauts-de-France
 2009;Collectivités territoriales;1;Budget R&T;;;;;Réseaux haut débit (%);0.39;R31;Hauts-de-France
 2009;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;2.31;R31;Hauts-de-France
-2008;Communes et EPCI;0;Budget R&T;;;;;Tous objectifs;151.17;XXX;France
-2008;Communes et EPCI;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;XXX;France
-2008;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;29.74;XXX;France
+2008;Communes et EPCI;0;Budget R&T;;;;;Tous objectifs;151.17;XXX;;France
+2008;Communes et EPCI;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;XXX;;France
+2008;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;29.74;XXX;;France
 2007;Collectivités territoriales;1;Budget R&T;;;;;Equipement de laboratoires (%);12.81;R42;Grand Est
 2007;Collectivités territoriales;0;Budget R&T;;;;;Equipement de laboratoires;2.59;R42;Grand Est
 2007;Collectivités territoriales;1;Budget R&T;;;;;Aides aux chercheurs (%);12.6;R42;Grand Est
@@ -14856,14 +14856,14 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2010;Collectivités territoriales;1;Budget R&T;;;;;Réseaux haut débit (%);1.96;A40;Nouvelle-Calédonie
 2010;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2010;Conseils départementaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
-2010;Collectivités territoriales;0;Budget R&T;;;;;Transferts de technologie;366.51;XXX;France
-2010;Conseils régionaux;0;Budget R&T;;;;;Tous objectifs;825.95;XXX;France
-2010;Conseils départementaux;0;Budget R&T;;;;;Tous objectifs;177.72;XXX;France
-2010;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;54.17;XXX;France
-2010;Conseils départementaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;30.48;XXX;France
-2010;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;56.33;XXX;France
-2010;Communes et EPCI;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;30.11;XXX;France
-2010;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;38.46;XXX;France
+2010;Collectivités territoriales;0;Budget R&T;;;;;Transferts de technologie;366.51;XXX;;France
+2010;Conseils régionaux;0;Budget R&T;;;;;Tous objectifs;825.95;XXX;;France
+2010;Conseils départementaux;0;Budget R&T;;;;;Tous objectifs;177.72;XXX;;France
+2010;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;54.17;XXX;;France
+2010;Conseils départementaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;30.48;XXX;;France
+2010;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;56.33;XXX;;France
+2010;Communes et EPCI;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;30.11;XXX;;France
+2010;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;38.46;XXX;;France
 2009;Collectivités territoriales;1;Budget R&T;;;;;Transferts de technologie (%);36.15;R42;Grand Est
 2009;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;13.15;R42;Grand Est
 2009;Conseils régionaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;28.49;R42;Grand Est
@@ -14880,10 +14880,10 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2009;Collectivités territoriales;0;Budget R&T;;;;;Opérations immobilières;0.21;R83;Auvergne-Rhône-Alpes
 2009;Collectivités territoriales;0;Budget R&T;;;;;Transferts de technologie;3.74;R83;Auvergne-Rhône-Alpes
 2009;Collectivités territoriales;1;Budget R&T;;;;;Réseaux haut débit (%);1.66;R83;Auvergne-Rhône-Alpes
-2008;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;2.59;XXX;France
-2008;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;XXX;France
-2008;Conseils départementaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;XXX;France
-2008;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;124.55;XXX;France
+2008;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;2.59;XXX;;France
+2008;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;XXX;;France
+2008;Conseils départementaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;XXX;;France
+2008;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;124.55;XXX;;France
 2007;Collectivités territoriales;0;Budget R&T;;;;;Transferts de technologie;4.96;R42;Grand Est
 2007;Collectivités territoriales;1;Budget R&T;;;;;Budget non ventilé (%);32.01;R42;Grand Est
 2007;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;;;;Tous objectifs;2.56;R42;Grand Est
@@ -14984,17 +14984,17 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2010;Collectivités territoriales;0;Budget R&T;;;;;Transferts de technologie;4.25;A40;Nouvelle-Calédonie
 2010;Collectivités territoriales;0;Budget R&T;;;;;Budget non ventilé;0;A40;Nouvelle-Calédonie
 2010;Conseils régionaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
-2010;Collectivités territoriales;0;Budget R&T;;;;;Tous objectifs;1190.74;XXX;France
-2010;Collectivités territoriales;1;Budget R&T;;;;;Opérations immobilières (%);31.5;XXX;France
-2010;Collectivités territoriales;0;Budget R&T;;;;;Equipement de laboratoires;108.44;XXX;France
-2010;Collectivités territoriales;1;Budget R&T;;;;;Projets de la recherche publique (%);12.36;XXX;France
-2010;Collectivités territoriales;0;Budget R&T;;;;;Projets de la recherche publique;147.13;XXX;France
-2010;Collectivités territoriales;0;Budget R&T;;;;;Aides aux chercheurs;117.91;XXX;France
-2010;Collectivités territoriales;1;Budget R&T;;;;;Réseaux haut débit (%);2.78;XXX;France
-2010;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;;;;Tous objectifs;100;XXX;France
-2010;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);;;;Tous objectifs;12.65;XXX;France
-2010;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;2.59;XXX;France
-2010;Communes et EPCI;0;Budget R&T;;;;;Tous objectifs;187.07;XXX;France
+2010;Collectivités territoriales;0;Budget R&T;;;;;Tous objectifs;1190.74;XXX;;France
+2010;Collectivités territoriales;1;Budget R&T;;;;;Opérations immobilières (%);31.5;XXX;;France
+2010;Collectivités territoriales;0;Budget R&T;;;;;Equipement de laboratoires;108.44;XXX;;France
+2010;Collectivités territoriales;1;Budget R&T;;;;;Projets de la recherche publique (%);12.36;XXX;;France
+2010;Collectivités territoriales;0;Budget R&T;;;;;Projets de la recherche publique;147.13;XXX;;France
+2010;Collectivités territoriales;0;Budget R&T;;;;;Aides aux chercheurs;117.91;XXX;;France
+2010;Collectivités territoriales;1;Budget R&T;;;;;Réseaux haut débit (%);2.78;XXX;;France
+2010;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;;;;Tous objectifs;100;XXX;;France
+2010;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);;;;Tous objectifs;12.65;XXX;;France
+2010;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;2.59;XXX;;France
+2010;Communes et EPCI;0;Budget R&T;;;;;Tous objectifs;187.07;XXX;;France
 2009;Collectivités territoriales;0;Budget R&T;;;;;Opérations immobilières;6.04;R42;Grand Est
 2009;Collectivités territoriales;0;Budget R&T;;;;;Projets de la recherche publique;1.1;R42;Grand Est
 2009;Collectivités territoriales;0;Budget R&T;;;;;Budget non ventilé;5.88;R42;Grand Est
@@ -15129,13 +15129,13 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2007;Conseils départementaux;0;Budget R&T;;;;;Tous objectifs;4.49;A40;Nouvelle-Calédonie
 2007;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2007;Conseils départementaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
-2007;Collectivités territoriales;0;Budget R&T;;;;;Tous objectifs;945.77;XXX;France
-2007;Collectivités territoriales;1;Budget R&T;;;;;Projets de la recherche publique (%);15.5;XXX;France
-2007;Collectivités territoriales;1;Budget R&T;;;;;Réseaux haut débit (%);3.96;XXX;France
-2007;Conseils régionaux;0;Budget R&T;;;;;Tous objectifs;635.43;XXX;France
-2007;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;XXX;France
-2007;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;XXX;France
-2007;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;XXX;France
+2007;Collectivités territoriales;0;Budget R&T;;;;;Tous objectifs;945.77;XXX;;France
+2007;Collectivités territoriales;1;Budget R&T;;;;;Projets de la recherche publique (%);15.5;XXX;;France
+2007;Collectivités territoriales;1;Budget R&T;;;;;Réseaux haut débit (%);3.96;XXX;;France
+2007;Conseils régionaux;0;Budget R&T;;;;;Tous objectifs;635.43;XXX;;France
+2007;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;XXX;;France
+2007;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;XXX;;France
+2007;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;XXX;;France
 2010;Communes et EPCI;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;35.26;R25;Normandie
 2010;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;2.03;R25;Normandie
 2010;Collectivités territoriales;0;Budget R&T;;;;;Equipement de laboratoires;4.76;R26;Bourgogne-Franche-Comté
@@ -15408,9 +15408,9 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2009;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;2.7;R72;Nouvelle-Aquitaine
 2009;Collectivités territoriales;1;Budget R&T;;;;;Aides aux chercheurs (%);32.89;R83;Auvergne-Rhône-Alpes
 2009;Collectivités territoriales;0;Budget R&T;;;;;Réseaux haut débit;0.15;R83;Auvergne-Rhône-Alpes
-2008;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;XXX;France
-2008;Conseils régionaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;XXX;France
-2008;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;17.74;XXX;France
+2008;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;XXX;;France
+2008;Conseils régionaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;XXX;;France
+2008;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;17.74;XXX;;France
 2007;Collectivités territoriales;0;Budget R&T;;;;;Tous objectifs;20.19;R42;Grand Est
 2007;Collectivités territoriales;1;Budget R&T;;;;;Opérations immobilières (%);14.15;R42;Grand Est
 2007;Collectivités territoriales;0;Budget R&T;;;;;Opérations immobilières;2.86;R42;Grand Est
@@ -15565,18 +15565,18 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2007;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2007;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2007;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
-2007;Collectivités territoriales;0;Budget R&T;;;;;Opérations immobilières;226.45;XXX;France
-2007;Collectivités territoriales;1;Budget R&T;;;;;Equipement de laboratoires (%);9.92;XXX;France
-2007;Collectivités territoriales;0;Budget R&T;;;;;Equipement de laboratoires;93.77;XXX;France
-2007;Collectivités territoriales;0;Budget R&T;;;;;Projets de la recherche publique;146.62;XXX;France
-2007;Collectivités territoriales;1;Budget R&T;;;;;Aides aux chercheurs (%);11.14;XXX;France
-2007;Collectivités territoriales;1;Budget R&T;;;;;Transferts de technologie (%);27.59;XXX;France
-2007;Collectivités territoriales;0;Budget R&T;;;;;Transferts de technologie;260.95;XXX;France
-2007;Collectivités territoriales;1;Budget R&T;;;;;Culture et information scientifique (%);3.72;XXX;France
-2007;Collectivités territoriales;0;Budget R&T;;;;;Culture et information scientifique;35.23;XXX;France
-2007;Collectivités territoriales;1;Budget R&T;;;;;Budget non ventilé (%);4.22;XXX;France
-2007;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);;;;Tous objectifs;9.81;XXX;France
-2007;Communes et EPCI;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;XXX;France
+2007;Collectivités territoriales;0;Budget R&T;;;;;Opérations immobilières;226.45;XXX;;France
+2007;Collectivités territoriales;1;Budget R&T;;;;;Equipement de laboratoires (%);9.92;XXX;;France
+2007;Collectivités territoriales;0;Budget R&T;;;;;Equipement de laboratoires;93.77;XXX;;France
+2007;Collectivités territoriales;0;Budget R&T;;;;;Projets de la recherche publique;146.62;XXX;;France
+2007;Collectivités territoriales;1;Budget R&T;;;;;Aides aux chercheurs (%);11.14;XXX;;France
+2007;Collectivités territoriales;1;Budget R&T;;;;;Transferts de technologie (%);27.59;XXX;;France
+2007;Collectivités territoriales;0;Budget R&T;;;;;Transferts de technologie;260.95;XXX;;France
+2007;Collectivités territoriales;1;Budget R&T;;;;;Culture et information scientifique (%);3.72;XXX;;France
+2007;Collectivités territoriales;0;Budget R&T;;;;;Culture et information scientifique;35.23;XXX;;France
+2007;Collectivités territoriales;1;Budget R&T;;;;;Budget non ventilé (%);4.22;XXX;;France
+2007;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);;;;Tous objectifs;9.81;XXX;;France
+2007;Communes et EPCI;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;XXX;;France
 2010;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;26.58;R91;Occitanie
 2010;Communes et EPCI;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;R91;Occitanie
 2010;Communes et EPCI;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;R91;Occitanie
@@ -15741,9 +15741,9 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2007;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0;A41;Polynésie française
 2007;Collectivités territoriales;0;Budget R&T;;;;;Equipement de laboratoires;0.3;A40;Nouvelle-Calédonie
 2007;Conseils départementaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
-2007;Collectivités territoriales;0;Budget R&T;;;;;Réseaux haut débit;37.45;XXX;France
-2007;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;97.31;XXX;France
-2007;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;7.53;XXX;France
+2007;Collectivités territoriales;0;Budget R&T;;;;;Réseaux haut débit;37.45;XXX;;France
+2007;Conseils régionaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;97.31;XXX;;France
+2007;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;7.53;XXX;;France
 2008;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part de la R&T dans les dépenses totales des conseils régionaux (en %);Nouvelle-Aquitaine;;R75;Tous objectifs;4.59;;
 2008;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Budget de R&T par habitant des conseils régionaux (en euros);Nouvelle-Aquitaine;;R75;Tous objectifs;16.65;;
 2008;Conseils régionaux;1;Budget R&T réalisé dans le cadre du CPER;;Nouvelle-Aquitaine;;R75;Tous objectifs;32.51;;
@@ -15849,12 +15849,12 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2007;Conseils régionaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2007;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2007;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
-2007;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;;;;Tous objectifs;100;XXX;France
-2007;Conseils départementaux;0;Budget R&T;;;;;Tous objectifs;173.68;XXX;France
-2007;Communes et EPCI;0;Budget R&T;;;;;Tous objectifs;136.66;XXX;France
-2007;Conseils régionaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;XXX;France
-2007;Conseils départementaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;XXX;France
-2007;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;24.88;XXX;France
+2007;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;;;;Tous objectifs;100;XXX;;France
+2007;Conseils départementaux;0;Budget R&T;;;;;Tous objectifs;173.68;XXX;;France
+2007;Communes et EPCI;0;Budget R&T;;;;;Tous objectifs;136.66;XXX;;France
+2007;Conseils régionaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;XXX;;France
+2007;Conseils départementaux;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;XXX;;France
+2007;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;24.88;XXX;;France
 2007;Conseils régionaux;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;R11;Île-de-France
 2007;Conseils départementaux;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;10.02;R11;Île-de-France
 2007;Collectivités territoriales;1;Budget R&T;;;;;Transferts de technologie (%);39.77;R91;Occitanie
@@ -15960,11 +15960,11 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2010;Collectivités territoriales;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2010;Communes et EPCI;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2010;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
-2010;Collectivités territoriales;0;Budget R&T;;;;;Réseaux haut débit;33.14;XXX;France
-2010;Collectivités territoriales;1;Budget R&T;;;;;Culture et information scientifique (%);3.2;XXX;France
-2010;Collectivités territoriales;0;Budget R&T;;;;;Budget non ventilé;4.5;XXX;France
-2010;Collectivités territoriales;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;32.72;XXX;France
-2010;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;21.48;XXX;France
+2010;Collectivités territoriales;0;Budget R&T;;;;;Réseaux haut débit;33.14;XXX;;France
+2010;Collectivités territoriales;1;Budget R&T;;;;;Culture et information scientifique (%);3.2;XXX;;France
+2010;Collectivités territoriales;0;Budget R&T;;;;;Budget non ventilé;4.5;XXX;;France
+2010;Collectivités territoriales;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;32.72;XXX;;France
+2010;Communes et EPCI;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;21.48;XXX;;France
 2009;Collectivités territoriales;0;Budget R&T;;;;;Tous objectifs;32.28;R42;Grand Est
 2009;Collectivités territoriales;1;Budget R&T;;;;;Projets de la recherche publique (%);3.4;R42;Grand Est
 2009;Collectivités territoriales;0;Budget R&T;;;;;Transferts de technologie;11.67;R42;Grand Est
@@ -16057,10 +16057,10 @@ Années;Type de collectivité;Pourcentage;Indicateurs;Indicateurs de leffort bud
 2007;Conseils régionaux;0;Budget R&T;;;;;Tous objectifs;7.5;A40;Nouvelle-Calédonie
 2007;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Poids dans le budget total de R&T des conseils régionaux;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
 2007;Communes et EPCI;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;A40;Nouvelle-Calédonie
-2007;Collectivités territoriales;1;Budget R&T;;;;;Opérations immobilières (%);23.94;XXX;France
-2007;Collectivités territoriales;0;Budget R&T;;;;;Aides aux chercheurs;105.4;XXX;France
-2007;Collectivités territoriales;0;Budget R&T;;;;;Budget non ventilé;39.9;XXX;France
-2007;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;2.59;XXX;France
-2007;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;XXX;France
-2007;Collectivités territoriales;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;XXX;France
-2007;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;129.71;XXX;France
+2007;Collectivités territoriales;1;Budget R&T;;;;;Opérations immobilières (%);23.94;XXX;;France
+2007;Collectivités territoriales;0;Budget R&T;;;;;Aides aux chercheurs;105.4;XXX;;France
+2007;Collectivités territoriales;0;Budget R&T;;;;;Budget non ventilé;39.9;XXX;;France
+2007;Conseils régionaux;0;Effort budgétaire des conseils régionaux en direction de la R&T;Part du budget de R&T des conseils régionaux dans les dépenses totales des col. Ter.(en %);;;;Tous objectifs;2.59;XXX;;France
+2007;Collectivités territoriales;0;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;XXX;;France
+2007;Collectivités territoriales;1;Budget R&T réalisé dans le cadre du CPER;;;;;Tous objectifs;0;XXX;;France
+2007;Collectivités territoriales;0;Budget R&T réalisé dans le cadre des pôles de compétitivité;;;;;Tous objectifs;129.71;XXX;;France
