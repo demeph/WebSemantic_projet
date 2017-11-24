@@ -10,7 +10,7 @@ WHERE {
      dbo:code ?codeRegion;
      dbo:region ?region.
   ?codeRegion owl:sameAs ?codeRegionOther.
-  Graph <http://localhost:3030/clem> {
+  Service <http://localhost:3030/clem> {
 	?y a schema:dataset;
     	igeo:codeRegion ?codeRegionOther;
 		igeo:nom ?regionOther.    
