@@ -7,12 +7,12 @@ PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdf: <http://www.w3.org/2000/01/rdf-schema#>
 
 CONSTRUCT {
-
+	?URI_Code_Region rdf:type frapo:hasCode.
 
 
 	?URI a frapo:Funding;
 
-		dbo:Place [frapo:hasLocation ?URI_Region;
+		dbo:Place [frapo:hasLocation ?zone_geo;
 					frapo:hasCode ?URI_Code_Region];
 
 		frapo:hasDeliveryDate ?annee;
@@ -39,7 +39,7 @@ CONSTRUCT {
 FROM <file:../Data/project.csv>
 WHERE {	
 	BIND (xsd:integer(?code_zone_geo) AS ?code_geo)
-	#BIND (xsd:string(?Zone_géographique) AS ?zone_geo)
+	BIND (xsd:string(?Zone_géographique) AS ?zone_geo)
 
 	BIND (xsd:gYear(?Année) AS ?annee)
 
@@ -65,5 +65,5 @@ WHERE {
 		URI(CONCAT('http://ex.org/donation/', ?code_zone_geo, ?Année, ?code_indicateur, ?code_intensite))) AS ?URI)
 
 	# liaison données
-	BIND(URI(CONCAT("https://ex.org/donation/", ?code_zone_geo)) AS ?URI_Code_Region)	
+	BIND(URI(CONCAT("http://ex.org/codeRegion/", ?code_zone_geo)) AS ?URI_Code_Region)	
 }
