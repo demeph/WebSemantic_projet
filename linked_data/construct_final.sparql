@@ -59,6 +59,6 @@ WHERE
     BIND (xsd:string(?Type_de_collectivité) AS ?coll)
 
     # Pour lier nos données à l'aide du code région
-    BIND (URI(CONCAT('http://ex.org/codeRegion/', ?codereg)) AS ?URI_Code_Region)
-    BIND (URI(CONCAT('http://ex.org/codeRegion/', ?codereg)) AS ?URI_Code_Region_Other)
+    BIND (URI(CONCAT('https://ex.org/budget/region', ?codereg)) AS ?URI_Code_Region)
+    BIND (URI(CONCAT('https://ex.org/donation/region', ?codereg)) AS ?URI_Code_Region_Other)
 }
