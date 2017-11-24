@@ -1,0 +1,52 @@
+PREFIX ex: <http://ex.org/a#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX dbo:<http://dbpedia.org/ontology/>
+PREFIX foaf: <http://xmlns.com/foaf/spec/>
+PREFIX schema: <http://schema.org/>
+PREFIX rdf: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX igeo: <http://rdf.insee.fr/def/geo#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+
+CONSTRUCT {
+  ?URI_Record a schema:dataset;
+    foaf:gender ?sexe_de_l_etudiant;
+    igeo:subdivisionDirecte ?niveau_geo;
+    igeo:codeRegion ?URI_Code_Region_NOUS;
+
+    igeo:nom ?URI_Region_NOUS;
+
+    ex:effectif_ing ?EFFECTIF_ING;
+    ex:effectif_dut ?EFFECTIF_DUT;
+    dbo:numberOfStudents ?effectif;
+    dbo:educationSystem ?secteur_de_l_etablissement;
+    schema:EducationalOrganization ?rgp_formations_ou_etablissements;
+    dbo:formationYear ?rentree.
+    
+    #liens avec les datas hyppo
+    ?URI_Region_NOUS rdf:type igeo:nom;
+        owl:sameAs ?URI_REGION_HIPPO.
+
+    #liens avec les datas loic
+    ?URI_Code_Region_NOUS rdf:type igeo:codeRegion;
+        owl:sameAs ?URI_Code_Region_LOIC.
+
+}
+FROM <file:data_simple.csv>
+WHERE {
+  BIND (URI(CONCAT('http://schema.org/record_id/', ?recordid)) AS ?URI_Record) .
+
+  BIND(URI(CONCAT("https://ex.org/hippo/region/",REPLACE(?geo_nom, " ", "_"))) AS ?URI_REGION_HIPPO).
+
+  BIND (URI(CONCAT("https://ex.org/nous/region/", REPLACE(?geo_nom, " ","_"))) AS ?URI_Region_NOUS) .
+
+
+  
+  BIND ((STRAFTER(?geo_id, "R")) AS ?codereg)
+  BIND (URI(CONCAT("http://ex.org/nous/codeRegion/", ?codereg)) AS ?URI_Code_Region_NOUS)  
+  BIND (URI(CONCAT("http://ex.org/budget/codeRegion/", ?codereg)) AS ?URI_Code_Region_LOIC)  
+
+
+
+  BIND (xsd:integer(?effectif_ing) AS ?EFFECTIF_ING)
+  BIND (xsd:integer(?effectif_dut) AS ?EFFECTIF_DUT)
+}

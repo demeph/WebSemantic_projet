@@ -1,0 +1,15 @@
+PREFIX dbo:<http://dbpedia.org/ontology/>
+PREFIX frapo:<http://purl.org/cerif/frapo/>
+PREFIX owl:<http://www.w3.org/2002/07/owl#>
+
+SELECT DISTINCT ?codeRegion ?region ?codeRegionOther 
+WHERE {
+  ?x a frapo:Funding;
+     dbo:code ?codeRegion;
+     dbo:region ?region.
+  ?codeRegion owl:sameAs ?codeRegionOther.
+  Service <http://localhost:3030/ivan> {
+      ?z a frapo:Funding;
+         dbo:Place [ frapo:hasLocation ?URI_Region; frapo:hasCode ?codeRegionOther].
+  }
+}
