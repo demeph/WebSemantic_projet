@@ -1,0 +1,69 @@
+PREFIX dbp: <http://dbpedia.org/property/>
+PREFIX ex: <http://ex.org/a#>
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX frapo: <http://purl.org/cerif/frapo/>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdf: <http://www.w3.org/2000/01/rdf-schema#>
+
+CONSTRUCT {
+	?URI_Code_Region rdf:type frapo:hasCode.
+
+
+	?URI a frapo:Funding;
+
+		dbo:Place [frapo:hasLocation ?URI_Region;
+					frapo:hasCode ?code_geo];
+
+		frapo:hasDeliveryDate ?annee;
+		
+		ex:indicateur [frapo:hasCode ?code_indi;
+						ex:typeIndic ?indicateur];
+
+		ex:personnel [frapo:hasCode ?code_pers;
+						ex:typePersonnel ?type_pers];
+
+		ex:intensite [frapo:hasCode ?code_int;
+						ex:typeIntensite ?intensite];
+
+		ex:Secret ?secret;
+
+		ex:nonDisponible ?non_disp;
+
+		ex:etatDonnee ?etat_data;
+
+		frapo:BudgetedAmount ?valeur.
+
+
+}
+FROM <file:../Data/project.csv>
+WHERE {	
+	BIND (xsd:integer(?code_zone_geo) AS ?code_geo)
+	#BIND (xsd:string(?Zone_géographique) AS ?zone_geo)
+
+	BIND (xsd:gYear(?Année) AS ?annee)
+
+	BIND (xsd:string(?code_indicateur) AS ?code_indi)
+	BIND (xsd:string(?Indicateur) AS ?indicateur)
+
+	BIND (xsd:integer(?code_type_pers) AS ?code_pers)
+	BIND (xsd:string(?Type_de_personnel) AS ?type_pers)
+
+	BIND (xsd:integer(?code_intensite) AS ?code_int)
+	BIND (xsd:string(?Intensité_technologique) AS ?intensite)
+
+	BIND (IF(?Secret = "oui", "1"^^xsd:boolean, "0"^^xsd:boolean) AS ?secret)
+
+	BIND (IF(?Non_disponible = "oui", "1"^^xsd:boolean, "0"^^xsd:boolean) AS ?non_disp)
+
+	BIND (xsd:string(?État_des_données) AS ?etat_data)
+
+	BIND (xsd:double(?Valeur) AS ?valeur)
+
+	BIND(IF(bound(?code_type_pers),
+		URI(CONCAT('http://ex.org/donation/', ?code_zone_geo, ?Année, ?code_indicateur, ?code_type_pers, ?code_intensite)),
+		URI(CONCAT('http://ex.org/donation/', ?code_zone_geo, ?Année, ?code_indicateur, ?code_intensite))) AS ?URI)
+
+	# liaison données
+	BIND(URI(CONCAT("https://ex.org/donation/", ?code_zone_geo)) AS ?URI_Code_Region)	
+}
