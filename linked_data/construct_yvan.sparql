@@ -7,13 +7,13 @@ PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdf: <http://www.w3.org/2000/01/rdf-schema#>
 
 CONSTRUCT {
-	?URI_Code_Region rdf:type frapo:hasCode.
+
 
 
 	?URI a frapo:Funding;
 
 		dbo:Place [frapo:hasLocation ?URI_Region;
-					frapo:hasCode ?code_geo];
+					frapo:hasCode ?URI_Code_Region];
 
 		frapo:hasDeliveryDate ?annee;
 		
