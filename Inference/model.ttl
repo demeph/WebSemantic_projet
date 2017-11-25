@@ -1,0 +1,36 @@
+@prefix dbo:  <http://dbpedia.org/ontology/> .
+@prefix ex:  <http://test.org/> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix frapo:  <http://purl.org/cerif/frapo/> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://www.schema.org/>
+
+frapo:BudgetInformation   rdf:type 				owl:Class.
+frapo:appliesFor      	  rdf:type 				owl:Class.
+frapo:BudgetedAmount  	  rdf:type 				owl:Class.
+dbo:region            	  rdf:type 				owl:Class.    
+dbo:Organization      	  rdf:type				owl:Class.
+
+
+
+frapo:BudgetInformation   rdfs:subClassOf   	frapo:FinancialEntity.
+frapo:appliesFor      	  rdfs:subClassOf   	frapo:FinancialEntity.   
+frapo:BudgetedAmount  	  rdfs:subClassOf   	frapo:FinancialEntity. 
+
+
+dbo:percentage            rdf:type    			rdf:Property.
+dbo:percentage            rdf:type    			owl:ObjectProperty.
+
+dbo:year           		  rdf:type    			rdf:Property.
+dbo:year          		  rdf:type    			owl:ObjectProperty.
+
+dbo:region				  rdfs:subClassOf   	dbo:PopulatedPlace.
+dbo:PopulatedPlace		  rdfs:subClassOf       dbo:Place.
+
+dbo:code           		  rdf:type    			rdf:Property.
+dbo:code          		  rdf:type    			owl:ObjectProperty.
+
+dbo:Organization          rdfs:subClassOf   	dbo:Agent.
+dbo:Organization          owl:equivalentClass   schema:Organization.
