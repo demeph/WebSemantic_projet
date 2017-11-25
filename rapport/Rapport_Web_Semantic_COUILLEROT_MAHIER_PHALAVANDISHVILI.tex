@@ -1,0 +1,127 @@
+\documentclass[a4paper,sffamily,12pt]{article}
+
+\usepackage[T1]{fontenc}
+\usepackage[french]{babel}
+\usepackage[utf8]{inputenc}
+
+% Insertion d'image
+\usepackage{graphicx}
+
+% Création de lien
+\usepackage[colorlinks,linkcolor=blue]{hyperref}
+
+% Formatage des titres de sections
+\usepackage{titlesec}
+\titleformat{\section}
+  {\normalfont\Large\bfseries\sffamily}{\thesection.}{0.33em}{}[\hrule]
+\titleformat{\paragraph}
+  {\normalfont\bfseries\sffamily}{\theparagraph.}{0.33em}{}
+ 
+ % En-tête
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\renewcommand\headrulewidth{1pt}
+\fancyhead[L]{Web des données, web sémantique}
+\fancyhead[R]{$X1I1030$}
+
+% Permet de mettre du texte au dessus du titre
+\usepackage{titling}
+\renewcommand{\maketitlehooka}{\noindent COUILLEROT Carol \hfill \\ MAHIER Loïc \hfill \\ PHALAVANDISHVILI  Demetre}
+
+% Titre
+\title{\vspace{\fill}\LARGE\bfseries\sffamily Rapport de projet\protect\footnote{rapport réalisé sous \LaTeX} \vspace{\fill}}
+
+\begin{document}
+
+	\date{} % Supprime la date
+	\maketitle % Affiche le titre
+
+	\thispagestyle{fancy} % Permet de mettre le titre sur la page ''fancy''
+	
+	\newpage
+			
+	\renewcommand{\contentsname}{Sommaire}
+	\tableofcontents
+	
+	\newpage
+	
+	\section{Introduction}
+
+		\vspace{0.5cm}
+
+		L’objectif de ce projet est de transformer des données ouvertes de l'Enseignement supérieur, de la Recherche et de l'Innovation (\url{https://data.esr.gouv.fr/FR/}) en données sémantiques et de lier ses données sémantiques aux données sémantiques de nos collègues. Pour ce faire nous avons choisis des données sur les budgets dédiés à la recherche et au transfert de technologie (R\&T) des collectivités territoriales. \\
+		
+		\vspace{0.5cm}
+		
+	\section{Sémantisation des données}				
+
+		\vspace{0.5cm}
+		
+		\subsection{Nettoyage des données}
+			
+			\vspace{0.5cm}
+			
+			Les données étant choisis, il est désormais temps de les sémantiser. Cependant, un peu de ''nettoyage'' s'impose avant cela, en effet le jeu de données présente certain défaut à corriger. Ainsi nous avons commencer par normaliser les années et les régions. Par exemple il y avait plusieurs régions que l'on trouvait avec différentes syntaxes, cela aurait posé des problèmes plus tard au niveau des requêtes. Autre défaut du jeu de données, la présence d'une valeur ''TOTAL FRANCE'' dans les régions ce qui prête à confusion. Nous avons donc créé en plus de la colonne région une colonne pays servant à distinguer les deux échelles géographique.
+		
+			\vspace{0.5cm}
+		
+		\subsection{Choix des ontologies}
+		
+			\vspace{0.5cm}
+			
+			Voila les modifications majeures apportées au jeu de données. Maintenant que les données sont ''propres'' et pleinement exploitable on peut les sémantiser. La première étape est d'identifier les ontologies adéquates. \\
+		
+			\indent On commence par distinguer que nous avons des données qui renseignent sur la région, la collectivité et l'année. Pour ces données là, l'ontologie ''dbo'' propre à \url{http://wiki.dbpedia.org/} est intéressante : nous utilisons ainsi les prédicats ''dbo'' suivants : dbo:year, dbo:country, dbo:region, dbo:code, dbo:Organization et dbo:percentage. \\ 
+		
+			\indent Ensuite on remarque que le reste des données identifie un budget, sa valeur ou son pourcentage, son objectif et son application. Pour ce faire nous avons choisis d'utiliser l'ontologie ''frapo'' (\url{http://www.sparontologies.net/ontologies/frapo/source.html} qui sert notamment à définir des budgets. Nous avons donc besoin des prédicats suivants : frapo:BudgetInformation, frapo:appliesFor et frapo:BudgetedAmount.
+		
+			\vspace{0.5cm}
+			
+		\subsection{Écriture du ''construct''}
+			
+			\vspace{0.5cm}
+		
+			L'écriture du ''construct'' se fait assez facilement. Tout d'abord, on ajoute dans la clause ''WHERE'' des ''BIND'' qui vont nous servir à récupérer les valeurs dans chaque colonne du jeu de données. Nous attribuons ainsi une variable à ces valeurs. Variable que nous typons à la manière du XMLSchema. Dans le même temps on crée notre URI en ajoutant à une url que nous avons arbitrairement choisis autant de variable que nécessaire pour identifier chacun des tuples de notre jeu de données. L'objectif étant de ne pas avoir de doublon. Pour ce faire nous avons utilisé une conditionnelle puisque nous avons besoins d'un champ qui est parfois vide. Ensuite nous passons dans la clause ''CONSTRUCT'' où nous allons appliquer le prédicat (choisis ci-dessus) à chacune de nos variables. \\
+			
+			\vspace{0.5cm}
+			
+		\subsection{Obtention des données au format RDF}
+			
+			\vspace{0.5cm}
+	
+			Maintenant notre ''construct'' écrit, nous créons nos données RDF à l'aide de l'applet TARQL, via le terminal. Nous indiquons l''encodage de nos données, le caractère qui sert à délimiter les données, le fichier ''construct'', le fichier au format CSV contenant les données et enfin le fichier de destination des données RDF obtenues à l'aide d'un flux de redirection : \\
+			tarql -e utf-8 --delimiter \textbackslash; construct.sparql data\_non\_semantiques.csv > data\_semantiques.rdf
+
+			\vspace{0.5cm}
+
+	\section{Liaisons des données}
+
+		\vspace{0.5cm}
+		
+		
+		
+		\vspace{0.5cm}			
+
+	\section{Inférence}
+
+		\vspace{0.5cm}
+		
+		
+		
+		\vspace{0.5cm}
+				
+	\section{Conclusion}
+
+		\vspace{0.5cm}			
+
+
+
+		\newpage			
+		
+	\section{Annexe}
+
+		\vspace{0.5cm}
+		
+		
+								
+\end{document}

@@ -59,7 +59,6 @@ WHERE
     BIND (xsd:string(?Pays) AS ?pays)
     BIND (xsd:string(?Régions) AS ?region)
     BIND (xsd:string(STRAFTER(?Codes_régions, "R")) AS ?codereg)
-    
     BIND (xsd:string(?Type_de_collectivité) AS ?coll)
 
     # Pour lier nos données à l'aide du code région
