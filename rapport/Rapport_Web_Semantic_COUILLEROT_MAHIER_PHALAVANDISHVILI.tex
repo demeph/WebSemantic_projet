@@ -61,7 +61,7 @@
 			
 			\vspace{0.5cm}
 			
-			Les données étant choisis, il est désormais temps de les sémantiser. Cependant, un peu de ''nettoyage'' s'impose avant cela, en effet le jeu de données présente certain défaut à corriger. Ainsi nous avons commencer par normaliser les années et les régions. Par exemple il y avait plusieurs régions que l'on trouvait avec différentes syntaxes, cela aurait posé des problèmes plus tard au niveau des requêtes. Autre défaut du jeu de données, la présence d'une valeur ''TOTAL FRANCE'' dans les régions ce qui prête à confusion. Nous avons donc créé en plus de la colonne région une colonne pays servant à distinguer les deux échelles géographique.
+			Les données étant choisis, il est désormais temps de les sémantiser. Cependant, un peu de ''nettoyage'' s'impose avant cela, en effet le jeu de données présente certain défaut à corriger. Ainsi nous avons dû normaliser les années, les budgets et les régions. Par exemple il y avait plusieurs régions que l'on trouvait avec différentes syntaxes, cela aurait posé des problèmes plus tard au niveau des requêtes. Autre défaut du jeu de données, la présence d'une valeur ''TOTAL FRANCE'' dans les régions ce qui prête à confusion. Nous avons donc créé en plus de la colonne région une colonne pays servant à distinguer les deux échelles géographique. Enfin, nous avons créé une colonne pourcentage. En effet, il était auparavant spécifié entre parenthèse dans les champs ''indicateur'' et ''objectif'' si le budget en question est un montant (en euro) ou un pourcentage. Il est désormais possible de le savoir à l'aide d'un simple booléen dans la colonne pourcentage.
 		
 			\vspace{0.5cm}
 		
