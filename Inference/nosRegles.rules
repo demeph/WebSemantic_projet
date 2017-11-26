@@ -15,3 +15,5 @@
 
 [rule3 : (?uri dbo:region ?uri_region) (dbo:region rdfs:subClassOf dbo:Place) -> (?uri dbo:Place ?uri_region) ]
 
+[rule4 : (frapo:hasLocation owl:equivalentClass dbo:region) (?uri frapo:hasLocation ?reg) -> (?uri dbo:region ?reg)]
+

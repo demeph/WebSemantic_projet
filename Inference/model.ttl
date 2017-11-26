@@ -13,12 +13,9 @@ frapo:BudgetedAmount  	  rdf:type 				owl:Class.
 dbo:region            	  rdf:type 				owl:Class.    
 dbo:Organization      	  rdf:type				owl:Class.
 
-
-
 frapo:BudgetInformation   rdfs:subClassOf   	frapo:FinancialEntity.
 frapo:appliesFor      	  rdfs:subClassOf   	frapo:FinancialEntity.   
 frapo:BudgetedAmount  	  rdfs:subClassOf   	frapo:FinancialEntity. 
-
 
 dbo:percentage            rdf:type    			rdf:Property.
 dbo:percentage            rdf:type    			owl:ObjectProperty.
@@ -34,3 +31,5 @@ dbo:code          		  rdf:type    			owl:ObjectProperty.
 
 dbo:Organization          rdfs:subClassOf   	dbo:Agent.
 dbo:Organization          owl:equivalentClass   schema:Organization.
+
+frapo:hasLocation 		  owl:equivalentClass   dbo:region
