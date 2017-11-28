@@ -63,7 +63,7 @@ WHERE
 
     # Pour lier nos données à l'aide du code région
     BIND (URI(CONCAT('http://ex.org/budget/codeRegion/', ?codereg)) AS ?URI_Code_Region)
-    BIND (URI(CONCAT('http://ex.org/donation/codeRegion/', ?codereg)) AS ?URI_Code_Region_Yvan)
+    BIND (URI(CONCAT('http://ex.org/fr-esr-rd-moyens-entreprises-intensite/codeRegion/', ?codereg)) AS ?URI_Code_Region_Yvan)
     BIND (URI(CONCAT('http://ex.org/nous/codeRegion/', ?codereg)) AS ?URI_Code_Region_Clem) 
 
 }
