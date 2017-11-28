@@ -7,7 +7,6 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix schema: <http://www.schema.org/>
 
-[ruleKnows: (ns:knows rdf:type owl:SymmetricProperty) (?s ns:knows ?o) -> (?o ns:knows ?s)]
 
 [rule1: (frapo:BudgetInformation rdfs:subClassOf frapo:FinancialEntity) (?uri rdf:type ?frapo:BudgetInformation) -> (?uri rdfs:subClassOf frapo:FinancialEntity) ]
 

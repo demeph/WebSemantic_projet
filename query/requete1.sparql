@@ -1,4 +1,4 @@
-# Requête N°1.1
+# Requête N°1
 # On souhaite afficher tous les budgets de recherche et de transfert de technologie
 # des collectivités territoriales de la région les Hauts de France
 
@@ -8,6 +8,7 @@ PREFIX dbp:<http://dbpedia.org/property/>
 PREFIX ex:<http://test.org/>
 PREFIX frapo:<http://purl.org/cerif/frapo/>
 PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema#>
+
 
 SELECT ?annee ?indicateur ?indicateurEffort ?organization ?objectif ?valeur
 WHERE {
@@ -23,32 +24,9 @@ ORDER BY ?annee
 
 
 
-# Requête N°1.2
-# On associe à la région Hauts de France son ancien nom, à savoir Nord pas de Calais
 
-
-PREFIX dbo:<http://dbpedia.org/ontology/>
-PREFIX dbp:<http://dbpedia.org/property/>
-PREFIX ex:<http://test.org/>
-PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema#>
-
-INSERT {
-	?p dbo:sameAs "NordPasdeCalais"
-}
-WHERE {
-	?p dbo:region "Hauts-de-France"
-};
-INSERT {
-	?p dbo:sameAs "Hauts-de-France"
-}
-WHERE {
-	?p dbo:region "NordPasdeCalais"
-};
-
-
-
-# Requête N°1.3
-# On test notre update en reprennant la requête N°1
+# Requête N°2
+# Classements des régions possédant le plus gros budget total de recherche et de transfert de technologie par année
 
 
 PREFIX dbo:<http://dbpedia.org/ontology/>
@@ -56,16 +34,72 @@ PREFIX dbp:<http://dbpedia.org/property/>
 PREFIX ex:<http://test.org/>
 PREFIX frapo:<http://purl.org/cerif/frapo/>
 PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema#>
+PREFIX xsd:<http://www.w3.org/2001/XMLSchema#>
 
-SELECT ?annee ?region ?indicateur ?indicateurEffort ?organization ?objectif ?valeur
+
+SELECT ?annee ?region (sum(?valeur) as ?sommeValeur) 
 WHERE {
-	?p dbo:region "Hauts-de-France".
-  	?p dbo:sameAs ?region.	
-	?p dbo:Organization ?organization.
-	?p dbo:year ?annee.
-	?p frapo:BudgetInformation ?indicateur.
-	?p frapo:appliesFor ?objectif.
-	?p frapo:BudgetedAmount ?valeur.
- 	OPTIONAL { ?p frapo:BudgetInformation ?indicateurEffort }
+  	?p dbo:year ?annee.
+  	?p dbo:region ?region.
+  	?p frapo:BudgetedAmount ?valeur.
+  	?p dbo:percentage "0"^^xsd:boolean.
 }
-ORDER BY ?annee
+GROUP BY ?annee ?region
+ORDER BY DESC(?annee) DESC(?sommeValeur)
+
+
+
+
+# Requête N°3
+# 
+
+
+PREFIX dbo:<http://dbpedia.org/ontology/>
+PREFIX dbp:<http://dbpedia.org/property/>
+PREFIX ex:<http://test.org/>
+PREFIX frapo:<http://purl.org/cerif/frapo/>
+PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema#>
+PREFIX xsd:<http://www.w3.org/2001/XMLSchema#>
+
+SELECT 
+WHERE {
+
+}
+
+
+
+
+# Requête N°4
+# 
+
+
+PREFIX dbo:<http://dbpedia.org/ontology/>
+PREFIX dbp:<http://dbpedia.org/property/>
+PREFIX ex:<http://test.org/>
+PREFIX frapo:<http://purl.org/cerif/frapo/>
+PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema#>
+PREFIX xsd:<http://www.w3.org/2001/XMLSchema#>
+
+SELECT 
+WHERE {
+
+}
+
+
+
+
+# Requête N°5
+# 
+
+
+PREFIX dbo:<http://dbpedia.org/ontology/>
+PREFIX dbp:<http://dbpedia.org/property/>
+PREFIX ex:<http://test.org/>
+PREFIX frapo:<http://purl.org/cerif/frapo/>
+PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema#>
+PREFIX xsd:<http://www.w3.org/2001/XMLSchema#>
+
+SELECT 
+WHERE {
+
+}
