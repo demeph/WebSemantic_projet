@@ -18,7 +18,7 @@ WHERE {
         ?codeRegion owl:sameAs ?codeRegionClem.
     Service <http://localhost:3030/yvan> {
         ?y a frapo:Funding;
-            dbo:Place [frapo:hasCode ?codeRegionYva];
+            dbo:Place [frapo:hasCode ?codeRegionYvan];
             frapo:BudgetedAmount ?budgetPrivee.
     }
     Service <http://localhost:3030/clem> {
