@@ -61,7 +61,7 @@
 			
 			\vspace{0.5cm}
 			
-			Les données étant choisis, il est désormais temps de les sémantiser. Cependant, un peu de ''nettoyage'' s'impose avant cela, en effet le jeu de données présente certain défaut à corriger. Ainsi nous avons dû normaliser les années, les budgets et les régions. Par exemple il y avait plusieurs régions que l'on trouvait avec différentes syntaxes, cela aurait posé des problèmes plus tard au niveau des requêtes. Autre défaut du jeu de données, la présence d'une valeur ''TOTAL FRANCE'' dans les régions ce qui prête à confusion. Nous avons donc créé en plus de la colonne région une colonne pays servant à distinguer les deux échelles géographique. Enfin, nous avons créé une colonne pourcentage. En effet, il était auparavant spécifié entre parenthèse dans les champs ''indicateur'' et ''objectif'' si le budget en question est un montant (en euro) ou un pourcentage. Il est désormais possible de le savoir à l'aide d'un simple booléen dans la colonne pourcentage.
+			Les données étant choisis, il est désormais temps de les sémantiser. Cependant, un peu de ''nettoyage'' s'impose avant cela, en effet le jeu de données présente certain défaut à corriger. Ainsi nous avons dû normaliser les années, les budgets et les régions. Par exemple il y avait plusieurs régions que l'on trouvait avec différentes syntaxes, cela aurait posé des problèmes plus tard au niveau des requêtes. Autre défaut du jeu de données, la présence d'une valeur ''TOTAL FRANCE'' dans les régions qui prête à confusion. Nous avons donc créé en plus de la colonne région une colonne pays servant à distinguer les deux échelles géographique. Enfin, nous avons créé une colonne pourcentage. En effet, il était auparavant spécifié entre parenthèse dans les champs ''indicateur'' et ''objectif'' si le budget en question est un montant (en euro) ou un pourcentage. Il est désormais possible de le savoir à l'aide d'un simple booléen dans la colonne pourcentage. Toutes ces modification sont apportées dans le but de rentre le jeu de données davantage utilisable et ainsi de simplifier nos futures requêtes.
 		
 			\vspace{0.5cm}
 		
@@ -71,9 +71,9 @@
 			
 			Voila les modifications majeures apportées au jeu de données. Maintenant que les données sont ''propres'' et pleinement exploitable on peut les sémantiser. La première étape est d'identifier les ontologies adéquates. \\
 		
-			\indent On commence par distinguer que nous avons des données qui renseignent sur la région, la collectivité et l'année. Pour ces données là, l'ontologie ''dbo'' propre à \url{http://wiki.dbpedia.org/} est intéressante : nous utilisons ainsi les prédicats ''dbo'' suivants : dbo:year, dbo:country, dbo:region, dbo:code, dbo:Organization et dbo:percentage. \\ 
+			\indent On commence par distinguer que nous avons des données qui renseignent sur la région, la collectivité, l'année, le code, le pourcentage, etc. Pour ces données là, l'ontologie ''dbo'' propre à \url{http://wiki.dbpedia.org/} est intéressante : nous utilisons ainsi les prédicats ''dbo'' suivants : dbo:year, dbo:country, dbo:region, dbo:code, dbo:Organization et dbo:percentage. Ces champs sont en effet assez simple pour certain : une année, un code et un pourcentage par exemple sont des prédicats basiques présents dans dbpedia qui nous satisfont et qui correspondent aux données sans perdre de l'information. De même, pour les régions qui sont référencées dans dbpedia. A contrario le prédicat dbo:Organization que nous utilisons pour les collectivités territoriales, générales et régionales n'est peut être pas le plus adéquat car assez vague. Mais nous l'avons conservé faute d'avoir trouvé mieux.  \\ 
 		
-			\indent Ensuite on remarque que le reste des données identifie un budget, sa valeur ou son pourcentage, son objectif et son application. Pour ce faire nous avons choisis d'utiliser l'ontologie ''frapo'' (\url{http://www.sparontologies.net/ontologies/frapo/source.html} qui sert notamment à définir des budgets. Nous avons donc besoin des prédicats suivants : frapo:BudgetInformation, frapo:appliesFor et frapo:BudgetedAmount.
+			\indent Ensuite on remarque que le reste des données identifie un budget, sa valeur ou son pourcentage, son objectif et son application. Pour ce faire nous avons choisis d'utiliser l'ontologie ''frapo'' (\url{http://www.sparontologies.net/ontologies/frapo/source.html} qui sert notamment à définir des budgets. En effet nous aurions pu par exemple encore utiliser des ontologies de dbpedia : cependant celles-cis ne permettaient pas d'avoir des prédicats assez précis pour définir le type de nos données.  Nous avons donc décidé d'utiliser ''frapo''. Ainsi nous avons besoin des prédicats suivants : frapo:BudgetInformation, frapo:appliesFor et frapo:BudgetedAmount.
 		
 			\vspace{0.5cm}
 			
@@ -81,7 +81,9 @@
 			
 			\vspace{0.5cm}
 		
-			L'écriture du ''construct'' se fait assez facilement. Tout d'abord, on ajoute dans la clause ''WHERE'' des ''BIND'' qui vont nous servir à récupérer les valeurs dans chaque colonne du jeu de données. Nous attribuons ainsi une variable à ces valeurs. Variable que nous typons à la manière du XMLSchema. Dans le même temps on crée notre URI en ajoutant à une url que nous avons arbitrairement choisis autant de variable que nécessaire pour identifier chacun des tuples de notre jeu de données. L'objectif étant de ne pas avoir de doublon. Pour ce faire nous avons utilisé une conditionnelle puisque nous avons besoins d'un champ qui est parfois vide. Ensuite nous passons dans la clause ''CONSTRUCT'' où nous allons appliquer le prédicat (choisis ci-dessus) à chacune de nos variables. \\
+			Passons à présent à l'écriture du fichier ''construct'' qui va générer nos données RDF à partir du fichier CSV. Celui-ci se fait assez facilement, nous allons le voir en détail en procédant par étape. On va y trouver trois morceaux, un premier avec tous les préfixes utilisés nommé ''PREFIX'', un deuxième nommé ''CONSTRUCT'' et un dernier nommé ''WHERE''. Une fois n'est pas coutume, commençons par le dernier. La clause ''WHERE'' va servir à récupérer les valeurs des différentes colonnes du jeu de données et à les attribuer à des variables à l'aide du mot clé ''BIND''. Variables que nous typons à la manière du XMLSchema. On définit ainsi des xsd:integer et des sxd:string par exemple. Dans le même temps, on crée notre URI en ajoutant à une url que nous avons arbitrairement choisis autant de variable que nécessaire pour identifier chacun des tuples de notre jeu de données. L'objectif étant de ne pas avoir de doublon. Pour ce faire nous utilisons une conditionnelle (IF(BOUND(x,y))) puisque nous avons besoin d'un champ qui est parfois vide. Cela nous permet selon la situation de passer d'un modèle d'URI à une autre suivant la conditionnelle. \\
+			
+			\indent Passons à la clause ''CONSTRUCT''. Celle-ci est finalement triviale,  nous y appliquons simplement les prédicats définis un peu plus tôt à chacune des variables que nous avons créé dans la clause ''WHERE''.  Et il n'y a pas grand chose de plus à en dire. Terminons donc l'explication du ''construct'' en présentant le premier morceau, à savoir celui qui énonce tous les préfixes. On y retrouve tous les liens vers les ontologies que l'on utilise : notamment vers dbo, frapo, rdf et xsd. \\
 			
 			\vspace{0.5cm}
 			
@@ -94,20 +96,70 @@
 
 			\vspace{0.5cm}
 
+		\subsection{Écriture de quelques requêtes }
+			
+			\vspace{0.5cm}
+	
+
+
+
+
+			\vspace{0.5cm}
+			
 	\section{Liaisons des données}
 
 		\vspace{0.5cm}
-		
-		
-		
-		\vspace{0.5cm}			
+			
+		\subsection{Présentation des jeux de données liés}
+			
+			\vspace{0.5cm}			
+
+				Maintenant nos données propres, sémantisées et testées, il est temps de les lier à celles de nos camarades. Ainsi nous avons lié nos données à celles de deux autres groupes. Le premier groupe a des données qui portent sur les moyens consacrés à la R\&D par les entreprises. De ce fait, lier nos données à ce groupe nous permet d'avoir à l'échelle nationale à la fois les budget public (nous) et privé (eux). Des lors nous constatons qu'ils possèdent le code et le nom de chaque région, nous savons donc déjà sur quel attribut nous allons pouvoir lier nos données entre nous. C'est en gardant cette attribut en tête que nous avons cherché à lier nos données à un second groupe. Ce second groupe possède des données sur le nombre d'étudiants inscrits dans l'enseignement supérieur que nous avons évidemment lié à l'aide du code région. Ces données nous permettent de regardé si il y a un lien entre l'investissement dans la recherche et le nombre d'étudiant (étudiant potentiellement destiné à être chercheur )  par région. Nous constatons que beaucoup de groupe ont des données possédant des codes régions ou simplement le noms de la région. Il serait donc possible de lier énormément de jeux de données entre eux. Nous reviendrons dessus un peu plus tard et expliquerons pourquoi nous n'avons pas cherché à lier davantage de données entres elles. 
+
+			\vspace{0.5cm}
+			
+		\subsection{Modification du ''construct''}
+			
+			\vspace{0.5cm}
+
+
+
+
+
+			
+			\vspace{0.5cm}
+			
+		\subsection{Écriture d'une requête fédéré}
+			
+			\vspace{0.5cm}
+			
+			
+			
+			
+			
+			
+
+			\vspace{0.5cm}			
 
 	\section{Inférence}
 
 		\vspace{0.5cm}
 		
 		
+
+
+
+
+		\vspace{0.5cm}
+				
+	\section{VOID}
+
+		\vspace{0.5cm}	
 		
+		
+		
+		
+				
 		\vspace{0.5cm}
 				
 	\section{Conclusion}
