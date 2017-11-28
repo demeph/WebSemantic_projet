@@ -32,4 +32,4 @@ dbo:code          		  rdf:type    			owl:ObjectProperty.
 dbo:Organization          rdfs:subClassOf   	dbo:Agent.
 dbo:Organization          owl:equivalentClass   schema:Organization.
 
-frapo:hasLocation 		  owl:equivalentClass   dbo:region.
+frapo:hasLocation 		  owl:equivalentClass   dbo:region

@@ -1,0 +1,24 @@
+PREFIX dbo:<http://dbpedia.org/ontology/>
+PREFIX frapo:<http://purl.org/cerif/frapo/>
+PREFIX owl:<http://www.w3.org/2002/07/owl#>
+PREFIX schema: <http://schema.org/>
+PREFIX igeo: <http://rdf.insee.fr/def/geo#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+SELECT ?year ?codeRegion (sum(?val) as ?depenseTotal) (sum(?val1) as ?depenseTotalEux)
+WHERE {
+  Service <http://localhost:3030/yvan> {
+	?y a frapo:Funding;
+    	 dbo:Place [frapo:hasCode ?codeRegionOther];
+      frapo:BudgetedAmount ?val1.
+  }
+  ?x a frapo:Funding;
+     dbo:code ?codeRegion;
+     dbo:region ?region;
+     dbo:percentage "0"^^xsd:boolean;
+     frapo:BudgetedAmount ?val;
+     dbo:year ?year.
+  ?codeRegion owl:sameAs ?codeRegionOther.
+}
+group by ?codeRegion ?year

@@ -17,7 +17,7 @@ CONSTRUCT {
 
     ex:effectif_ing ?EFFECTIF_ING;
     ex:effectif_dut ?EFFECTIF_DUT;
-    dbo:numberOfStudents ?effectif;
+    dbo:numberOfStudents ?nb_etudiant;
     dbo:educationSystem ?secteur_de_l_etablissement;
     schema:EducationalOrganization ?rgp_formations_ou_etablissements;
     dbo:formationYear ?rentree.
@@ -39,7 +39,7 @@ WHERE {
 
   BIND (URI(CONCAT("https://ex.org/nous/region/", REPLACE(?geo_nom, " ","_"))) AS ?URI_Region_NOUS) .
 
-
+  BIND (xsd:integer(?effectif) as ?nb_etudiant).
   
   BIND ((STRAFTER(?geo_id, "R")) AS ?codereg)
   BIND (URI(CONCAT("http://ex.org/nous/codeRegion/", ?codereg)) AS ?URI_Code_Region_NOUS)  

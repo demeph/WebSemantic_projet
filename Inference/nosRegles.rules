@@ -7,12 +7,11 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix schema: <http://www.schema.org/>
 
+[rule1: (frapo:BudgetInformation rdfs:subClassOf frapo:FinancialEntity) (?uri rdf:type frapo:BudgetInformation) -> (?uri rdfs:subClassOf frapo:FinancialEntity) ]
 
-[rule1: (frapo:BudgetInformation rdfs:subClassOf frapo:FinancialEntity) (?uri rdf:type ?frapo:BudgetInformation) -> (?uri rdfs:subClassOf frapo:FinancialEntity) ]
+[rule2: (dbo:region rdfs:subClassOf dbo:PopulatedPlace) -> ( dbo:region rdfs:subClassOf dbo:place) ]
 
-[rule2: (dbo:region	 rdfs:subClassOf dbo:PopulatedPlace) (dbo:PopulatedPlace ?rdf:subClassOf ?place) -> ( dbo:region rdfs:subClassOf dbo:Place) ]
+[rule3: (?uri dbo:region ?region) -> (?uri dbo:place ?region) ]
 
-[rule3 : (?uri dbo:region ?uri_region) (dbo:region rdfs:subClassOf dbo:Place) -> (?uri dbo:Place ?uri_region) ]
-
-[rule4 : (frapo:hasLocation owl:equivalentClass dbo:region) (?uri frapo:hasLocation ?reg) -> (?uri dbo:region ?reg)]
+[rule4: (frapo:hasLocation owl:equivalentClass dbo:region) (?uri frapo:hasLocation ?reg) -> (?uri dbo:region ?reg)]
 
