@@ -50,7 +50,15 @@
 		\vspace{0.5cm}
 
 		L’objectif de ce projet est de transformer des données ouvertes de l'Enseignement supérieur, de la Recherche et de l'Innovation (\url{https://data.esr.gouv.fr/FR/}) en données sémantiques et de lier ses données sémantiques aux données sémantiques de nos collègues. Pour ce faire nous avons choisis des données sur les budgets dédiés à la recherche et au transfert de technologie (R\&T) des collectivités territoriales. \\
+
+		\vspace{0.5cm}
 		
+	\section{Présentation des données}				
+
+		\vspace{0.5cm}
+		
+		En tout premier lieu décrivons nos données. Comme leur nom l'indique, c'est données décrivent des budgets, en montant ou en pourcentage, attribués à la recherche et au transfert technologique. C'est budgets ont un objectif, un indicateur et un indicateur d'effort. L'objectif indique à quoi est destiné ce budget, les indicateurs, eux, renseignent sur son type. Ces budgets sont datés et ils proviennent de différentes collectivités françaises. Ces collectivités peuvent être territoriales, générales ou régionales. Et chacune d'entre elles est rattachée à une région française. A chaque région est associé un code région et on distingue les anciennes régions des nouvelles issues de la réforme des régions de 2015. Notons que certains budgets sont parfois à l’échelle de la France. 
+				
 		\vspace{0.5cm}
 		
 	\section{Sémantisation des données}				
@@ -71,9 +79,9 @@
 			
 			Voila les modifications majeures apportées au jeu de données. Maintenant que les données sont ''propres'' et pleinement exploitable on peut les sémantiser. La première étape est d'identifier les ontologies adéquates. \\
 		
-			\indent On commence par distinguer que nous avons des données qui renseignent sur la région, la collectivité, l'année, le code, le pourcentage, etc. Pour ces données là, l'ontologie ''dbo'' propre à \url{http://wiki.dbpedia.org/} est intéressante : nous utilisons ainsi les prédicats ''dbo'' suivants : dbo:year, dbo:country, dbo:region, dbo:code, dbo:Organization et dbo:percentage. Ces champs sont en effet assez simple pour certain : une année, un code et un pourcentage par exemple sont des prédicats basiques présents dans dbpedia qui nous satisfont et qui correspondent aux données sans perdre de l'information. De même, pour les régions qui sont référencées dans dbpedia. A contrario le prédicat dbo:Organization que nous utilisons pour les collectivités territoriales, générales et régionales n'est peut être pas le plus adéquat car assez vague. Mais nous l'avons conservé faute d'avoir trouvé mieux.  \\ 
+			\indent On commence par distinguer que nous avons des données qui renseignent sur la région, la collectivité, l'année, le code, le pourcentage, etc. Pour ces données là, l'ontologie ''dbo'' propre à \url{http://wiki.dbpedia.org/} est intéressante : nous utilisons ainsi les prédicats ''dbo'' suivants : ''dbo:year'', ''dbo:country'', ''dbo:region'', ''dbo:code'', ''dbo:Organization'' et ''dbo:percentage''. Ces champs sont en effet assez simple pour certain : une année, un code et un pourcentage par exemple sont des prédicats basiques présents dans dbpedia qui nous satisfont et qui correspondent aux données sans perdre de l'information. De même, pour les régions qui sont référencées dans dbpedia. A contrario le prédicat ''dbo:Organization'' que nous utilisons pour les collectivités territoriales, générales et régionales n'est peut être pas le plus adéquat car assez vague. Mais nous l'avons conservé faute d'avoir trouvé mieux.  \\ 
 		
-			\indent Ensuite on remarque que le reste des données identifie un budget, sa valeur ou son pourcentage, son objectif et son application. Pour ce faire nous avons choisis d'utiliser l'ontologie ''frapo'' (\url{http://www.sparontologies.net/ontologies/frapo/source.html} qui sert notamment à définir des budgets. En effet nous aurions pu par exemple encore utiliser des ontologies de dbpedia : cependant celles-cis ne permettaient pas d'avoir des prédicats assez précis pour définir le type de nos données.  Nous avons donc décidé d'utiliser ''frapo''. Ainsi nous avons besoin des prédicats suivants : frapo:BudgetInformation, frapo:appliesFor et frapo:BudgetedAmount.
+			\indent Ensuite on remarque que le reste des données identifie un budget, sa valeur ou son pourcentage, son objectif et son application. Pour ce faire nous avons choisis d'utiliser l'ontologie ''frapo'' (\url{http://www.sparontologies.net/ontologies/frapo/source.html} qui sert notamment à définir des budgets. En effet nous aurions pu par exemple encore utiliser des ontologies de dbpedia : cependant celles-cis ne permettaient pas d'avoir des prédicats assez précis pour définir le type de nos données.  Nous avons donc décidé d'utiliser ''frapo''. Ainsi nous avons besoin des prédicats suivants : ''frapo:BudgetInformation'', ''frapo:appliesFor'' et ''frapo:BudgetedAmount''.
 		
 			\vspace{0.5cm}
 			
@@ -122,11 +130,16 @@
 			
 			\vspace{0.5cm}
 
-
-
-
-
+			Expliquons à présent comment nous avons lié nos données entres elles. Nous l'avons fait pour deux jeux de données, mais la démarche étant identique, nous n'allons la présenter  qu'une fois. Précisons que celle-ci est vraiment identique, puisque nous faisons notre liaison à l'aide du code région pour les deux jeux de données. Ainsi si l'on procède de la même manière que pour la création du fichier ''construct'' de base, nous allons rajouter des éléments dans les clauses ''CONSTRUCT'' et ''WHERE''.  \\
 			
+			\indent Commençons encore par la clause ''WHERE'' : nous avons décidé de lier nos données via le code région, de fait il faut créer une URI concaténée à notre code région, URI qui devra être rajouté dans le fichier ''construct'' de l'autre groupe. De même il nous faut récupérer l'URI de l'autre groupe, ce dernier contient également le code région. Notez que c'est la variable ''codereg'' (issue du BIND) que nous ajoutons à l'URI. Nous avons dû pour ce point précis modifier notre ''BIND'' puisque le code région contenait au préalable un ''R'' suivit du code. Or, nos camarades ont uniquement le code région, sans ''R''. Nous avons donc utilisé la fonction ''STRAFTER'' pour récupérer dans notre variable ''codereg'' uniquement ce qui succède au ''R''. \\
+			
+			\indent Une fois cela fait, autrement dit une fois que l'on a spécifié les URIs que l'on va utiliser pour lier nos données, il faut dans la clause ''CONSTRUCT'', à présent, faire le lien entre les deux. Pour ce faire on y rajoute simplement une instruction spécifiant que le code région de notre URI est le même que celui de l'URI de l'autre groupe. Pour cela on utilise l'ontologie owl:sameAs. Cela étant fait, nos données sont liés ou du moins pour nous. En effet ils devront eux aussi rajouter un URI pour récupérer notre code région  ainsi qu'utiliser owl:sameAs pour lier les URI. Après cela, les deux jeux de données seront liés dans les deux sens. \\
+			
+			\indent Comme indiqué au début nous n'allons pas détailler la démarche pour le second jeux de donnée. Cependant sachez qu'il faut encore récupérer son code région via son URI, et encore utiliser ''owl:sameAs'' pour lier nos données. De son coté l'autre groupe aura aussi besoin de notre code région, pour cela il peut réutiliser l'URI que nous avions créé pour la première liaison. \\
+			
+			\indent Voila désormais notre jeux de données lié à d'autres jeux de données. Essayons à présent d'en tirer quelque chose !
+						
 			\vspace{0.5cm}
 			
 		\subsection{Écriture d'une requête fédéré}
