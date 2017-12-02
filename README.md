@@ -10,7 +10,7 @@ L’objectif du projet est de transformer les données ouvertes de l'Enseignemen
 
 -> Le répertoire **data** contient les jeux de données .csv
 
--> Le répertoire **inférence** contient les fichiers liés aux inférences, ils s'éxécutent à l'aide de Apache-Jena Fuseki
+-> Le répertoire **inference** contient les fichiers liés aux inférences, ils s'éxécutent à l'aide de Apache-Jena Fuseki
 
 -> Le répertoire **linked_data** contient les jeux de données, les constructs et les fichiers rdf obtenus pour liés nos données
 
