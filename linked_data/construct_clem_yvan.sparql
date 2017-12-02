@@ -1,0 +1,69 @@
+PREFIX dbo:<http://dbpedia.org/ontology/>
+PREFIX dbp:<http://dbpedia.org/property/>
+PREFIX ex:<http://test.org/>
+PREFIX frapo:<http://purl.org/cerif/frapo/>
+PREFIX owl:<http://www.w3.org/2002/07/owl#>
+PREFIX rdf:<http://www.w3.org/2000/01/rdf-schema#>
+PREFIX xsd:<http://www.w3.org/2001/XMLSchema#>
+
+CONSTRUCT 
+{
+    # L'URI pour notre construct
+    ?URI a frapo:Funding;
+        frapo:BudgetInformation ?indicateurs;
+        frapo:BudgetInformation ?indicaeffort;
+        frapo:appliesFor ?objectif; 
+        frapo:BudgetedAmount ?valeur;
+        dbo:percentage ?pourcentage;
+        dbo:year ?annee;
+        dbo:country ?pays;
+        dbo:region ?region;
+        dbo:code ?URI_Code_Region;
+        dbo:region ?ancienreg;
+        dbo:code ?codeancienreg;
+        dbo:Organization ?coll.
+
+    # L'URI pour lier nos données à yvan
+    ?URI_Code_Region rdf:type dbo:code;
+        owl:sameAs ?URI_Code_Region_Yvan.       
+
+    # L'URI pour lier nos données à clément
+    ?URI_Code_Region rdf:type dbo:code;
+        owl:sameAs ?URI_Code_Region_Clem.
+}
+WHERE 
+{
+    # Pour construire nos données
+    BIND (xsd:string(?Objectifs_sur_budget_ventilé) AS ?objectif)
+    BIND (xsd:double(?Valeur) AS ?valeur) 
+    BIND (IF(BOUND(?Indicateurs_de_leffort_budgétaire_des_conseils_régionaux),
+        URI(CONCAT('http://ex.org/budget/', 
+            ?Années,?Type_de_collectivité,
+			?objectif,
+			?Pourcentage,
+			?Indicateurs,
+			?Indicateurs_de_leffort_budgétaire_des_conseils_régionaux,
+			?Codes_régions,?Valeur)),
+	    URI(CONCAT('http://ex.org/budget/', 
+		    ?Années,
+			?Type_de_collectivité,
+			?objectif,?Pourcentage,
+			?Indicateurs,
+			?Codes_régions,
+			?Valeur))) 
+		AS ?URI)
+    BIND (xsd:string(?Indicateurs) AS ?indicateurs)
+    BIND (xsd:string(?Indicateurs_de_leffort_budgétaire_des_conseils_régionaux) AS ?indicaeffort)
+    BIND (xsd:boolean(?Pourcentage) AS ?pourcentage)
+    BIND (xsd:gYear(?Années) AS ?annee)
+    BIND (xsd:string(?Pays) AS ?pays)
+    BIND (xsd:string(?Régions) AS ?region)
+    BIND (xsd:string(STRAFTER(?Codes_régions, "R")) AS ?codereg)
+    BIND (xsd:string(?Type_de_collectivité) AS ?coll)
+
+    # Pour lier nos données à l'aide du code région
+    BIND (URI(CONCAT('http://ex.org/budget/codeRegion/', ?codereg)) AS ?URI_Code_Region)
+    BIND (URI(CONCAT('http://ex.org/fr-esr-rd-moyens-entreprises-intensite/codeRegion/', ?codereg)) AS ?URI_Code_Region_Yvan)
+    BIND (URI(CONCAT('http://ex.org/nous/codeRegion/', ?codereg)) AS ?URI_Code_Region_Clem) 
+
+}
