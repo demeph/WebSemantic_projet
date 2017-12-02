@@ -7,25 +7,28 @@ PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 PREFIX http: <http://www.w3.org/2011/http#>
 
-SELECT ?region (sum(?budgetPublic) as ?SommeBudgetPublic) (sum(?budgetPrivee) as ?SommeBudgetPrivee) (sum(?effectif) as ?nbEtudiant)
+SELECT ?region ?annee (sum(?budgetPublic) as ?SommeBudgetPublic) (sum(?budgetPrivee) as ?SommeBudgetPrivee) (sum(?effectif) as ?nbEtudiant)
 WHERE {
-	?x a frapo:Funding;
-    	dbo:code ?codeRegion;
-    	dbo:region ?region;
-    	dbo:percentage "0"^^xsd:boolean;
-    	frapo:BudgetedAmount ?budgetPublic.
-	    ?codeRegion owl:sameAs ?codeRegionYvan.
+    ?x a frapo:Funding;
+        dbo:code ?codeRegion;
+        dbo:region ?region;
+        dbo:percentage "0"^^xsd:boolean;
+        frapo:BudgetedAmount ?budgetPublic;
+        dbo:year ?annee.
+        ?codeRegion owl:sameAs ?codeRegionYvan.
         ?codeRegion owl:sameAs ?codeRegionClem.
     Service <http://localhost:3030/yvan> {
         ?y a frapo:Funding;
             dbo:Place [frapo:hasCode ?codeRegionYvan];
-            frapo:BudgetedAmount ?budgetPrivee.
+            frapo:BudgetedAmount ?budgetPrivee;
+            frapo:hasDeliveryDate ?annee.            
     }
     Service <http://localhost:3030/clem> {
         ?z a schema:dataset;
             igeo:codeRegion ?codeRegionClem;
-            dbo:numberOfStudents ?effectif.
+            dbo:numberOfStudents ?effectif;
+            dbo:formationYear   ?annee.
     }
 }
-Group By ?region
+Group By ?region ?annee
 Order By ?nbEtudiant
