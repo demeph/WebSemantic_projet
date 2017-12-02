@@ -77,7 +77,7 @@ ORDER BY ?region
 
 
 # Requête N°4
-# Investissement par type de collectivité territoriale
+# Investissement par type de collectivité territoriale, ainsi que les objectifs
 
 
 PREFIX dbo:<http://dbpedia.org/ontology/>
@@ -96,3 +96,28 @@ WHERE {
 }
 GROUP BY ?coll
 ORDER BY DESC(?somme)
+
+
+# Requête N°5
+# Investissement dans le haut débit par région et par année
+
+PREFIX dbo:<http://dbpedia.org/ontology/>
+PREFIX dbp:<http://dbpedia.org/property/>
+PREFIX ex:<http://test.org/>
+PREFIX frapo:<http://purl.org/cerif/frapo/>
+PREFIX owl:<http://www.w3.org/2002/07/owl#>
+PREFIX rdf:<http://www.w3.org/2000/01/rdf-schema#>
+PREFIX xsd:<http://www.w3.org/2001/XMLSchema#>
+PREFIX db: <http://dbpedia.org/>
+
+SELECT DISTINCT ?annee ?region (sum(?montant) as ?somme)
+WHERE {
+ ?uri frapo:appliesFor ?objectif;
+	frapo:BudgetedAmount ?montant;
+   dbo:region ?region;
+   dbo:year ?annee;
+  dbo:percentage "0"^^xsd:boolean.
+filter(?objectif = "Réseaux haut débit").
+}
+group by ?region ?annee
+order by ?region asc(?annee)
