@@ -51,26 +51,33 @@ ORDER BY DESC(?annee) DESC(?sommeValeur)
 
 
 # Requête N°3
-# 
-
+# Financement de la recherche par région de entre 2007 et 2015
 
 PREFIX dbo:<http://dbpedia.org/ontology/>
 PREFIX dbp:<http://dbpedia.org/property/>
 PREFIX ex:<http://test.org/>
 PREFIX frapo:<http://purl.org/cerif/frapo/>
-PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema#>
+PREFIX owl:<http://www.w3.org/2002/07/owl#>
+PREFIX rdf:<http://www.w3.org/2000/01/rdf-schema#>
 PREFIX xsd:<http://www.w3.org/2001/XMLSchema#>
+PREFIX db: <http://dbpedia.org/>
 
-SELECT 
+SELECT ?region ?objectif (sum(?montant) AS ?somme)
 WHERE {
-
+	?uri frapo:appliesFor ?objectif;
+ 		dbo:region ?region;
+		frapo:BudgetedAmount ?montant.
+  		dbo:percentage "0"^^xsd:boolean.
+  	FILTER(?objectif IN ("Equipement de laboratoires", "Aides aux chercheurs", "Projets de la recherche publique"))
 }
+GROUP BY ?region ?indicateur
+ORDER BY ?region
 
 
 
 
 # Requête N°4
-# 
+# Investissement par type de collectivité territoriale
 
 
 PREFIX dbo:<http://dbpedia.org/ontology/>
@@ -80,26 +87,12 @@ PREFIX frapo:<http://purl.org/cerif/frapo/>
 PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema#>
 PREFIX xsd:<http://www.w3.org/2001/XMLSchema#>
 
-SELECT 
+SELECT ?coll (sum(?montant) AS ?somme) (GROUP_CONCAT(DISTINCT ?objectif; SEPARATOR=", ") AS ?objectifs)
 WHERE {
-
+ 	?uri dbo:Organization ?coll;
+ 		frapo:appliesFor ?objectif;
+		frapo:BudgetedAmount ?montant.
+      		dbo:percentage "0"^^xsd:boolean.
 }
-
-
-
-
-# Requête N°5
-# 
-
-
-PREFIX dbo:<http://dbpedia.org/ontology/>
-PREFIX dbp:<http://dbpedia.org/property/>
-PREFIX ex:<http://test.org/>
-PREFIX frapo:<http://purl.org/cerif/frapo/>
-PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema#>
-PREFIX xsd:<http://www.w3.org/2001/XMLSchema#>
-
-SELECT 
-WHERE {
-
-}
+GROUP BY ?coll
+ORDER BY DESC(?somme)
