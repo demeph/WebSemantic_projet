@@ -1,6 +1,6 @@
 # WebSemantic_projet
 
-### Description /
+### Description :
 
 L’objectif du projet est de transformer les données ouvertes de l'Enseignement supérieur, de la Recherche et de l'Innovation (https://data.esr.gouv.fr/FR/) en données sémantiques et de lier ces données sémantiques au cloud.
 
