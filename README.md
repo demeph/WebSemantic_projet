@@ -1,12 +1,12 @@
 # WebSemantic_projet
 
-## Description
+### Description /
 
 L’objectif du projet est de transformer les données ouvertes de l'Enseignement supérieur, de la Recherche et de l'Innovation (https://data.esr.gouv.fr/FR/) en données sémantiques et de lier ces données sémantiques au cloud.
 
 **Provenance des données :** https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr_esr_budgets-de-recherche-et-de-transfert-de-technologie-rt-des-collectivites-/
 
-## Organisation du dépot :
+### Organisation du dépot :
 
 -> Le répertoire **data** contient les jeux de données .csv
 
@@ -22,7 +22,7 @@ L’objectif du projet est de transformer les données ouvertes de l'Enseignemen
 
 -> le répertoire **VoID** contient un fichier descrivant notre jeux de données à la manière Vocabulary of Interlinked Datasets
 
-## Outils :
+### Outils :
 
 **TARQL :** utilisé pour générer les fichiers rdf
 
