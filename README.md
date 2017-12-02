@@ -20,7 +20,7 @@ L’objectif du projet est de transformer les données ouvertes de l'Enseignemen
 
 -> Le réperoire **slides_presentation** contient les slides de la présentation du 7 novembre 2017
 
--> le répertoire **VoID** contient un fichier descrivant notre jeux de données à la manière Vocabulary of Interlinked Datasets
+-> Le répertoire **VoID** contient un fichier descrivant notre jeux de données à la manière Vocabulary of Interlinked Datasets
 
 ### Outils :
 
