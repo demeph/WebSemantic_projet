@@ -1,0 +1,15 @@
+Prefix dbo: <http://dbpedia.org/ontology/>
+prefix frapo: <http://purl.org/cerif/frapo/>
+prefix xsd: <http://www.w3.org/2001/XMLSchema#>
+
+Select ?annee ?indic ?valeur ?coderegAvecDboPlace
+where {
+  ?x a frapo:Funding;
+     dbo:Place "Bretagne";
+     frapo:BudgetedAmount ?valeur;
+     dbo:year ?annee;
+     dbo:code ?coderegAvecDboPlace;
+     dbo:percentage "0"^^xsd:boolean;
+     frapo:BudgetInformation ?indic.
+}
+Limit 10
