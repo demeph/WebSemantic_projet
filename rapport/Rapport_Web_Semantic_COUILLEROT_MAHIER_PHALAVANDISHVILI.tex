@@ -155,16 +155,14 @@
 
 		\vspace{0.5cm}
 		
+		Jusqu'ici nous avons définis grâce au langage RDF notre vocabulaire pour définir le budget d'une collectivité. En l'état il n'est pas possible de sortir des informations ne correspondant pas exactement à ce que l'on a demandé. Par exemple si l'on souhaite obetnir les budgets de recherche et transformation de la bretagne via la propriété ''dbo:Place'' le résultat est vide, car dans notre graphe RDF le lieu est rattaché au budget grâce à ''dbo:region''. Il faut donc créer une ontologie pour pouvoir raisonner sur nos données et pour ce faire nous avons utilisé le langage RDFS et le serveur apache Fuseki du framework Jena. Cela nécessite deux étapes : la définition du modèle puis la définition des règles.\\
 		
-
-		\vspace{0.5cm}
-				
-	\section{VOID}
-
-		\vspace{0.5cm}	
+		\indent Le modèle décrit les classes, les propriétés et les relations entre elles. Ainsi ''frapo:BudgetInformation'', ''dbo:Organization'' sont de type ''rdfs:Class'', mais ''dbo:percentage'' est de type ''rdf:Property''. \\ 
 		
-				
-				
+		\indent Les règles définissent les triplets de notre graphes à ajouter au résultat si certains triplets sont déjà présents dedans. En reprenant l'exemple précédent des budgets rattachés à la Bretagne, nous pouvons écrire la règle suivante : (?uri dbo:region ?region) -> (?uri dbo:place ?region) \\ 
+		
+		\indent Conséquemment les triplets '' ?uri dbo:region "Bretagne" '' seront insérés dans la liste des résultats. Cependant les données recueillies sur les budgets de recherche et de transformation ne se prêtent pas particulièrement à l'inférence car il y a peu d'interactions entre nos classes et propriétés.
+
 		\vspace{0.5cm}
 				
 	\section{Conclusion}

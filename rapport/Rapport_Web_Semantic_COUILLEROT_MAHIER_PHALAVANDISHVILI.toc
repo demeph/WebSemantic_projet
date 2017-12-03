@@ -11,7 +11,6 @@
 \contentsline {subsection}{\numberline {4.1}Pr\IeC {\'e}sentation des jeux de donn\IeC {\'e}es li\IeC {\'e}s}{6}{subsection.4.1}
 \contentsline {subsection}{\numberline {4.2}Modification du ''construct''}{7}{subsection.4.2}
 \contentsline {subsection}{\numberline {4.3}\IeC {\'E}criture d'une requ\IeC {\^e}te f\IeC {\'e}d\IeC {\'e}r\IeC {\'e}e}{8}{subsection.4.3}
-\contentsline {section}{\numberline {5}Inf\IeC {\'e}rence}{9}{section.5}
-\contentsline {section}{\numberline {6}VOID}{9}{section.6}
-\contentsline {section}{\numberline {7}Conclusion}{9}{section.7}
-\contentsline {section}{\numberline {8}Annexe}{10}{section.8}
+\contentsline {section}{\numberline {5}Inf\IeC {\'e}rence}{8}{section.5}
+\contentsline {section}{\numberline {6}Conclusion}{9}{section.6}
+\contentsline {section}{\numberline {7}Annexe}{11}{section.7}
