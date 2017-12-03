@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.1.24)  3 DEC 2017 15:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.1.24)  3 DEC 2017 17:01
 entering extended mode
 **C:/Users/Loïc/Downloads/WebSemantic_projet-master/rapport/Rapport_Web_Semant
 ic_COUILLEROT_MAHIER_PHALAVANDISHVILI.tex
@@ -673,13 +673,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 162--163
 
  []
 
-<picture/linked_data.png, id=132, 501.875pt x 281.05pt>
+[9] <picture/linked_data.png, id=136, 501.875pt x 281.05pt>
 File: picture/linked_data.png Graphic file (type png)
 
 <use picture/linked_data.png>
 Package pdftex.def Info: picture/linked_data.png used on input line 174.
 (pdftex.def)             Requested size: 304.84909pt x 170.71652pt.
- [9 <./picture/linked_data.png>] [10]
+ [10 <./picture/linked_data.png>]
 <picture/constructv1.png, id=144, 832.10875pt x 943.525pt>
 File: picture/constructv1.png Graphic file (type png)
 
@@ -708,7 +708,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 211.
 Here is how much of TeX's memory you used:
  7037 strings out of 493634
  101557 string characters out of 3143744
- 192262 words of memory out of 3000000
+ 192263 words of memory out of 3000000
  10302 multiletter control sequences out of 15000+200000
  18437 words of font info for 43 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
@@ -727,7 +727,7 @@ s/MiKTeX 2.9/fonts/type1/public/cm-super/sfsx1728.pfb><C:/Program Files/MiKTeX
 2.9/fonts/type1/public/cm-super/sfsx2074.pfb><C:/Program Files/MiKTeX 2.9/fonts
 /type1/public/cm-super/sftt1200.pfb>
 Output written on Rapport_Web_Semantic_COUILLEROT_MAHIER_PHALAVANDISHVILI.pdf (
-12 pages, 330596 bytes).
+12 pages, 332405 bytes).
 PDF statistics:
  207 PDF objects out of 1000 (max. 8388607)
  32 named destinations out of 1000 (max. 500000)
