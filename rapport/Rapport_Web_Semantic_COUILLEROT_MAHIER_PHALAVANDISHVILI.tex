@@ -91,10 +91,10 @@
 		
 			Passons à présent à l'écriture du fichier ''construct'' qui va générer nos données RDF à partir du fichier CSV. Celui-ci se fait assez facilement, nous allons le voir en détail en procédant par étape. On va y trouver trois morceaux, un premier avec tous les préfixes utilisés nommé ''PREFIX'', un deuxième nommé ''CONSTRUCT'' et un dernier nommé ''WHERE''. Une fois n'est pas coutume, commençons par le dernier. La clause ''WHERE'' va servir à récupérer les valeurs des différentes colonnes du jeu de données et à les attribuer à des variables à l'aide du mot clé ''BIND''. Variables que nous typons à la manière du XMLSchema. On définit ainsi par exemple le montant du budget comme un ''xsd:double'' et l'objectif comme un ''xsd:string''. Dans le même temps, on crée notre URI en ajoutant à une url que nous avons arbitrairement choisis autant de variable que nécessaire pour identifier chacun des tuples de notre jeu de données. L'objectif étant de ne pas avoir de doublon. Pour ce faire nous utilisons une conditionnelle (IF(BOUND(x,y))) puisque nous avons besoin d'un champ qui est parfois vide. Cela nous permet selon la situation de passer d'un modèle d'URI à un autre suivant la conditionnelle. \\
 			
-			\indent Passons à la clause ''CONSTRUCT''. Celle-ci est finalement triviale,  nous y appliquons simplement les prédicats définis un peu plus tôt à chacune des variables que nous avons créé dans la clause ''WHERE''.  Et il n'y a pas grand chose de plus à en dire. Terminons donc l'explication du fichier ''construct'' en présentant le premier morceau, à savoir celui qui énonce tous les préfixes. On y retrouve tous les liens vers les ontologies que l'on utilise : notamment vers dbo, frapo, rdf et xsd. \\
+			\indent Passons à la clause ''CONSTRUCT''. Celle-ci est finalement triviale,  nous y appliquons simplement les prédicats définis un peu plus tôt à chacune des variables que nous avons créé dans la clause ''WHERE''.  Et il n'y a pas grand chose de plus à en dire. Terminons donc l'explication du fichier ''construct'' en présentant le premier morceau, à savoir celui qui énonce tous les préfixes. On y retrouve tous les liens vers les ontologies que l'on utilise : notamment vers dbo, frapo, rdf et xsd.
 			
-			\vspace{0.5cm}
-			
+			\newpage 
+						
 		\subsection{Obtention des données au format RDF}
 			
 			\vspace{0.5cm}
@@ -138,7 +138,17 @@
 			\indent Comme indiqué au début nous n'allons pas détailler la démarche pour le second jeux de donnée. Cependant sachez qu'il faut encore récupérer son code région via son URI, et encore utiliser ''owl:sameAs'' pour lier nos données. De son coté l'autre groupe aura aussi besoin de notre code région, pour cela il peut réutiliser l'URI que nous avions créé pour la première liaison. \\
 			
 			\indent Voila désormais notre jeux de données lié à d'autres jeux de données. Essayons à présent d'en tirer quelque chose !
-						
+
+			\vspace{0.5cm}			
+	
+			\begin{figure}[!h]
+				
+				\centerline{\includegraphics[height=6cm]{picture/graphe_linked_data.png}}
+				\caption{Graphe représentant les données liées}
+				\label{graphe}
+				
+			\end{figure}	
+								
 			\vspace{0.5cm}
 			
 		\subsection{Écriture d'une requête fédérée}

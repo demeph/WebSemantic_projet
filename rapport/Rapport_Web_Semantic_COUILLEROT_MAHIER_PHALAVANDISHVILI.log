@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.1.24)  3 DEC 2017 17:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.1.24)  3 DEC 2017 17:45
 entering extended mode
 **C:/Users/Loïc/Downloads/WebSemantic_projet-master/rapport/Rapport_Web_Semant
 ic_COUILLEROT_MAHIER_PHALAVANDISHVILI.tex
@@ -623,11 +623,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 92--93
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 94--95
-
- []
-
 [5]
 Underfull \hbox (badness 10000) in paragraph at lines 102--103
 
@@ -653,94 +648,101 @@ Underfull \hbox (badness 10000) in paragraph at lines 138--139
 
  []
 
+<picture/graphe_linked_data.png, id=128, 1086.0575pt x 377.41pt>
+File: picture/graphe_linked_data.png Graphic file (type png)
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--149
+<use picture/graphe_linked_data.png>
+Package pdftex.def Info: picture/graphe_linked_data.png used on input line 146.
 
- []
-
+(pdftex.def)             Requested size: 491.25685pt x 170.71652pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 158--159
 
  []
 
-[8]
-Underfull \hbox (badness 10000) in paragraph at lines 160--161
+[8 <./picture/graphe_linked_data.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 162--163
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
 
  []
 
-[9] <picture/linked_data.png, id=136, 501.875pt x 281.05pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
+
+ []
+
+[9] <picture/linked_data.png, id=139, 501.875pt x 281.05pt>
 File: picture/linked_data.png Graphic file (type png)
 
 <use picture/linked_data.png>
-Package pdftex.def Info: picture/linked_data.png used on input line 174.
+Package pdftex.def Info: picture/linked_data.png used on input line 184.
 (pdftex.def)             Requested size: 304.84909pt x 170.71652pt.
  [10 <./picture/linked_data.png>]
-<picture/constructv1.png, id=144, 832.10875pt x 943.525pt>
+<picture/constructv1.png, id=146, 832.10875pt x 943.525pt>
 File: picture/constructv1.png Graphic file (type png)
 
 <use picture/constructv1.png>
-Package pdftex.def Info: picture/constructv1.png used on input line 192.
+Package pdftex.def Info: picture/constructv1.png used on input line 202.
 (pdftex.def)             Requested size: 426.57912pt x 483.69684pt.
  [11 <./picture/constructv1.png (PNG copy)>]
-<picture/constructv2.png, id=150, 931.48pt x 943.525pt>
+<picture/constructv2.png, id=152, 931.48pt x 943.525pt>
 File: picture/constructv2.png Graphic file (type png)
 
 <use picture/constructv2.png>
-Package pdftex.def Info: picture/constructv2.png used on input line 203.
+Package pdftex.def Info: picture/constructv2.png used on input line 213.
 (pdftex.def)             Requested size: 477.52162pt x 483.69684pt.
  [12 <./picture/constructv2.png (PNG copy)>]
-<picture/inference1.png, id=156, 450.68375pt x 236.885pt>
+<picture/inference1.png, id=158, 450.68375pt x 236.885pt>
 File: picture/inference1.png Graphic file (type png)
 
 <use picture/inference1.png>
-Package pdftex.def Info: picture/inference1.png used on input line 214.
+Package pdftex.def Info: picture/inference1.png used on input line 224.
 (pdftex.def)             Requested size: 378.93623pt x 199.16928pt.
 
-<picture/result_inference1.png, id=157, 1454.43375pt x 596.2275pt>
+<picture/result_inference1.png, id=159, 1454.43375pt x 596.2275pt>
 File: picture/result_inference1.png Graphic file (type png)
 
 <use picture/result_inference1.png>
-Package pdftex.def Info: picture/result_inference1.png used on input line 224.
+Package pdftex.def Info: picture/result_inference1.png used on input line 234.
 (pdftex.def)             Requested size: 485.84573pt x 199.16928pt.
  [13 <./picture/inference1.png (PNG copy)> <./picture/result_inference1.png>]
-<picture/inference2.png, id=165, 503.8825pt x 225.84375pt>
+<picture/inference2.png, id=167, 503.8825pt x 225.84375pt>
 File: picture/inference2.png Graphic file (type png)
 
 <use picture/inference2.png>
-Package pdftex.def Info: picture/inference2.png used on input line 235.
+Package pdftex.def Info: picture/inference2.png used on input line 245.
 (pdftex.def)             Requested size: 444.39442pt x 199.16928pt.
 
-<picture/result_inference2.png, id=166, 1458.44875pt x 605.26125pt>
+<picture/result_inference2.png, id=168, 1458.44875pt x 605.26125pt>
 File: picture/result_inference2.png Graphic file (type png)
 
 <use picture/result_inference2.png>
-Package pdftex.def Info: picture/result_inference2.png used on input line 245.
+Package pdftex.def Info: picture/result_inference2.png used on input line 255.
 (pdftex.def)             Requested size: 479.90982pt x 199.16928pt.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 251.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 261.
  [14 <./picture/inference2.png (PNG copy)> <./picture/result_inference2.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 251.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 261.
 
 (Rapport_Web_Semantic_COUILLEROT_MAHIER_PHALAVANDISHVILI.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 251.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 251.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 261.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 261.
 Package rerunfilecheck Info: File `Rapport_Web_Semantic_COUILLEROT_MAHIER_PHALA
 VANDISHVILI.out' has not changed.
 (rerunfilecheck)             Checksum: B1A922A31A093921E4E00455D45E5798;1048.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 251.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 261.
  ) 
 Here is how much of TeX's memory you used:
- 7067 strings out of 493634
- 102181 string characters out of 3143744
- 192520 words of memory out of 3000000
- 10322 multiletter control sequences out of 15000+200000
+ 7074 strings out of 493634
+ 102358 string characters out of 3143744
+ 192582 words of memory out of 3000000
+ 10327 multiletter control sequences out of 15000+200000
  18437 words of font info for 43 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 30i,12n,43p,1531b,439s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 30i,13n,43p,1531b,439s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-super-t1.enc}<C:/Pro
 gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX
@@ -755,9 +757,9 @@ s/MiKTeX 2.9/fonts/type1/public/cm-super/sfsx1728.pfb><C:/Program Files/MiKTeX
 2.9/fonts/type1/public/cm-super/sfsx2074.pfb><C:/Program Files/MiKTeX 2.9/fonts
 /type1/public/cm-super/sftt1200.pfb>
 Output written on Rapport_Web_Semantic_COUILLEROT_MAHIER_PHALAVANDISHVILI.pdf (
-14 pages, 567671 bytes).
+14 pages, 619322 bytes).
 PDF statistics:
- 227 PDF objects out of 1000 (max. 8388607)
- 38 named destinations out of 1000 (max. 500000)
- 156 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 229 PDF objects out of 1000 (max. 8388607)
+ 39 named destinations out of 1000 (max. 500000)
+ 161 words of extra memory for PDF output out of 10000 (max. 10000000)
 
