@@ -12,5 +12,7 @@
 \contentsline {subsection}{\numberline {4.2}Modification du ''construct''}{7}{subsection.4.2}
 \contentsline {subsection}{\numberline {4.3}\IeC {\'E}criture d'une requ\IeC {\^e}te f\IeC {\'e}d\IeC {\'e}r\IeC {\'e}e}{8}{subsection.4.3}
 \contentsline {section}{\numberline {5}Inf\IeC {\'e}rence}{9}{section.5}
-\contentsline {section}{\numberline {6}Conclusion}{10}{section.6}
-\contentsline {section}{\numberline {7}Annexe}{11}{section.7}
+\contentsline {section}{\numberline {6}Cloud linked data}{10}{section.6}
+\contentsline {section}{\numberline {7}VoID}{10}{section.7}
+\contentsline {section}{\numberline {8}Conclusion}{10}{section.8}
+\contentsline {section}{\numberline {9}Annexe}{12}{section.9}
