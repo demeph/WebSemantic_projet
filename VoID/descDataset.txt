@@ -15,10 +15,9 @@
 					dcterms:publisher       :Carol_C;
 					dcterms:modified        "2017-11-16"^^xsd:date ;
 			    	dcterms:license 		<http://www.opendatacommons.org/odc-public-domain-dedication-and-licence/> ;
-			    wv:waiver """To the extent possible under law, The Example Organisation has waived all
-          copyright and related or neighboring rights to The Example Dataset.""" ;
-			    		void:feature			<http://www.w3.org/ns/formats/Turtle>
-			    		void:triples         	210222;
+			    	wv:waiver """To the extent possible under law, The Example Organisation has waived all copyright and related or neighboring rights to The Example Dataset.""" ;
+			    	void:feature			<http://www.w3.org/ns/formats/Turtle>
+			    	void:triples         	210222;
 			    	void:sparqlEndpoint		<http://localhost:3030/notreDataset/sparql>
 
 <dataset.rdf> 		void:inDataset 			<dataset.ttl#notreDataset>
