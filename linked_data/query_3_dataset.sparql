@@ -30,5 +30,7 @@ WHERE {
             dbo:formationYear   ?annee.
     }
 }
-Group By ?region ?annee
-Order By ?nbEtudiant
+Group By ?region ?codeRegion ?annee ?codeRegionClem ?codeRegionYvan
+Order By ?region ?annee
+
+
